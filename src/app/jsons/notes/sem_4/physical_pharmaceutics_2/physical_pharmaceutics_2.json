@@ -1,0 +1,149 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Physical Pharmaceutics 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Colloidal dispersions",
+                                    "paragraph": "Classification of dispersed systems & their general characteristics, size & shapes of colloidal particles, classification of colloids & comparative account of their general properties. Optical, kinetic & electrical properties. Effect of electrolytes, coacervation, peptization & protective action."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Eology",
+                                    "paragraph": "Newtonian systems, law of flow, kinematic viscosity, effect of temperature, non-Newtonian systems, pseudoplastic, dilatant, plastic, thixotropy, thixotropy in formulation, determination of viscosity, capillary, falling Sphere, rotational viscometers."
+                                },
+                                {
+                                    "header": "Deformation of solids",
+                                    "paragraph": "Plastic and elastic deformation, Heckel equation, Stress, Strain, Elastic Modulus."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Coarse dispersion",
+                                    "paragraph": "Suspension, interfacial properties of suspended particles, settling in suspensions, formulation of flocculated and deflocculated suspensions. Emulsions and theories of emulsification, microemulsion and multiple emulsions; Stability of emulsions, preservation of emulsions, rheological properties of emulsions and emulsion formulation by HLB method."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Micromeretics",
+                                    "paragraph": "Particle size and distribution, mean particle size, number and weight distribution, particle number, methods for determining particle size by different methods, counting and separation method, particle shape, specific surface, methods for determining surface area, permeability, adsorption, derived properties of powders, porosity, packing arrangement, densities, bulkiness & flow properties."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drug stability",
+                                    "paragraph": "Reaction kinetics - zero, pseudo-zero, first & second order. Units of basic rate constants, determination of reaction order. Physical and chemical factors influencing the chemical degradation of pharmaceutical products - temperature, solvent, ionic strength, dielectric constant, specific & general acid-base catalysis, Simple numerical problems. Stabilization of medicinal agents against common reactions like hydrolysis & oxidation. Accelerated stability testing in expiration dating of pharmaceutical dosage forms. Photolytic degradation and its prevention."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

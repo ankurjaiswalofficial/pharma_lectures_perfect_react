@@ -1,0 +1,169 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Novel Drug Delivery Systems",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Controlled drug delivery systems:",
+                                    "paragraph": "Introduction, terminology/definitions and rationale, advantages, disadvantages, selection of drug candidates.Approaches to design controlled release formulations based on diffusion, dissolution and ion exchange principles. Physicochemical and biological properties of drugs relevant to controlled release formulations"
+                                },
+                                {
+                                    "header": "polymers:",
+                                    "paragraph": "Introduction, classification, properties, advantages and application of polymers in formulation of controlled release drug delivery"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "microencapsulation:",
+                                    "paragraph": "Definition, advantages and disadvantages, microspheres/microcapsules, microparticles, methods of microencapsulation, applications"
+                                },
+                                {
+                                    "header": "Mucosal Drug Delivery system:",
+                                    "paragraph": "Introduction, Principles of bioadhesion /mucoadhesion, concepts, advantages and disadvantages, transmucosal permeability and formulation considerations of buccal delivery systems"
+                                },
+                                {
+                                    "header": "Implantable Drug Delivery Systems:",
+                                    "paragraph": "Introduction, advantages and disadvantages, concept of implantsand osmotic pump"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Transdermal Drug Delivery Systems:",
+                                    "paragraph": "Introduction, Permeation through skin, factors affecting permeation, permeation enhancers, basic components of TDDS, formulation approaches"
+                                },
+                                {
+                                    "header": "Gastroretentive drug delivery systems:",
+                                    "paragraph": "Introduction, advantages, disadvantages, approaches for GRDDS - Floating, high density systems, inflatable and gastroadhesive systems and their applications"
+                                },
+                                {
+                                    "header": "Nasopulmonary drug delivery system:",
+                                    "paragraph": "Introduction to Nasal and Pulmonary routes of drug delivery, Formulation of Inhalers (dry powder and metered dose), nasal sprays, nebulizers"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Targeted drug Delivery:",
+                                    "paragraph": "Concepts and approaches advantages and disadvantages, introduction to liposomes, niosomes, nanoparticles, monoclonal antibodies and their applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Ocular Drug Delivery Systems:",
+                                    "paragraph": "Introduction, intra ocular barriers and methods to overcome - Preliminary study, ocular formulations and ocuserts"
+                                },
+                                {
+                                    "header": "Intrauterine Drug Delivery Systems:",
+                                    "paragraph": "Introduction, advantages and disadvantages, development of intra uterine devices (IUDs) and applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

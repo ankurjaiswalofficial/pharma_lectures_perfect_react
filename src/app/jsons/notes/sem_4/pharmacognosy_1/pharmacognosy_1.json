@@ -1,0 +1,181 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacognosy 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to Pharmacognosy",
+                                    "paragraph": "Definition, history, scope and development of Pharmacognosy <br>Sources of Drugs - Plants, Animals, Marine & Tissue culture. <br><br>Organized drugs, unorganized drugs (dried latex, dried juices, dried extracts, gums and mucilages, oleoresins and oleo-gum-resins)."
+                                },
+                                {
+                                    "header": "Classification of drugs",
+                                    "paragraph": "Alphabetical, morphological, taxonomical, chemical, pharmacological, chemo and sero taxonomical classification of drugs. <br><br>Quality control of Drugs of Natural Origin: Adulteration of drugs of natural origin. Evaluation by organoleptic, microscopic, physical, chemical and biological methods and properties. Quantitative microscopy of crude drugs including lycopodium spore method, leaf constants, camera lucida and diagrams of microscopic objects to scale with camera lucida."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Cultivation, Collection, Processing and storage of drugs of natural origin",
+                                    "paragraph": "Cultivation and Collection of drugs of natural origin<br>Factors influencing cultivation of medicinal plants.<br>Plant hormones and their applications.<br>Polyploidy, mutation and hybridization with reference to medicinal plants.<br><br>Conservation of medicinal plants"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Cholinergic neurotransmitters",
+                                    "paragraph": "Biosynthesis and catabolism of acetylcholine. Cholinergic receptors (Muscarinic & Nicotinic) and their distribution."
+                                },
+                                {
+                                    "header": "Parasympathomimetic agents: SAR of Parasympathomimetic agents",
+                                    "paragraph": "Direct acting agents: Acetylcholine, Carbachol, Bethanechol, Methacholine, Pilocarpine. Indirect acting/ Cholinesterase inhibitors (Reversible & Irreversible): Physostigmine, Neostigmine, Pyridostigmine, Edrophonium chloride, Tacrine hydrochloride, Ambenonium chloride, Isofluorphate, Echothiophate iodide, Parathione, Malathion."
+                                },
+                                {
+                                    "header": "Cholinesterase reactivator",
+                                    "paragraph": "Pralidoxime chloride."
+                                },
+                                {
+                                    "header": "Cholinergic Blocking agents: SAR of cholinolytic agents",
+                                    "paragraph": "Synthetic cholinergic blocking agents: Atropine sulphate, Hyoscyamine sulphate, Scopolamine hydrobromide, Homatropine hydrobromide, Ipratropium bromide*. Synthetic cholinergic blocking agents: Tropicamide, Cyclopentolate hydrochloride, Clidinium bromide, Dicyclomine hydrochloride, Glycopyrrolate, Methantheline bromide, Propantheline bromide, Benztropine mesylate, Orphenadrine citrate, Biperidine hydrochloride, Procyclidine hydrochloride, Tridihexethyl chloride, Isopropamide iodide, Ethopropazine hydrochloride."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "1. Sedatives and Hypnotics<br>Benzodiazepines",
+                                    "paragraph": "SAR of Benzodiazepines, Chlordiazepoxide, Diazepam, Oxazepam, Chlorazepate, Lorazepam, Alprazolam, Zolpidem<br>Barbiturtes:<br>SAR of barbiturates, Barbital, Phenobarbital, Mephobarbital, Amobarbital, Butabarbital, Pentobarbital, Secobarbital<br>Miscelleneous:<br>Amides & imides: Glutethmide.<br>Alcohol & their carbamate derivatives: Meprobomate, Ethchlorvynol.<br>Aldehyde & their derivatives: Triclofos sodium, Paraldehyde.<br>"
+                                },
+                                {
+                                    "header": "2. B<br>Phenothiazeines:",
+                                    "paragraph": "SAR of Phenothiazeines - Promazine hydrochloride, Chlorpromazine hydrochloride,<br>Triflupromazine, Thioridazine hydrochloride, Piperacetazine hydrochloride,<br>Prochlorperazine maleate, Trifluoperazine hydrochloride.<br>Ring Analogues of Phenothiazeines:<br>Chlorprothixene, Thiothixene, Loxapine succinate, Clozapine.<br>Fluro buterophenones: Haloperidol, Droperidol, Risperidone.<br>Beta amino ketones: Molindone hydrochloride.<br>Benzamides: Sulpieride.<br>"
+                                },
+                                {
+                                    "header": "3. Anticonvulsants:",
+                                    "paragraph": "SAR of Anticonvulsants, mechanism of anticonvulsant action<br>Barbiturates: Phenobarbitone, Methabarbital.<br>Hydantoins: Phenytoin, Mephenytoin, Ethotoin<br>Oxazolidine diones: Trimethadione, Paramethadione<br>Succinimides: Phensuximide, Methsuximide, Ethosuximide*<br>Urea and monoacylureas: Phenacemide, Carbamazepine*<br>Benzodiazepines: Clonazepam<br>Miscellaneous: Primidone, Valproic acid , Gabapentin, Felbamate"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "General anesthetics",
+                                    "paragraph": "Inhalation anesthetics - Halothane, Methoxyflurane, Enflurane, Sevoflurane, Isoflurane, Desflurane. <br>Ultra short-acting barbiturates - Methohexital sodium, Thiamylal sodium, Thiopental sodium. <br>Dissociative anesthetics - Ketamine hydrochloride."
+                                },
+                                {
+                                    "header": "Narcotic and non-narcotic analgesics",
+                                    "paragraph": "Morphine and related drugs - SAR of Morphine analogs, Morphine sulfate, Codeine, Meperidine hydrochloride, Anilerdine hydrochloride, Diphenoxylate hydrochloride, Loperamide hydrochloride, Fentanyl citrate, Methadone hydrochloride, Propoxyphene hydrochloride, Pentazocine, Levorphanol tartarate.<br> Narcotic antagonists - Nalorphine hydrochloride, Levallorphan tartarate, Naloxone hydrochloride. <br>Anti-inflammatory agents - Sodium salicylate, Aspirin, Mefenamic acid, Meclofenamate, Indomethacin, Sulindac, Tolmetin, Zomepriac, Diclofenac, Ketorolac, Ibuprofen, Naproxen, Piroxicam, Phenacetin, Acetaminophen, Antipyrine, Phenylbutazone."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

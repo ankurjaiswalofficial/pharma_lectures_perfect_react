@@ -1,0 +1,65 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 3 - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on Respiratory system",
+                                    "paragraph": "Anti -asthmatic drugs<br>Drugs used in the management of COPD<br>Expectorants and antitussives<br>Nasal decongestants<br>Respiratory stimulants"
+                                },
+                                {
+                                    "header": "2. Pharmacology of drugs acting on the Gastrointestinal Tract",
+                                    "paragraph": "Antiulcer agents.<br>Drugs for constipation and diarrhoea.<br>Appetite stimulants and suppressants.<br>Digestants and carminatives.<br>Emetics and anti-emetics."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_6/pharmacology_3/units/unit_1/notes_sem_6_pharmacology_3_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

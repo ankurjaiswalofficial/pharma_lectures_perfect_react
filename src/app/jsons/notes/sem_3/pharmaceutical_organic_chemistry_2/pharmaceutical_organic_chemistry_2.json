@@ -1,0 +1,153 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Benzene and its derivatives",
+                                    "paragraph": "Analytical, synthetic and other evidences in the derivation of structure of benzene, Orbital picture, resonance in benzene, aromatic characters, Huckel\u00e2\u20ac\u2122s rule<br>Reactions of benzene - nitration, sulphonation, halogenation reactivity, Friedelcrafts alkylation- reactivity, limitations, Friedelcrafts acylation.<br>Substituents, effect of substituents on reactivity and orientation of mono substituted benzene compounds towards electrophilic substitution reaction<br>Structure and uses of DDT, Saccharin, BHC and Chloramine"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_organic_chemistry_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Phenol*",
+                                    "paragraph": "Acidity of phenols, effect of substituents on acidity, qualitative tests, Structure and uses of phenol, cresols, resorcinol, naphthols"
+                                },
+                                {
+                                    "header": "Aromatic Amines*",
+                                    "paragraph": "Basicity of amines, effect of substituents on basicity, and synthetic uses of aryl diazonium salts"
+                                },
+                                {
+                                    "header": "Aromatic Acids*",
+                                    "paragraph": "Acidity, effect of substituents on acidity and important reactions of benzoic acid."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_organic_chemistry_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Fats and Oils",
+                                    "paragraph": "Fatty acids - reactions.<br>Hydrolysis, Hydrogenation, Saponification and Rancidity of oils, Drying oils.<br>Analytical constants - Acid value, Saponification value, Ester value, Iodine value, Acetyl value, Reichert Meissl (RM) value - significance and principle involved in their determination."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_organic_chemistry_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Polynuclear hydrocarbons",
+                                    "paragraph": "Synthesis, reactions<br>Structure and medicinal uses of Naphthalene, Phenanthrene, Anthracene, Diphenylmethane, Triphenylmethane and their derivatives"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_organic_chemistry_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Cyclo alkanes*",
+                                    "paragraph": "Stabilities - Baeyer\u00e2\u20ac\u2122s strain theory, limitation of Baeyer\u00e2\u20ac\u2122s strain theory, Coulson and Moffitt\u00e2\u20ac\u2122s modification, Sachse Mohr\u00e2\u20ac\u2122s theory (Theory of strainless rings), reactions of cyclopropane and cyclobutane only"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_organic_chemistry_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

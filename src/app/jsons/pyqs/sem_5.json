@@ -1,0 +1,209 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "Vth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_5/industrial_pharmacy_1/aktu/pyqs_sem_5_industrial_pharmacy_1_aktu.pdf",
+                    "text": {
+                        "header": "Industrial Pharmacy 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/medicinal_chemistry_2/aktu/pyqs_sem_5_medicinal_chemistry_2_aktu.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmaceutical_jurisprudence/aktu/pyqs_sem_5_pharmaceutical_jurisprudence_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Jurisprudence",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Jurisprudence - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmacognosy_2/aktu/pyqs_sem_5_pharmacognosy_2_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacognosy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmacology/aktu/pyqs_sem_5_pharmacology_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Vth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_5/industrial_pharmacy_1/rgpv/pyqs_sem_5_industrial_pharmacy_1_rgpv.pdf",
+                    "text": {
+                        "header": "Industrial Pharmacy 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/medicinal_chemistry_2/rgpv/pyqs_sem_5_medicinal_chemistry_2_rgpv.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmaceutical_jurisprudence/rgpv/pyqs_sem_5_pharmaceutical_jurisprudence_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Jurisprudence",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Jurisprudence - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmacognosy_2/rgpv/pyqs_sem_5_pharmacognosy_2_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacognosy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_5/pharmacology/rgpv/pyqs_sem_5_pharmacology_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Vth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_5/complete/csvtu/pyqs_sem_5_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Vth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_5/complete/snvp/pyqs_sem_5_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

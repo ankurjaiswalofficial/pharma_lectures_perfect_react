@@ -1,0 +1,149 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Physical Pharmaceutics 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Solubility of drugs",
+                                    "paragraph": "Solubility expressions, mechanisms of solute solvent interactions, ideal solubility parameters, solvation & association, quantitative approach to the factors influencing solubility of drugs, diffusion principles in biological systems. Solubility of gas in liquids, solubility of liquids in liquids, (Binary solutions, ideal solutions) Raoult\u00e2\u20ac\u2122s law, real solutions. Partially miscible liquids, Critical solution temperature and applications. Distribution law, its limitations and applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/physical_pharmaceutics_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "States of Matter and properties of matter",
+                                    "paragraph": "State of matter, changes in the state of matter, latent heats, vapour pressure, sublimation critical point, eutectic mixtures, gases, aerosols - inhalers, relative humidity, liquid complexes, liquid crystals, glassy states, solid crystalline, amorphous & polymorphism."
+                                },
+                                {
+                                    "header": "Physicochemical properties of drug molecules",
+                                    "paragraph": "Refractive index, optical rotation, dielectric constant, dipole moment, dissociation constant, determinations and applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/physical_pharmaceutics_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Surface and interfacial phenomenon",
+                                    "paragraph": "Liquid interface, surface & interfacial tensions, surface free energy, measurement of surface & interfacial tensions, spreading coefficient, adsorption at liquid interfaces, surface active agents, HLB Scale, solubilisation, detergency, adsorption at solid interface."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/physical_pharmaceutics_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Complexation and protein binding",
+                                    "paragraph": "Introduction, Classification of Complexation, Applications, methods of analysis, protein binding, Complexation and drug action, crystalline structures of complexes and thermodynamic treatment of stability constants."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/physical_pharmaceutics_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "pH, buffers and Isotonic solutions",
+                                    "paragraph": "Sorensen\u00e2\u20ac\u2122s pH scale, pH determination (electrometric and calorimetric), applications of buffers, buffer equation, buffer capacity, buffers in pharmaceutical and biological systems, buffered isotonic solutions."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/physical_pharmaceutics_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Herbal Drug Technology",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Herbs as raw material",
+                                    "paragraph": "Definition of herb, herbal medicine, herbal medicinal product, herbal drug preparation Source of Herbs<br><br>Selection, identification and authentication of herbal materials Processing of herbal raw material"
+                                },
+                                {
+                                    "header": "Biodynamic Agriculture",
+                                    "paragraph": "Good agricultural practices in cultivation of medicinal plants including Organic farming.<br>Pest and Pest management in medicinal plants: Biopesticides/Bioinsecticides."
+                                },
+                                {
+                                    "header": "Indian Systems of Medicine",
+                                    "paragraph": "Basic principles involved in Ayurveda, Siddha, Unani and Homeopathy<br>Preparation and standardization of Ayurvedic formulations viz Aristas and Asawas, Ghutika,Churna, Lehya and Bhasma."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/herbal_drug_technology/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Nutraceuticals",
+                                    "paragraph": "General aspects, Market, growth, scope and types of products available in the market. Health<br><br>Benefits and role of Nutraceuticals in ailments like Diabetes, CVS diseases, Cancer, Irritable<br><br>Bowel syndrome and various Gastro intestinal diseases. Study of following herbs as health food: Alfaalfa, Chicory, Ginger, Fenugreek, Garlic, Honey, Amla, Ginseng, Ashwagandha, Spirulina"
+                                },
+                                {
+                                    "header": "Herbal-Drug and Herb-Food Interactions:",
+                                    "paragraph": "General introduction to interaction and classification. Study of following drugs and their possible side effects and interactions:<br>Hypercium, kava-kava, Ginkobiloba, Ginseng, Garlic, Pepper & Ephedra"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/herbal_drug_technology/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Herbal Cosmetics",
+                                    "paragraph": "Sources and description of raw materials of herbal origin used via, fixed oils, waxes, gums colours, perfumes, protective agents, bleaching agents, antioxidants in products such as skin care, hair care and oral hygiene products."
+                                },
+                                {
+                                    "header": "Herbal excipients:",
+                                    "paragraph": "Herbal Excipients - Significance of substances of natural origin as excipients - colorants, sweeteners, binders, diluents, viscosity builders, disintegrants, flavors & perfumes."
+                                },
+                                {
+                                    "header": "Herbal formulations:",
+                                    "paragraph": "Conventional herbal formulations like syrups, mixtures and tablets and Novel dosage forms like phytosomes"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/herbal_drug_technology/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

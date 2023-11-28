@@ -1,0 +1,45 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "text_contents": [],
+            "buttons": [
+                {
+                    "link": "/uploads/important_questions/sem_4/pharmacology_1/important_questions_sem_4_pharmacology_1.pdf",
+                    "text": {
+                        "header": "Download PDF",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/download.png",
+                        "alt": "Important Questions Download Link Image",
+                        "about": "Important Questions Download Link Image"
+                    },
+                    "disabled": "true"
+                }
+            ],
+            "cards": [
+                {
+                    "link": "",
+                    "text": {
+                        "header": "",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "",
+                        "alt": "",
+                        "about": ""
+                    }
+                }
+            ],
+            "description_2": ""
+        }
+    ]
+}

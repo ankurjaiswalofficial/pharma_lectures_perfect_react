@@ -1,0 +1,145 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. General Pharmacology",
+                                    "paragraph": "Introduction to Pharmacology - Definition, historical landmarks and scope of pharmacology, nature and source of drugs, essential drugs concept and routes of drug administration, Agonists, antagonists (competitive and non-competitive), spare receptors, addiction, tolerance, dependence, tachyphylaxis, idiosyncrasy, allergy.<br>Pharmacokinetics - Membrane transport, absorption, distribution, metabolism and excretion of drugs. Enzyme induction, enzyme inhibition, kinetics of elimination."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "General Pharmacology",
+                                    "paragraph": "Pharmacodynamics - Principles and mechanisms of drug action. Receptor theories and classification of receptors, regulation of receptors. Drug receptors interactions signal transduction mechanisms, G-protein-coupled receptors, ion channel receptor, transmembrane enzyme linked receptors, transmembrane JAK-STAT binding receptor and receptors that regulate transcription factors, dose response relationship, therapeutic index, combined effects of drugs and factors modifying drug action.<br><br>Adverse drug reactions.,<br>Drug interactions (pharmacokinetic and pharmacodynamic),<br>Drug discovery and clinical evaluation of new drugs -Drug discovery phase, preclinical evaluation phase, clinical trial phase, phases of clinical trials and pharmacovigilance."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "2. Pharmacology of drugs acting on peripheral nervous system",
+                                    "paragraph": "Organization and function of ANS.<br>Neurohumoral transmission, co-transmission and classification of neurotransmitters.<br>Parasympathomimetics, Parasympatholytics, Sympathomimetics, sympatholytics.<br>Neuromuscular blocking agents and skeletal muscle relaxants (peripheral).<br>Local anesthetic agents.<br>Drugs used in myasthenia gravis and glaucoma"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "3. Pharmacology of drugs acting on central nervous system",
+                                    "paragraph": "Neurohumoral transmission in the C.N.S. special emphasis on importance of various neurotransmitters like with GABA, Glutamate, Glycine, serotonin, dopamine.<br>General anesthetics and pre-anesthetics.<br>Sedatives, hypnotics and centrally acting muscle relaxants.<br>Anti-epileptics<br>Alcohols and disulfiram"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "3. Pharmacology of drugs acting on central nervous system",
+                                    "paragraph": "Drugs used in Parkinson's disease and Alzheimer\u00e2\u20ac\u2122s disease.<br>CNS stimulants and nootropics.<br>Opioid analgesics and antagonists<br>Drug addiction, drug abuse, tolerance and dependence."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

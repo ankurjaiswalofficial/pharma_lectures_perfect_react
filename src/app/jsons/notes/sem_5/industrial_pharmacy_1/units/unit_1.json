@@ -1,0 +1,61 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Industrial Pharmacy 1 - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Preformulation Studies: ",
+                                    "paragraph": " Introduction to preformulation, goals and objectives, study of physicochemical characteristics of drug substances.<br><br>Physical properties: Physical form (crystal & amorphous), particle size, shape, flow properties, solubility profile (pKa, pH, partition coefficient), polymorphism<br>Chemical Properties: Hydrolysis, oxidation, reduction, racemisation, polymerization<br>BCS classification of drugs & its significant<br><br>Application of preformulation considerations in the development of solid, liquid oral and parenteral dosage forms and its impact on stability of dosage forms."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_5/industrial_pharmacy_1/units/unit_1/notes_sem_5_industrial_pharmacy_1_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

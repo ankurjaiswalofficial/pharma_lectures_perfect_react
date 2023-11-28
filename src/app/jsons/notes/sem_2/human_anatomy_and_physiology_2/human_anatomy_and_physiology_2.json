@@ -1,0 +1,157 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Human Anatomy And Physiology 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Nervous system",
+                                    "paragraph": "Organization of nervous system, neuron, neuroglia, classification and properties of nerve fibre, electrophysiology, action potential, nerve impulse, receptors, synapse, neurotransmitters. Central nervous system: Meninges, ventricles of brain and cerebrospinal fluid.structure and functions of brain (cerebrum, brain stem, cerebellum), spinal cord (gross structure, functions of afferent and efferent nerve tracts,reflex activity)"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Digestive system",
+                                    "paragraph": "Anatomy of GI Tract with special reference to anatomy and functions of stomach, ( Acid production in the stomach, regulation of acid production through parasympathetic nervous system, pepsin role in protein digestion) small intestine and large intestine, anatomy and functions of salivary glands, pancreas and liver, movements of GIT, digestion and absorption of nutrients and disorders of GIT."
+                                },
+                                {
+                                    "header": "Energetics",
+                                    "paragraph": "Formation and role of ATP, Creatinine Phosphate and BMR."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Respiratory system",
+                                    "paragraph": "Anatomy of respiratory system with special reference to anatomy of lungs, mechanism of respiration, regulation of respiration<br>Lung Volumes and capacities transport of respiratory gases, artificial respiration, and resuscitation methods."
+                                },
+                                {
+                                    "header": "Urinary system",
+                                    "paragraph": "Anatomy of urinary tract with special reference to anatomy of kidney and nephrons, functions of kidney and urinary tract, physiology of urine formation, micturition reflex and role of kidneys in acid base balance, role of RAS in kidney and disorders of kidney."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Endocrine system",
+                                    "paragraph": "Classification of hormones, mechanism of hormone action, structure and functions of pituitary gland, thyroid gland, parathyroid gland, adrenal gland, pancreas, pineal gland, thymus and their disorders."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Reproductive system",
+                                    "paragraph": "Anatomy of male and female reproductive system, Functions of male and female reproductive system, sex hormones, physiology of menstruation, fertilization, spermatogenesis, oogenesis, pregnancy and parturition.<br>Introduction to genetics Chromosomes, genes and DNA, protein synthesis, genetic pattern of inheritance."
+                                },
+                                {
+                                    "header": "Introduction to genetics",
+                                    "paragraph": "Chromosomes, genes and DNA, protein synthesis, genetic pattern of inheritance."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "6th Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Pharmacology 3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_6/medicinal_chemistry_3",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Medicinal_Chemistry_3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Biotechnology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_6/herbal_drug_technology",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Herbal_Drug_Technology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_quality_assurance",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Quality_Assurance",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIth Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Biopharmaceutics_And_Pharmacokinetics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biopharmaceutics_And_Pharmacokinetics - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Biotechnology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biotechnology - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Herbal_Drug_Technology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Herbal_Drug_Technology - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Pharmaceutical_Quality_Assurance",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical_Quality_Assurance - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Pharmacology_3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology_3 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_6",
+                    "text": {
+                        "header": "Medicinal_Chemistry_3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal_Chemistry_3 - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "6th Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_6/pharmacology_3",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Pharmacology_3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_6/medicinal_chemistry_3",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Medicinal_Chemistry_3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_6/pharmaceutical_biotechnology",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Biotechnology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_6/herbal_drug_technology",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Herbal_Drug_Technology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_6/pharmaceutical_quality_assurance",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Quality_Assurance",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

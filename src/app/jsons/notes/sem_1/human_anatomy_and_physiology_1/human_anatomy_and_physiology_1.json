@@ -1,0 +1,169 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Human Anatomy And Physiology 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to human body",
+                                    "paragraph": "Definition and scope of anatomy and physiology, levels of structural organization and body systems, basic life processes, homeostasis, basic anatomical terminology."
+                                },
+                                {
+                                    "header": "Cellular level of organization",
+                                    "paragraph": "Structure and functions of cell, transport across cell membrane, cell division, cell junctions. General principles of cell communication, intracellular signaling pathway activation by extracellular signal molecule, Forms of intracellular signaling: a) Contact-dependent b) Paracrine c) Synaptic d) Endocrine"
+                                },
+                                {
+                                    "header": "Tissue level of organization",
+                                    "paragraph": "Classification of tissues, structure, location and functions of epithelial, muscular and nervous and connective tissues."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/human_anatomy_and_physiology_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Integumentary system",
+                                    "paragraph": "Structure and functions of skin"
+                                },
+                                {
+                                    "header": "Skeletal system",
+                                    "paragraph": "Divisions of skeletal system, types of bone, salient features and functions of bones of axial and appendicular skeletal system\nOrganization of skeletal muscle, physiology of muscle contraction, neuromuscular junction"
+                                },
+                                {
+                                    "header": "Joints",
+                                    "paragraph": "Structural and functional classification, types of joints movements and its articulation"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/human_anatomy_and_physiology_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Body fluids and blood",
+                                    "paragraph": "Body fluids, composition and functions of blood, hemopoeisis, formation of hemoglobin, anemia, mechanisms of coagulation, blood grouping, Rh factors, transfusion, its significance and disorders of blood, Reticulo endothelial system"
+                                },
+                                {
+                                    "header": "Lymphatic system",
+                                    "paragraph": "Lymphatic organs and tissues, lymphatic vessels, lymph circulation and functions of lymphatic system"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/human_anatomy_and_physiology_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Peripheral nervous system",
+                                    "paragraph": "Classification of peripheral nervous system:\nStructure and functions of sympathetic and parasympathetic nervous system.\nOrigin and functions of spinal and cranial nerves."
+                                },
+                                {
+                                    "header": "Special senses",
+                                    "paragraph": "Structure and functions of eye, ear, nose and tongue and their disorders."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/human_anatomy_and_physiology_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Cardiovascular system",
+                                    "paragraph": "Heart - anatomy of heart, blood circulation, blood vessels, structure and functions of artery, vein and capillaries, elements of conduction system of heart and heart beat, its regulation by autonomic nervous system, cardiac output, cardiac cycle.\nRegulation of blood pressure, pulse, electrocardiogram and disorders of heart."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/human_anatomy_and_physiology_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

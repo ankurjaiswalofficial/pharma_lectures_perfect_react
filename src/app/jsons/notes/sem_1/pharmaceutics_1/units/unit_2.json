@@ -1,0 +1,85 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutics 1 - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical calculations:",
+                                    "paragraph": "Weights and measures - Imperial & Metric system, Calculations involving percentage solutions, alligation, proof spirit and isotonic solutions based on freezing point and molecular weight."
+                                },
+                                {
+                                    "header": "Powders:",
+                                    "paragraph": "Definition, classification, advantages and disadvantages,Simple & compound powders - official preparations, dusting powders, effervescent, efflorescent and hygroscopic powders, eutectic mixtures. Geometric dilutions."
+                                },
+                                {
+                                    "header": "Liquid dosage forms:",
+                                    "paragraph": "Advantages and disadvantages of liquid dosage forms. Excipients used in formulation of liquid dosage forms. Solubility enhancement techniques."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/media/notes/sem_1/pharmaceutics_1/units/unit_2/unit 2 pharmaceutics (Sem1).pdf",
+                                    "download": true,
+                                    "card_is_pdf": true,
+                                    "card_large": true,
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/media/notes/sem_1/pharmaceutics_1/units/unit_2/Code_Emf1nvmgb4.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutics_1/units/unit_2/notes_sem_1_pharmaceutics_1_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

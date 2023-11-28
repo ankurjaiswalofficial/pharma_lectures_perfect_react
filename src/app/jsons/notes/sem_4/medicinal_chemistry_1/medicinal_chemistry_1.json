@@ -1,0 +1,233 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to Medicinal Chemistry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "History and development of medicinal chemistry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Physicochemical properties in relation to biological action",
+                                    "paragraph": "Ionization, Solubility, Partition Coefficient, Hydrogen bonding, Protein binding, Chelation, Bioisosterism, Optical and Geometrical isomerism"
+                                },
+                                {
+                                    "header": "Drug metabolism",
+                                    "paragraph": "Drug metabolism principles- Phase I and Phase II <br> Factors affecting drug metabolism including stereo chemical aspects."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Autonomic Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Adrenergic Neurotransmitters:",
+                                    "paragraph": "Biosynthesis and catabolism of catecholamine.<br><br>Adrenergic receptors (Alpha & Beta) and their distribution."
+                                },
+                                {
+                                    "header": "Sympathomimetic agents: SAR of Sympathomimetic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Direct acting: Nor-epinephrine, Epinephrine, Phenylephrine, Dopamine, Methyldopa, Clonidine, Dobutamine, Isoproterenol, Terbutaline, Salbutamol, Bitolterol, Naphazoline, Oxymetazoline and Xylometazoline.<br>Indirect acting agents: Hydroxyamphetamine, Pseudoephedrine, Propylhexedrine.<br>Agents with mixed mechanism: Ephedrine, Metaraminol.",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Cholinergic neurotransmitters:",
+                                    "paragraph": "Biosynthesis and catabolism of acetylcholine.<br><br>Cholinergic receptors (Muscarinic & Nicotinic) and their distribution."
+                                },
+                                {
+                                    "header": "Parasympathomimetic agents: SAR of Parasympathomimetic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Direct acting agents:",
+                                    "paragraph": "Acetylcholine, Carbachol, Bethanechol, Methacholine, Pilocarpine."
+                                },
+                                {
+                                    "header": "Indirect acting/ Cholinesterase inhibitors (Reversible & Irreversible):",
+                                    "paragraph": "Physostigmine, Neostigmine, Pyridostigmine, Edrophonium chloride, Tacrine hydrochloride, Ambenonium chloride, Isofluorphate, Echothiophate iodide, Parathione, Malathion."
+                                },
+                                {
+                                    "header": "Cholinesterase reactivator:",
+                                    "paragraph": "Pralidoxime chloride."
+                                },
+                                {
+                                    "header": "Cholinergic Blocking agents: SAR of cholinolytic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Atropine sulphate, Hyoscyamine sulphate, Scopolamine hydrobromide, Homatropine hydrobromide, Ipratropium bromide*."
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Tropicamide, Cyclopentolate hydrochloride, Clidinium bromide, Dicyclomine hydrochloride, Glycopyrrolate, Methantheline bromide, Propantheline bromide, Benztropine mesylate, Orphenadrine citrate, Biperidine hydrochloride, Procyclidine hydrochloride, Tridihexethyl chloride, Isopropamide iodide, Ethopropazine hydrochloride."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "1. Sedatives and Hypnotics",
+                                    "paragraph": "Benzodiazepines:<br><br>SAR of Benzodiazepines, Chlordiazepoxide, Diazepam, Oxazepam, Chlorazepate, Lorazepam, Alprazolam, Zolpidem                                    <br><br>Barbiturtes:                                    <br><br>SAR of barbiturates, Barbital, Phenobarbital, Mephobarbital, Amobarbital, Butabarbital, Pentobarbital, Secobarbital                                    <br><br>Miscelleneous:                                    <br><br>Amides & imides: Glutethmide.                                    <br><br>Alcohol & their carbamate derivatives: Meprobomate, Ethchlorvynol.                                    <br><br>Aldehyde & their derivatives: Triclofos sodium, Paraldehyde."
+                                },
+                                {
+                                    "header": "2. B",
+                                    "paragraph": "Phenothiazeines:<br><br>SAR of Phenothiazeines - Promazine hydrochloride, Chlorpromazine hydrochloride,                                    <br><br>Triflupromazine, Thioridazine hydrochloride, Piperacetazine hydrochloride,                                    <br><br>Prochlorperazine maleate, Trifluoperazine hydrochloride.                                    <br><br>Ring Analogues of Phenothiazeines:                                    <br><br>Chlorprothixene, Thiothixene, Loxapine succinate, Clozapine.                                    <br><br>Fluro buterophenones: Haloperidol, Droperidol, Risperidone.                                    <br><br>Beta amino ketones: Molindone hydrochloride.                                    <br><br>Benzamides: Sulpieride."
+                                },
+                                {
+                                    "header": "3. Anticonvulsants:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "SAR of Anticonvulsants, mechanism of anticonvulsant action",
+                                    "paragraph": "Barbiturates: Phenobarbitone, Methabarbital.<br><br><br><br>Hydantoins: Phenytoin, Mephenytoin, Ethotoin                                    <br><br>Oxazolidine diones: Trimethadione, Paramethadione                                    <br><br>Succinimides: Phensuximide, Methsuximide, Ethosuximide*                                    <br><br>Urea and monoacylureas: Phenacemide, Carbamazepine*                                    <br><br>Benzodiazepines: Clonazepam                                    <br><br>Miscellaneous: Primidone, Valproic acid , Gabapentin, Felbamate"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "General anesthetics:",
+                                    "paragraph": "Inhalation anesthetics: Halothane, Methoxyflurane, Enflurane, Sevoflurane, Isoflurane, Desflurane.<br><br>Ultra short acting barbitutrates: Methohexital sodium, Thiamylal sodium, Thiopental sodium.<br><br>Dissociative anesthetics: Ketamine hydrochloride."
+                                },
+                                {
+                                    "header": "Narcotic and non-narcotic analgesics",
+                                    "paragraph": "Morphine and related drugs: SAR of Morphine analogues, Morphine sulphate, Codeine, Meperidine hydrochloride, Anilerdine hydrochloride, Diphenoxylate hydrochloride, Loperamide hydrochloride, Fentanyl citrate, Methadone hydrochloride, Propoxyphene hydrochloride, Pentazocine, Levorphanol tartarate."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Narcotic antagonists: Nalorphine hydrochloride, Levallorphan tartarate, Naloxone hydrochloride."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Anti-inflammatory agents: Sodium salicylate, Aspirin, Mefenamic acid, Meclofenamate, Indomethacin, Sulindac, Tolmetin, Zomepriac, Diclofenac, Ketorolac, Ibuprofen, Naproxen, Piroxicam, Phenacetin, Acetaminophen, Antipyrine, Phenylbutazone."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

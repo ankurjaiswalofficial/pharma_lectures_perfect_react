@@ -1,0 +1,69 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 2 - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Antihistaminic agents",
+                                    "paragraph": "Histamine, receptors and their distribution in the humanbody"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "H1-antagonists: Diphenhydramine hydrochloride, Dimenhydrinate, Doxylamines cuccinate, Clemastine fumarate, Diphenylphyraline hydrochloride, Tripelenamine hydrochloride, Chlorcyclizine hydrochloride, Meclizine hydrochloride, Buclizine hydrochloride, Chlorpheniramine maleate, Triprolidine hydrochloride, Phenidamine tartarate, Promethazine hydrochloride, Trimeprazine tartrate, Cyproheptadine hydrochloride, Azatidine maleate, Astemizole, Loratadine, Cetirizine, Levocetrazine Cromolyn sodium<br>H2-antagonists: Cimetidine, Famotidine, Ranitidin.<br>Gastric Proton pump inhibitors: Omeprazole, Lansoprazole, Rabeprazole, Pantoprazole"
+                                },
+                                {
+                                    "header": "Anti-neoplastic agents",
+                                    "paragraph": "Alkylating agents: Meclorethamine, Cyclophosphamide, Melphalan, Chlorambucil, Busulfan, Thiotepa<br><br>Antimetabolites: Mercaptopurine, Thioguanine, Fluorouracil, Floxuridine, Cytarabine, Methotrexate, Azathioprine<br><br>Antibiotics: Dactinomycin, Daunorubicin, Doxorubicin, Bleomycin<br><br>Plant products: Etoposide, Vinblastin sulphate, Vincristin sulphate<br><br>Miscellaneous: Cisplatin, Mitotane."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_5/medicinal_chemistry_2/units/unit_1/notes_sem_5_medicinal_chemistry_2_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

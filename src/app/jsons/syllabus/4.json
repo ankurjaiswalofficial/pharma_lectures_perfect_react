@@ -1,0 +1,387 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text_1": "",
+            "banner_text": "IVth Semester Syllabus",
+            "banner_text_2_span": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2": "B-Pharmacy",
+            "buttons": [],
+            "cards": [],
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Pharmacology 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. General Pharmacology",
+                                    "paragraph": "Introduction to Pharmacology - Definition, historical landmarks and scope of pharmacology, nature and source of drugs, essential drugs concept and routes of drug administration, Agonists, antagonists (competitive and non-competitive), spare receptors, addiction, tolerance, dependence, tachyphylaxis, idiosyncrasy, allergy.<br>Pharmacokinetics - Membrane transport, absorption, distribution, metabolism and excretion of drugs. Enzyme induction, enzyme inhibition, kinetics of elimination."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "General Pharmacology",
+                                    "paragraph": "Pharmacodynamics - Principles and mechanisms of drug action. Receptor theories and classification of receptors, regulation of receptors. Drug receptors interactions signal transduction mechanisms, G-protein-coupled receptors, ion channel receptor, transmembrane enzyme linked receptors, transmembrane JAK-STAT binding receptor and receptors that regulate transcription factors, dose response relationship, therapeutic index, combined effects of drugs and factors modifying drug action.<br><br>Adverse drug reactions.,<br>Drug interactions (pharmacokinetic and pharmacodynamic),<br>Drug discovery and clinical evaluation of new drugs -Drug discovery phase, preclinical evaluation phase, clinical trial phase, phases of clinical trials and pharmacovigilance."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "2. Pharmacology of drugs acting on peripheral nervous system",
+                                    "paragraph": "Organization and function of ANS.<br>Neurohumoral transmission, co-transmission and classification of neurotransmitters.<br>Parasympathomimetics, Parasympatholytics, Sympathomimetics, sympatholytics.<br>Neuromuscular blocking agents and skeletal muscle relaxants (peripheral).<br>Local anesthetic agents.<br>Drugs used in myasthenia gravis and glaucoma"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "3. Pharmacology of drugs acting on central nervous system",
+                                    "paragraph": "Neurohumoral transmission in the C.N.S. special emphasis on importance of various neurotransmitters like with GABA, Glutamate, Glycine, serotonin, dopamine.<br>General anesthetics and pre-anesthetics.<br>Sedatives, hypnotics and centrally acting muscle relaxants.<br>Anti-epileptics<br>Alcohols and disulfiram"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "3. Pharmacology of drugs acting on central nervous system",
+                                    "paragraph": "Drugs used in Parkinson's disease and Alzheimer’s disease.<br>CNS stimulants and nootropics.<br>Opioid analgesics and antagonists<br>Drug addiction, drug abuse, tolerance and dependence."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Medicinal Chemistry 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to Medicinal Chemistry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "History and development of medicinal chemistry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Physicochemical properties in relation to biological action",
+                                    "paragraph": "Ionization, Solubility, Partition Coefficient, Hydrogen bonding, Protein binding, Chelation, Bioisosterism, Optical and Geometrical isomerism"
+                                },
+                                {
+                                    "header": "Drug metabolism",
+                                    "paragraph": "Drug metabolism principles- Phase I and Phase II <br> Factors affecting drug metabolism including stereo chemical aspects."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Autonomic Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Adrenergic Neurotransmitters:",
+                                    "paragraph": "Biosynthesis and catabolism of catecholamine.<br><br>Adrenergic receptors (Alpha & Beta) and their distribution."
+                                },
+                                {
+                                    "header": "Sympathomimetic agents: SAR of Sympathomimetic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Direct acting: Nor-epinephrine, Epinephrine, Phenylephrine, Dopamine, Methyldopa, Clonidine, Dobutamine, Isoproterenol, Terbutaline, Salbutamol, Bitolterol, Naphazoline, Oxymetazoline and Xylometazoline.<br>Indirect acting agents: Hydroxyamphetamine, Pseudoephedrine, Propylhexedrine.<br>Agents with mixed mechanism: Ephedrine, Metaraminol.",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Cholinergic neurotransmitters:",
+                                    "paragraph": "Biosynthesis and catabolism of acetylcholine.<br><br>Cholinergic receptors (Muscarinic & Nicotinic) and their distribution."
+                                },
+                                {
+                                    "header": "Parasympathomimetic agents: SAR of Parasympathomimetic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Direct acting agents:",
+                                    "paragraph": "Acetylcholine, Carbachol, Bethanechol, Methacholine, Pilocarpine."
+                                },
+                                {
+                                    "header": "Indirect acting/ Cholinesterase inhibitors (Reversible & Irreversible):",
+                                    "paragraph": "Physostigmine, Neostigmine, Pyridostigmine, Edrophonium chloride, Tacrine hydrochloride, Ambenonium chloride, Isofluorphate, Echothiophate iodide, Parathione, Malathion."
+                                },
+                                {
+                                    "header": "Cholinesterase reactivator:",
+                                    "paragraph": "Pralidoxime chloride."
+                                },
+                                {
+                                    "header": "Cholinergic Blocking agents: SAR of cholinolytic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Atropine sulphate, Hyoscyamine sulphate, Scopolamine hydrobromide, Homatropine hydrobromide, Ipratropium bromide*."
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Tropicamide, Cyclopentolate hydrochloride, Clidinium bromide, Dicyclomine hydrochloride, Glycopyrrolate, Methantheline bromide, Propantheline bromide, Benztropine mesylate, Orphenadrine citrate, Biperidine hydrochloride, Procyclidine hydrochloride, Tridihexethyl chloride, Isopropamide iodide, Ethopropazine hydrochloride."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "1. Sedatives and Hypnotics",
+                                    "paragraph": "Benzodiazepines:<br><br>SAR of Benzodiazepines, Chlordiazepoxide, Diazepam, Oxazepam, Chlorazepate, Lorazepam, Alprazolam, Zolpidem                                    <br><br>Barbiturtes:                                    <br><br>SAR of barbiturates, Barbital, Phenobarbital, Mephobarbital, Amobarbital, Butabarbital, Pentobarbital, Secobarbital                                    <br><br>Miscelleneous:                                    <br><br>Amides & imides: Glutethmide.                                    <br><br>Alcohol & their carbamate derivatives: Meprobomate, Ethchlorvynol.                                    <br><br>Aldehyde & their derivatives: Triclofos sodium, Paraldehyde."
+                                },
+                                {
+                                    "header": "2. B",
+                                    "paragraph": "Phenothiazeines:<br><br>SAR of Phenothiazeines - Promazine hydrochloride, Chlorpromazine hydrochloride,                                    <br><br>Triflupromazine, Thioridazine hydrochloride, Piperacetazine hydrochloride,                                    <br><br>Prochlorperazine maleate, Trifluoperazine hydrochloride.                                    <br><br>Ring Analogues of Phenothiazeines:                                    <br><br>Chlorprothixene, Thiothixene, Loxapine succinate, Clozapine.                                    <br><br>Fluro buterophenones: Haloperidol, Droperidol, Risperidone.                                    <br><br>Beta amino ketones: Molindone hydrochloride.                                    <br><br>Benzamides: Sulpieride."
+                                },
+                                {
+                                    "header": "3. Anticonvulsants:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "SAR of Anticonvulsants, mechanism of anticonvulsant action",
+                                    "paragraph": "Barbiturates: Phenobarbitone, Methabarbital.<br><br><br><br>Hydantoins: Phenytoin, Mephenytoin, Ethotoin                                    <br><br>Oxazolidine diones: Trimethadione, Paramethadione                                    <br><br>Succinimides: Phensuximide, Methsuximide, Ethosuximide*                                    <br><br>Urea and monoacylureas: Phenacemide, Carbamazepine*                                    <br><br>Benzodiazepines: Clonazepam                                    <br><br>Miscellaneous: Primidone, Valproic acid , Gabapentin, Felbamate"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "General anesthetics:",
+                                    "paragraph": "Inhalation anesthetics: Halothane, Methoxyflurane, Enflurane, Sevoflurane, Isoflurane, Desflurane.<br><br>Ultra short acting barbitutrates: Methohexital sodium, Thiamylal sodium, Thiopental sodium.<br><br>Dissociative anesthetics: Ketamine hydrochloride."
+                                },
+                                {
+                                    "header": "Narcotic and non-narcotic analgesics",
+                                    "paragraph": "Morphine and related drugs: SAR of Morphine analogues, Morphine sulphate, Codeine, Meperidine hydrochloride, Anilerdine hydrochloride, Diphenoxylate hydrochloride, Loperamide hydrochloride, Fentanyl citrate, Methadone hydrochloride, Propoxyphene hydrochloride, Pentazocine, Levorphanol tartarate."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Narcotic antagonists: Nalorphine hydrochloride, Levallorphan tartarate, Naloxone hydrochloride."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Anti-inflammatory agents: Sodium salicylate, Aspirin, Mefenamic acid, Meclofenamate, Indomethacin, Sulindac, Tolmetin, Zomepriac, Diclofenac, Ketorolac, Ibuprofen, Naproxen, Piroxicam, Phenacetin, Acetaminophen, Antipyrine, Phenylbutazone."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmacognosy 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to Pharmacognosy",
+                                    "paragraph": "Definition, history, scope and development of Pharmacognosy <br>Sources of Drugs - Plants, Animals, Marine & Tissue culture. <br><br>Organized drugs, unorganized drugs (dried latex, dried juices, dried extracts, gums and mucilages, oleoresins and oleo-gum-resins)."
+                                },
+                                {
+                                    "header": "Classification of drugs",
+                                    "paragraph": "Alphabetical, morphological, taxonomical, chemical, pharmacological, chemo and sero taxonomical classification of drugs. <br><br>Quality control of Drugs of Natural Origin: Adulteration of drugs of natural origin. Evaluation by organoleptic, microscopic, physical, chemical and biological methods and properties. Quantitative microscopy of crude drugs including lycopodium spore method, leaf constants, camera lucida and diagrams of microscopic objects to scale with camera lucida."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Cultivation, Collection, Processing and storage of drugs of natural origin",
+                                    "paragraph": "Cultivation and Collection of drugs of natural origin<br>Factors influencing cultivation of medicinal plants.<br>Plant hormones and their applications.<br>Polyploidy, mutation and hybridization with reference to medicinal plants.<br><br>Conservation of medicinal plants"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Cholinergic neurotransmitters",
+                                    "paragraph": "Biosynthesis and catabolism of acetylcholine. Cholinergic receptors (Muscarinic & Nicotinic) and their distribution."
+                                },
+                                {
+                                    "header": "Parasympathomimetic agents: SAR of Parasympathomimetic agents",
+                                    "paragraph": "Direct acting agents: Acetylcholine, Carbachol, Bethanechol, Methacholine, Pilocarpine. Indirect acting/ Cholinesterase inhibitors (Reversible & Irreversible): Physostigmine, Neostigmine, Pyridostigmine, Edrophonium chloride, Tacrine hydrochloride, Ambenonium chloride, Isofluorphate, Echothiophate iodide, Parathione, Malathion."
+                                },
+                                {
+                                    "header": "Cholinesterase reactivator",
+                                    "paragraph": "Pralidoxime chloride."
+                                },
+                                {
+                                    "header": "Cholinergic Blocking agents: SAR of cholinolytic agents",
+                                    "paragraph": "Synthetic cholinergic blocking agents: Atropine sulphate, Hyoscyamine sulphate, Scopolamine hydrobromide, Homatropine hydrobromide, Ipratropium bromide*. Synthetic cholinergic blocking agents: Tropicamide, Cyclopentolate hydrochloride, Clidinium bromide, Dicyclomine hydrochloride, Glycopyrrolate, Methantheline bromide, Propantheline bromide, Benztropine mesylate, Orphenadrine citrate, Biperidine hydrochloride, Procyclidine hydrochloride, Tridihexethyl chloride, Isopropamide iodide, Ethopropazine hydrochloride."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""},{"header":"1. Sedatives and Hypnotics<br>Benzodiazepines","paragraph": "SAR of Benzodiazepines, Chlordiazepoxide, Diazepam, Oxazepam, Chlorazepate, Lorazepam, Alprazolam, Zolpidem<br>Barbiturtes:<br>SAR of barbiturates, Barbital, Phenobarbital, Mephobarbital, Amobarbital, Butabarbital, Pentobarbital, Secobarbital<br>Miscelleneous:<br>Amides & imides: Glutethmide.<br>Alcohol & their carbamate derivatives: Meprobomate, Ethchlorvynol.<br>Aldehyde & their derivatives: Triclofos sodium, Paraldehyde.<br>"},{"header": "2. B<br>Phenothiazeines:","paragraph":"SAR of Phenothiazeines - Promazine hydrochloride, Chlorpromazine hydrochloride,<br>Triflupromazine, Thioridazine hydrochloride, Piperacetazine hydrochloride,<br>Prochlorperazine maleate, Trifluoperazine hydrochloride.<br>Ring Analogues of Phenothiazeines:<br>Chlorprothixene, Thiothixene, Loxapine succinate, Clozapine.<br>Fluro buterophenones: Haloperidol, Droperidol, Risperidone.<br>Beta amino ketones: Molindone hydrochloride.<br>Benzamides: Sulpieride.<br>"},{"header": "3. Anticonvulsants:","paragraph":"SAR of Anticonvulsants, mechanism of anticonvulsant action<br>Barbiturates: Phenobarbitone, Methabarbital.<br>Hydantoins: Phenytoin, Mephenytoin, Ethotoin<br>Oxazolidine diones: Trimethadione, Paramethadione<br>Succinimides: Phensuximide, Methsuximide, Ethosuximide*<br>Urea and monoacylureas: Phenacemide, Carbamazepine*<br>Benzodiazepines: Clonazepam<br>Miscellaneous: Primidone, Valproic acid , Gabapentin, Felbamate"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Central Nervous System",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "General anesthetics",
+                                    "paragraph": "Inhalation anesthetics - Halothane, Methoxyflurane, Enflurane, Sevoflurane, Isoflurane, Desflurane. <br>Ultra short-acting barbiturates - Methohexital sodium, Thiamylal sodium, Thiopental sodium. <br>Dissociative anesthetics - Ketamine hydrochloride."
+                                },
+                                {
+                                    "header": "Narcotic and non-narcotic analgesics",
+                                    "paragraph": "Morphine and related drugs - SAR of Morphine analogs, Morphine sulfate, Codeine, Meperidine hydrochloride, Anilerdine hydrochloride, Diphenoxylate hydrochloride, Loperamide hydrochloride, Fentanyl citrate, Methadone hydrochloride, Propoxyphene hydrochloride, Pentazocine, Levorphanol tartarate.<br> Narcotic antagonists - Nalorphine hydrochloride, Levallorphan tartarate, Naloxone hydrochloride. <br>Anti-inflammatory agents - Sodium salicylate, Aspirin, Mefenamic acid, Meclofenamate, Indomethacin, Sulindac, Tolmetin, Zomepriac, Diclofenac, Ketorolac, Ibuprofen, Naproxen, Piroxicam, Phenacetin, Acetaminophen, Antipyrine, Phenylbutazone."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Organic Chemistry 3",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Stereo isomerism",
+                                    "paragraph": "Optical isomerism - Optical activity, enantiomerism, diastereoisomerism, meso compounds. Elements of symmetry, chiral and achiral molecules. DL system of nomenclature of optical isomers, sequence rules, RS system of nomenclature of optical isomers. Reactions of chiral molecules. Racemic modification and resolution of racemic mixture. Asymmetric synthesis - partial and absolute."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Geometrical isomerism",
+                                    "paragraph": "Nomenclature of geometrical isomers (Cis Trans, EZ, Syn Anti systems). Methods of determination of configuration of geometrical isomers. Conformational isomerism in Ethane, n-Butane, and Cyclohexane. Stereo isomerism in biphenyl compounds (Atropisomerism) and conditions for optical activity. Stereospecific and stereoselective reactions."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Heterocyclic compounds",
+                                    "paragraph": "Nomenclature and classification. Synthesis, reactions, and medicinal uses of following compounds/derivatives - Pyrrole, Furan, and Thiophene. Relative aromaticity and reactivity of Pyrrole, Furan, and Thiophene."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Synthesis, reactions, and medicinal uses of following compounds/derivatives - Pyrazole, Imidazole, Oxazole and Thiazole. Pyridine, Quinoline, Isoquinoline, Acridine and Indole. Basicity of pyridine. Synthesis and medicinal uses of Pyrimidine, Purine, azepines and their derivatives."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Reactions of synthetic importance",
+                                    "paragraph": "Metal hydride reduction (NaBH4 and LiAlH4), Clemmensen reduction, Birch reduction, Wolff Kishner reduction. Oppenauer-oxidation and Dakin reaction. Beckmanns rearrangement and Schmidt rearrangement. Claisen-Schmidt condensation."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Physical Pharmaceutics 2",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Colloidal dispersions",
+                                    "paragraph": "Classification of dispersed systems & their general characteristics, size & shapes of colloidal particles, classification of colloids & comparative account of their general properties. Optical, kinetic & electrical properties. Effect of electrolytes, coacervation, peptization & protective action."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Eology",
+                                    "paragraph": "Newtonian systems, law of flow, kinematic viscosity, effect of temperature, non-Newtonian systems, pseudoplastic, dilatant, plastic, thixotropy, thixotropy in formulation, determination of viscosity, capillary, falling Sphere, rotational viscometers."
+                                },
+                                {
+                                    "header": "Deformation of solids",
+                                    "paragraph": "Plastic and elastic deformation, Heckel equation, Stress, Strain, Elastic Modulus."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Coarse dispersion",
+                                    "paragraph": "Suspension, interfacial properties of suspended particles, settling in suspensions, formulation of flocculated and deflocculated suspensions. Emulsions and theories of emulsification, microemulsion and multiple emulsions; Stability of emulsions, preservation of emulsions, rheological properties of emulsions and emulsion formulation by HLB method."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Micromeretics",
+                                    "paragraph": "Particle size and distribution, mean particle size, number and weight distribution, particle number, methods for determining particle size by different methods, counting and separation method, particle shape, specific surface, methods for determining surface area, permeability, adsorption, derived properties of powders, porosity, packing arrangement, densities, bulkiness & flow properties."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Drug stability",
+                                    "paragraph": "Reaction kinetics - zero, pseudo-zero, first & second order. Units of basic rate constants, determination of reaction order. Physical and chemical factors influencing the chemical degradation of pharmaceutical products - temperature, solvent, ionic strength, dielectric constant, specific & general acid-base catalysis, Simple numerical problems. Stabilization of medicinal agents against common reactions like hydrolysis & oxidation. Accelerated stability testing in expiration dating of pharmaceutical dosage forms. Photolytic degradation and its prevention."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

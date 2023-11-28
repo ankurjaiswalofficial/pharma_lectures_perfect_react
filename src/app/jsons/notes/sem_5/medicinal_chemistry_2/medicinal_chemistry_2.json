@@ -1,0 +1,229 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Antihistaminic agents",
+                                    "paragraph": "Histamine, receptors and their distribution in the humanbody"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "H1-antagonists: Diphenhydramine hydrochloride, Dimenhydrinate, Doxylamines cuccinate, Clemastine fumarate, Diphenylphyraline hydrochloride, Tripelenamine hydrochloride, Chlorcyclizine hydrochloride, Meclizine hydrochloride, Buclizine hydrochloride, Chlorpheniramine maleate, Triprolidine hydrochloride, Phenidamine tartarate, Promethazine hydrochloride, Trimeprazine tartrate, Cyproheptadine hydrochloride, Azatidine maleate, Astemizole, Loratadine, Cetirizine, Levocetrazine Cromolyn sodium<br>H2-antagonists: Cimetidine, Famotidine, Ranitidin.<br>Gastric Proton pump inhibitors: Omeprazole, Lansoprazole, Rabeprazole, Pantoprazole"
+                                },
+                                {
+                                    "header": "Anti-neoplastic agents",
+                                    "paragraph": "Alkylating agents: Meclorethamine, Cyclophosphamide, Melphalan, Chlorambucil, Busulfan, Thiotepa<br><br>Antimetabolites: Mercaptopurine, Thioguanine, Fluorouracil, Floxuridine, Cytarabine, Methotrexate, Azathioprine<br><br>Antibiotics: Dactinomycin, Daunorubicin, Doxorubicin, Bleomycin<br><br>Plant products: Etoposide, Vinblastin sulphate, Vincristin sulphate<br><br>Miscellaneous: Cisplatin, Mitotane."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Anti-anginal",
+                                    "paragraph": "Vasodilators: Amyl nitrite, Nitroglycerin, Pentaerythritol tetranitrate, Isosorbide dinitrite, Dipyridamole.<br>Calcium channel blockers: Verapamil, Bepridil hydrochloride, Diltiazem hydrochloride, Nifedipine, Amlodipine, Felodipine, Nicardipine, Nimodipine."
+                                },
+                                {
+                                    "header": "Diuretics",
+                                    "paragraph": "Carbonic anhydrase inhibitors: Acetazolamide, Methazolamide, Dichlorphenamide.<br><br>Thiazides: Chlorthiazide, Hydrochlorothiazide, Hydroflumethiazide, Cyclothiazide,<br><br>Loop diuretics: Furosemide, Bumetanide, Ethacrynic acid.<br><br>Potassium sparing Diuretics: Spironolactone, Triamterene, Amiloride.<br><br>Osmotic Diuretics: Mannitol"
+                                },
+                                {
+                                    "header": "Anti-hypertensive Agents",
+                                    "paragraph": "Timolol, Captopril, Lisinopril, Enalapril, Benazepril hydrochloride, Quinapril hydrochloride, Methyldopate hydrochloride,* Clonidine hydrochloride, Guanethidine monosulphate, Guanabenz acetate, Sodium nitroprusside, Diazoxide, Minoxidil, Reserpine, Hydralazine hydrochloride."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Anti-arrhythmic Drugs: ",
+                                    "paragraph": "Quinidine sulphate, Procainamide hydrochloride, Disopyramide phosphate, Phenytoin sodium, Lidocaine hydrochloride, Tocainide hydrochloride, Mexiletine hydrochloride, Lorcainide hydrochloride, Amiodarone, Sotalol."
+                                },
+                                {
+                                    "header": "Anti-hyperlipidemic agents:",
+                                    "paragraph": "Clofibrate, Lovastatin, Cholesteramine and Cholestipol"
+                                },
+                                {
+                                    "header": "Coagulant & Anticoagulants: ",
+                                    "paragraph": "Menadione, Acetomenadione, Warfarin, Anisindione, clopidogrel"
+                                },
+                                {
+                                    "header": "Drugs used in Congestive Heart Failure: ",
+                                    "paragraph": " Digoxin, Digitoxin, Nesiritide, Bosentan, Tezosentan."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Endocrine system",
+                                    "paragraph": "Nomenclature, Stereochemistry and metabolism of steroid"
+                                },
+                                {
+                                    "header": "Sex hormones: ",
+                                    "paragraph": "Testosterone, Nandralone, Progestrones, Oestriol, Oestradiol, Oestrione, Diethyl stilbestrol."
+                                },
+                                {
+                                    "header": "Drugs for erectile dysfunction: ",
+                                    "paragraph": "Sildenafil, Tadalafil."
+                                },
+                                {
+                                    "header": "Oral contraceptives:",
+                                    "paragraph": "Mifepristone, Norgestril, Levonorgestrol"
+                                },
+                                {
+                                    "header": "Corticosteroids:",
+                                    "paragraph": "Cortisone, Hydrocortisone, Prednisolone, Betamethasone, Dexamethasone"
+                                },
+                                {
+                                    "header": "Thyroid and antithyroid drugs:",
+                                    "paragraph": "L-Thyroxine, L-Thyronine, Propylthiouracil, Methimazol"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Antidiabetic agents:",
+                                    "paragraph": "Insulin and its preparations"
+                                },
+                                {
+                                    "header": "Sulfonyl ureas: ",
+                                    "paragraph": "Tolbutamide, Chlorpropamide, Glipizide, Glimepiride."
+                                },
+                                {
+                                    "header": "Biguanides:",
+                                    "paragraph": "Metformin."
+                                },
+                                {
+                                    "header": "Thiazolidinediones:",
+                                    "paragraph": " Pioglitazone, Rosiglitazone"
+                                },
+                                {
+                                    "header": "Meglitinides:",
+                                    "paragraph": "Repaglinide, Nateglinide."
+                                },
+                                {
+                                    "header": "Glucosidase inhibitors:",
+                                    "paragraph": "Acrabose, Voglibose."
+                                },
+                                {
+                                    "header": "Local Anesthetics: ",
+                                    "paragraph": "SAR of Local anesthetics"
+                                },
+                                {
+                                    "header": "Benzoic Acid derivatives: ",
+                                    "paragraph": "Cocaine, Hexylcaine, Meprylcaine, Cyclomethycaine, Piperocaine."
+                                },
+                                {
+                                    "header": "Lidocaine/Anilide derivatives: ",
+                                    "paragraph": "Lignocaine, Mepivacaine, Prilocaine, Etidocaine."
+                                },
+                                {
+                                    "header": "Miscellaneous:",
+                                    "paragraph": "Phenacaine, Diperodon, Dibucaine.*"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Stereo isomerism",
+                                    "paragraph": "Optical isomerism - Optical activity, enantiomerism, diastereoisomerism, meso compounds. Elements of symmetry, chiral and achiral molecules. DL system of nomenclature of optical isomers, sequence rules, RS system of nomenclature of optical isomers. Reactions of chiral molecules. Racemic modification and resolution of racemic mixture. Asymmetric synthesis - partial and absolute."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Geometrical isomerism",
+                                    "paragraph": "Nomenclature of geometrical isomers (Cis Trans, EZ, Syn Anti systems). Methods of determination of configuration of geometrical isomers. Conformational isomerism in Ethane, n-Butane, and Cyclohexane. Stereo isomerism in biphenyl compounds (Atropisomerism) and conditions for optical activity. Stereospecific and stereoselective reactions."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Heterocyclic compounds",
+                                    "paragraph": "Nomenclature and classification. Synthesis, reactions, and medicinal uses of following compounds/derivatives - Pyrrole, Furan, and Thiophene. Relative aromaticity and reactivity of Pyrrole, Furan, and Thiophene."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Synthesis, reactions, and medicinal uses of following compounds/derivatives - Pyrazole, Imidazole, Oxazole and Thiazole. Pyridine, Quinoline, Isoquinoline, Acridine and Indole. Basicity of pyridine. Synthesis and medicinal uses of Pyrimidine, Purine, azepines and their derivatives."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Reactions of synthetic importance",
+                                    "paragraph": "Metal hydride reduction (NaBH4 and LiAlH4), Clemmensen reduction, Birch reduction, Wolff Kishner reduction. Oppenauer-oxidation and Dakin reaction. Beckmanns rearrangement and Schmidt rearrangement. Claisen-Schmidt condensation."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

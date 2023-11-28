@@ -1,0 +1,89 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutics 1 - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Historical background and development of profession of pharmacy:",
+                                    "paragraph": "History of profession of Pharmacy in India in relation to pharmacy education, industry and organization, Pharmacy as a career, Pharmacopoeias: Introduction to IP, BP, USP and Extra Pharmacopoeia."
+                                },
+                                {
+                                    "header": "Dosage forms:",
+                                    "paragraph": "Introduction to dosage forms, classification and definitions."
+                                },
+                                {
+                                    "header": "Prescription:",
+                                    "paragraph": "Definition, Parts of prescription, handling of Prescription and Errors in prescription."
+                                },
+                                {
+                                    "header": "Posology:",
+                                    "paragraph": "Definition, Factors affecting posology. Pediatric dose calculations based on age, body weight and body surface area."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/media/notes/sem_1/pharmaceutics_1/units/unit_1/unit 1 pharmaceutics (Sem 1).pdf",
+                                    "download": true,
+                                    "card_is_pdf": true,
+                                    "card_large": true,
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/media/notes/sem_1/pharmaceutics_1/units/unit_1/Code_JKA1yFfRqv.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutics_1/units/unit_1/notes_sem_1_pharmaceutics_1_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

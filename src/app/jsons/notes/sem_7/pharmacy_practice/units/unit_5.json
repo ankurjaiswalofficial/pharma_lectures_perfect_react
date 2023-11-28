@@ -1,0 +1,69 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacy Practice - Unit 5",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "1. Drug store management and inventory control",
+                                    "paragraph": "Organisation of drug store, types of materials stocked and storage conditions, Purchase and inventory control: principles, purchase procedure, purchase order, procurement and stocking, Economic order quantity, Reorder quantity level, and Methods used for the analysis of the drug expenditure"
+                                },
+                                {
+                                    "header": "2. Investigational use of drugs",
+                                    "paragraph": "Description, principles involved, classification, control, identification, role of hospital pharmacist, advisory committee."
+                                },
+                                {
+                                    "header": "3. Interpretation of Clinical Laboratory Tests",
+                                    "paragraph": "Blood chemistry, hematology, and urinalysis"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_7/pharmacy_practice/units/unit_5/notes_sem_7_pharmacy_practice_units_unit_5.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

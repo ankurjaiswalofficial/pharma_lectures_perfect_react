@@ -1,0 +1,61 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 1 - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "General Pharmacology",
+                                    "paragraph": "Pharmacodynamics - Principles and mechanisms of drug action. Receptor theories and classification of receptors, regulation of receptors. Drug receptors interactions signal transduction mechanisms, G-protein-coupled receptors, ion channel receptor, transmembrane enzyme linked receptors, transmembrane JAK-STAT binding receptor and receptors that regulate transcription factors, dose response relationship, therapeutic index, combined effects of drugs and factors modifying drug action.<br><br>Adverse drug reactions.,<br>Drug interactions (pharmacokinetic and pharmacodynamic),<br>Drug discovery and clinical evaluation of new drugs -Drug discovery phase, preclinical evaluation phase, clinical trial phase, phases of clinical trials and pharmacovigilance."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_4/pharmacology_1/units/unit_2/notes_sem_4_pharmacology_1_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

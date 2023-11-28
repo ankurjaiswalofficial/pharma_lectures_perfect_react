@@ -1,0 +1,157 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on Respiratory system",
+                                    "paragraph": "Anti -asthmatic drugs<br>Drugs used in the management of COPD<br>Expectorants and antitussives<br>Nasal decongestants<br>Respiratory stimulants"
+                                },
+                                {
+                                    "header": "2. Pharmacology of drugs acting on the Gastrointestinal Tract",
+                                    "paragraph": "Antiulcer agents.<br>Drugs for constipation and diarrhoea.<br>Appetite stimulants and suppressants.<br>Digestants and carminatives.<br>Emetics and anti-emetics."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "General principles of chemotherapy.<br>Sulfonamides and cotrimoxazole.<br>Antibiotics- Penicillins, cephalosporins, chloramphenicol, macrolides, quinolones and fluoroquinolins, tetracycline and aminoglycosides"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "Antitubercular agents<br>Antileprotic agents<br>Antifungal agents<br>Antiviral drugs<br>Anthelmintics<br>Antimalarial drugs<br>Antiamoebic agents"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "Urinary tract infections and sexually transmitted diseases.<br>Chemotherapy of malignancy"
+                                },
+                                {
+                                    "header": "4. Immunopharmacology",
+                                    "paragraph": "Immunostimulants<br>Immunosuppressant Protein drugs, monoclonal antibodies, target drugs to antigen, biosimilars"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "5. Principles of toxicology",
+                                    "paragraph": "Definition and basic knowledge of acute, subacute and chronic toxicity.<br>Definition and basic knowledge of genotoxicity, carcinogenicity, teratogenicity and mutagenicity<br>General principles of treatment of poisoning<br>Clinical symptoms and management of barbiturates, morphine, organophosphosphorus compound and lead, mercury and arsenic poisoning."
+                                },
+                                {
+                                    "header": "6. Chronopharmacology",
+                                    "paragraph": "Definition of rhythm and cycles.<br>Biological clock and their significance leading to chronotherapy"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmacology_3/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

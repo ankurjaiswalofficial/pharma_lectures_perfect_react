@@ -1,0 +1,61 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 2 - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Benzene and its derivatives",
+                                    "paragraph": "Analytical, synthetic and other evidences in the derivation of structure of benzene, Orbital picture, resonance in benzene, aromatic characters, Huckel\u00e2\u20ac\u2122s rule<br>Reactions of benzene - nitration, sulphonation, halogenation reactivity, Friedelcrafts alkylation- reactivity, limitations, Friedelcrafts acylation.<br>Substituents, effect of substituents on reactivity and orientation of mono substituted benzene compounds towards electrophilic substitution reaction<br>Structure and uses of DDT, Saccharin, BHC and Chloramine"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_3/pharmaceutical_organic_chemistry_2/units/unit_1/notes_sem_3_pharmaceutical_organic_chemistry_2_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

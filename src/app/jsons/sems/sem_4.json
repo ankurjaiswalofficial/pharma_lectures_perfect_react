@@ -1,0 +1,210 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "4th Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_4/pharmacology_1",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical_Book_Image_1",
+                        "about": "About_Image_1"
+                    },
+                    "text": {
+                        "header": "Pharmacology_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_4/pharmacognosy_1",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical_Book_Image_2",
+                        "about": "About_Image_2"
+                    },
+                    "text": {
+                        "header": "Pharmacognosy_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_4/medicinal_chemistry_1",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical_Book_Image_3",
+                        "about": "About_Image_3"
+                    },
+                    "text": {
+                        "header": "Medicinal_Chemistry_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_4/pharmaceutical_organic_chemistry_3",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical_Book_Image_4",
+                        "about": "About_Image_4"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Organic_Chemistry_3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_4/physical_pharmaceutics_2",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical_Book_Image_5",
+                        "about": "About_Image_5"
+                    },
+                    "text": {
+                        "header": "Physical_Pharmaceutics_2",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IVth Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_4",
+                    "text": {
+                        "header": "Medicinal_Chemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal_Chemistry - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_4",
+                    "text": {
+                        "header": "Pharmaceutical_Organic_Chemistry_3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical_Organic_Chemistry_3 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_4",
+                    "text": {
+                        "header": "Pharmacognosy_1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy_1 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_4",
+                    "text": {
+                        "header": "Pharmacology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_4",
+                    "text": {
+                        "header": "Physical_Pharmaceutics_2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Physical_Pharmaceutics_2 - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "4th Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_4/pharmacology_1",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical_Book_Image_1",
+                        "about": "About_Image_1"
+                    },
+                    "text": {
+                        "header": "Pharmacology_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_4/pharmacognosy_1",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical_Book_Image_2",
+                        "about": "About_Image_2"
+                    },
+                    "text": {
+                        "header": "Pharmacognosy_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_4/medicinal_chemistry_1",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical_Book_Image_3",
+                        "about": "About_Image_3"
+                    },
+                    "text": {
+                        "header": "Medicinal_Chemistry_1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_4/pharmaceutical_organic_chemistry_3",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical_Book_Image_4",
+                        "about": "About_Image_4"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical_Organic_Chemistry_3",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_4/physical_pharmaceutics_2",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical_Book_Image_5",
+                        "about": "About_Image_5"
+                    },
+                    "text": {
+                        "header": "Physical_Pharmaceutics_2",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

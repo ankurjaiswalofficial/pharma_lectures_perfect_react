@@ -1,0 +1,77 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Microbiology - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Introduction, history of microbiology, its branches, scope and its importance. Introduction to Prokaryotes and Eukaryotes Study of ultra-structure and morphological classification of bacteria, nutritional requirements, raw materials used for culture media and physical parameters for growth, growth curve, isolation and preservation methods for pure cultures, cultivation of anaerobes, quantitative measurement of bacterial growth (total & viable count). Study of different types of phase constrast microscopy, dark field microscopy and electron microscopy."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/media/notes/sem_3/pharmaceutical_microbiology/units/unit_1/3 sem ll Microbiology ll Unit 1 ll.pdf",
+                                    "download": true,
+                                    "card_is_pdf": true,
+                                    "card_large": true,
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/media/notes/sem_3/pharmaceutical_microbiology/units/unit_1/Code_2UjGXPQ984.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_3/pharmaceutical_microbiology/units/unit_1/notes_sem_3_pharmaceutical_microbiology_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

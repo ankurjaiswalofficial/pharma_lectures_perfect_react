@@ -1,0 +1,153 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on cardio vascular system",
+                                    "paragraph": "Introduction to hemodynamic and electrophysiology<br>Drugs used in congestive heart failure<br>Anti-hypertensive drugs.<br>Anti-anginal drugs.<br>Anti-arrhythmic drugs.<br>Anti-hyperlipidemic"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on cardio vascular system",
+                                    "paragraph": "Drug used in the therapy of shock.<br>Hematinics, coagulants and anticoagulants.<br>Fibrinolytics and anti-platelet drugs<br>Plasma volume expanders"
+                                },
+                                {
+                                    "header": "2. Pharmacology of drugs acting on urinary system",
+                                    "paragraph": "Diuretics<br>Anti-diuretics."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "3. Autocoids and related drugs",
+                                    "paragraph": "Introduction to autacoids and classification<br>Histamine, 5-HT and their antagonists.<br>Prostaglandins, Thromboxanes and Leukotrienes.<br>Angiotensin, Bradykinin and Substance P. e. Non-steroidal anti-inflammatory agents<br>Anti-gout drugs<br>Antirheumatic drugs"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "5. Pharmacology of drugs acting on endocrine system",
+                                    "paragraph": "Basic concepts in endocrine pharmacology. b. Anterior Pituitary hormones- analogues and their inhibitors.<br>Thyroid hormones- analogues and their inhibitors.<br>Hormones regulating plasma calcium level- Parathormone, Calcitonin and Vitamin-D.<br>Insulin, Oral Hypoglycemic agents and glucagon.<br>ACTH and corticosteroids."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "5. Pharmacology of drugs acting on endocrine system",
+                                    "paragraph": "Androgens and Anabolic steroids.<br>Estrogens, progesterone and oral contraceptives.<br>Drugs acting on the uterus."
+                                },
+                                {
+                                    "header": "6. Bioassay",
+                                    "paragraph": "Principles and applications of bioassay.<br>Types of bioassay<br>Bioassay of insulin, oxytocin, vasopressin, ACTH,d-tubocurarine,digitalis, histamine and 5-HT"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

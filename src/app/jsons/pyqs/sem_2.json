@@ -1,0 +1,183 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "IInd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_2/biochemistry/aktu/pyqs_sem_2_biochemistry_aktu.pdf",
+                    "text": {
+                        "header": "Biochemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biochemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/human_anatomy_and_physiology_2/aktu/pyqs_sem_2_human_anatomy_and_physiology_2_aktu.pdf",
+                    "text": {
+                        "header": "Human Anatomy And Physiology 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Human Anatomy And Physiology 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/pathophysiology/aktu/pyqs_sem_2_pathophysiology_aktu.pdf",
+                    "text": {
+                        "header": "Pathophysiology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pathophysiology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/pharmaceutical_organic_chemistry_1/aktu/pyqs_sem_2_pharmaceutical_organic_chemistry_1_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 1 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IInd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_2/biochemistry/rgpv/pyqs_sem_2_biochemistry_rgpv.pdf",
+                    "text": {
+                        "header": "Biochemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biochemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/human_anatomy_and_physiology_2/rgpv/pyqs_sem_2_human_anatomy_and_physiology_2_rgpv.pdf",
+                    "text": {
+                        "header": "Human Anatomy And Physiology 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Human Anatomy And Physiology 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/pathophysiology/rgpv/pyqs_sem_2_pathophysiology_rgpv.pdf",
+                    "text": {
+                        "header": "Pathophysiology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pathophysiology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_2/pharmaceutical_organic_chemistry_1/rgpv/pyqs_sem_2_pharmaceutical_organic_chemistry_1_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 1 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IInd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_2/complete/csvtu/pyqs_sem_2_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IInd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_2/complete/snvp/pyqs_sem_2_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

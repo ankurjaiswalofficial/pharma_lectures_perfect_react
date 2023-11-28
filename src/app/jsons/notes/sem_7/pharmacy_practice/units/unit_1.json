@@ -1,0 +1,73 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacy Practice - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "1. Hospital and it\u00e2\u20ac\u2122s organization",
+                                    "paragraph": "Hospital and it\u00e2\u20ac\u2122s organization Definition, Classification of hospital- Primary, Secondary and Tertiary hospitals, Classification based on clinical and non- clinical basis, Organization Structure of a Hospital, and Medical staffs involved in the hospital and their functions"
+                                },
+                                {
+                                    "header": "2. Hospital pharmacy and its organization",
+                                    "paragraph": "Definition, functions of hospital pharmacy, Organization structure, Location, Layout and staff requirements, and Responsibilities and functions of hospital pharmacists."
+                                },
+                                {
+                                    "header": "3. Adverse drug reaction",
+                                    "paragraph": "Classifications - Excessive pharmacological effects, secondary pharmacological effects, idiosyncrasy, allergic drug reactions, genetically determined toxicity, toxicity following sudden withdrawal of drugs, Drug interaction- beneficial interactions, adverse interactions, and pharmacokinetic drug interactions, Methods for detecting drug interactions, spontaneous case reports and record linkage studies, and Adverse drug reaction reporting and management"
+                                },
+                                {
+                                    "header": "4. Community Pharmacy",
+                                    "paragraph": "Organization and structure of retail and wholesale drug store, types and design, Legal requirements for establishment and maintenance of a drug store, Dispensing of proprietary products, maintenance of records of retail and wholesale drug store."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_7/pharmacy_practice/units/unit_1/notes_sem_7_pharmacy_practice_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

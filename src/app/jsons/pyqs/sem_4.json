@@ -1,0 +1,209 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "IVth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_4/medicinal_chemistry/aktu/pyqs_sem_4_medicinal_chemistry_aktu.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmaceutical_organic_chemistry_3/aktu/pyqs_sem_4_pharmaceutical_organic_chemistry_3_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 3 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmacognosy_1/aktu/pyqs_sem_4_pharmacognosy_1_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacognosy 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmacology/aktu/pyqs_sem_4_pharmacology_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/physical_pharmaceutics_2/aktu/pyqs_sem_4_physical_pharmaceutics_2_aktu.pdf",
+                    "text": {
+                        "header": "Physical Pharmaceutics 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Physical Pharmaceutics 2 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IVth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_4/medicinal_chemistry/rgpv/pyqs_sem_4_medicinal_chemistry_rgpv.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmaceutical_organic_chemistry_3/rgpv/pyqs_sem_4_pharmaceutical_organic_chemistry_3_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 3 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmacognosy_1/rgpv/pyqs_sem_4_pharmacognosy_1_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacognosy 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/pharmacology/rgpv/pyqs_sem_4_pharmacology_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_4/physical_pharmaceutics_2/rgpv/pyqs_sem_4_physical_pharmaceutics_2_rgpv.pdf",
+                    "text": {
+                        "header": "Physical Pharmaceutics 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Physical Pharmaceutics 2 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IVth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_4/complete/csvtu/pyqs_sem_4_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IVth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_4/complete/snvp/pyqs_sem_4_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

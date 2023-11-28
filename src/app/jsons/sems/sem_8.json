@@ -1,0 +1,138 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "8th Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Social And Preventive Pharmacy",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Biostatistics And Research Methodology",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIIth Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_8",
+                    "text": {
+                        "header": "Social And Preventive Pharmacy",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Social And Preventive Pharmacy - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_8",
+                    "text": {
+                        "header": "Biostatistics And Research Methodology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biostatistics And Research Methodology - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_8",
+                    "text": {
+                        "header": "Cosmetic Science",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Cosmetic Science - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_8",
+                    "text": {
+                        "header": "Pharmaceutical Marketing And Management",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Marketing And Management - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_8",
+                    "text": {
+                        "header": "Pharmacovigilance",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacovigilance - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "8th Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_8/social_and_preventive_pharmacy",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Social And Preventive Pharmacy",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_8/biostatistics_and_research_methodology",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Biostatistics And Research Methodology",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

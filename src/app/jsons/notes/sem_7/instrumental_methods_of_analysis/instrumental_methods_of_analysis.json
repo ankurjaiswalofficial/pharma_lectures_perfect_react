@@ -1,0 +1,197 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Instrumental Methods Of Analysis",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "UV Visible spectroscopy",
+                                    "paragraph": "Electronic transitions, chromophores, auxochromes, spectral shifts, solvent effect on absorption spectra, Beer and Lambert's law, Derivation and deviations."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Instrumentation - Sources of radiation, wavelength selectors, sample cells, detectorsPhoto tube, Photomultiplier tube, Photo voltaic cell, Silicon Photodiode."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Applications - Spectrophotometric titrations, Single component and multi component analysis"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "IR Spectroscopy",
+                                    "paragraph": "Introduction, fundamental modes of vibrations in poly atomic molecules, sample handling, factors affecting vibrations"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Instrumentation - Sources of radiation, wavelength selectors, detectors - Golay cell, Bolometer, Thermocouple, Thermister, Pyroelectric detector and applications"
+                                },
+                                {
+                                    "header": "Flame Photometry",
+                                    "paragraph": "Principle, interferences, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Atomic absorption spectroscopy",
+                                    "paragraph": "Principle, interferences, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Nepheloturbidometry",
+                                    "paragraph": "Principle, instrumentation and applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Introduction to chromatography",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Adsorption and partition column chromatography",
+                                    "paragraph": "Methodology, advantages, disadvantages and applications."
+                                },
+                                {
+                                    "header": "Thin layer chromatography",
+                                    "paragraph": "Introduction, Principle, Methodology, Rf values, advantages, disadvantages and applications."
+                                },
+                                {
+                                    "header": "Paper chromatography",
+                                    "paragraph": "Introduction, methodology, development techniques, advantages, disadvantages and applications"
+                                },
+                                {
+                                    "header": "Electrophoresis",
+                                    "paragraph": "Introduction, factors affecting electrophoretic mobility, Techniques of paper, gel, capillary electrophoresis, applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Gas chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation, derivatization, temperature programming, advantages, disadvantages and applications"
+                                },
+                                {
+                                    "header": "High performance liquid chromatography (HPLC)",
+                                    "paragraph": "Introduction, theory, instrumentation, advantages and applications."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Ion exchange chromatography",
+                                    "paragraph": "Introduction, classification, ion exchange resins, properties, mechanism of ion exchange process, factors affecting ion exchange, methodology and applications"
+                                },
+                                {
+                                    "header": "Gel chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Affinity chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation and applications"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

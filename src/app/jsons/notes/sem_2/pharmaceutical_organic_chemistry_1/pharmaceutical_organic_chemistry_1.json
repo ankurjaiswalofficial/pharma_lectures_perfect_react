@@ -1,0 +1,153 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Classification, nomenclature and isomerism",
+                                    "paragraph": "Classification of Organic Compounds Common and IUPAC systems of nomenclature of organic compounds (up to 10 Carbons open chain and carbocyclic compounds) Structural isomerisms in organic compounds"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Alkanes*, Alkenes* and Conjugated dienes*",
+                                    "paragraph": "SP3 hybridization in alkanes, Halogenation of alkanes, uses of paraffins. Stabilities of alkenes, SP2 hybridization in alkenes E1 and E2 reactions - kinetics, order of reactivity of alkyl halides, rearrangement of carbocations, Saytzeffs orientation and evidences. E1 verses E2 reactions, Factors affecting E1 and E2 reactions. Ozonolysis, electrophilic addition reactions of alkenes, Markownikoff\u00e2\u20ac\u2122s orientation, free radical addition reactions of alkenes, Anti Markownikoff\u00e2\u20ac\u2122s orientation. Stability of conjugated dienes, Diel-Alder, electrophilic addition, free radical addition reactions of conjugated dienes, allylic rearrangement"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Alkyl halides*",
+                                    "paragraph": "SN1 and SN2 reactions - kinetics, order of reactivity of alkyl halides, stereochemistry and rearrangement of carbocations. SN1 versus SN2 reactions, Factors affecting SN1 and SN2 reactions Structure and uses of ethylchloride, Chloroform, trichloroethylene, tetrachloroethylene, dichloromethane, tetrachloromethane and iodoform."
+                                },
+                                {
+                                    "header": "Alcohols*",
+                                    "paragraph": "Qualitative tests, Structure and uses of Ethyl alcohol, Methyl alcohol, chlorobutanol, Cetosteryl alcohol, Benzyl alcohol, Glycerol, Propylene glycol"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Carbonyl compounds* (Aldehydes and ketones)",
+                                    "paragraph": "Nucleophilic addition, Electromeric effect, aldol condensation, Crossed Aldol condensation, Cannizzaro reaction, Crossed Cannizzaro reaction, Benzoin condensation, Perkin condensation, qualitative tests, Structure and uses of Formaldehyde, Paraldehyde, Acetone, Chloral hydrate, Hexamine, Benzaldehyde, Vanilin, Cinnamaldehyde."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Carboxylic acids*",
+                                    "paragraph": "Acidity of carboxylic acids, effect of substituents on acidity, inductive effect and qualitative tests for carboxylic acids ,amide and ester Structure and Uses of Acetic acid, Lactic acid, Tartaric acid, Citric acid, Succinic acid. Oxalic acid, Salicylic acid, Benzoic acid, Benzyl benzoate, Dimethyl phthalate, Methyl salicylate and Acetyl salicylic acid"
+                                },
+                                {
+                                    "header": "Aliphatic amines*",
+                                    "paragraph": "Basicity, effect of substituent on Basicity. Qualitative test, Structure and uses of Ethanolamine, Ethylenediamine, Amphetamine"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

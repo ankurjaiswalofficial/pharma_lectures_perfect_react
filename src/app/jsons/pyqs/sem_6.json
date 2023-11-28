@@ -1,0 +1,235 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "VIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_6/biopharmaceutics_and_pharmacokinetics/aktu/pyqs_sem_6_biopharmaceutics_and_pharmacokinetics_aktu.pdf",
+                    "text": {
+                        "header": "Biopharmaceutics And Pharmacokinetics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biopharmaceutics And Pharmacokinetics - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/biotechnology/aktu/pyqs_sem_6_biotechnology_aktu.pdf",
+                    "text": {
+                        "header": "Biotechnology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biotechnology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/herbal_drug_technology/aktu/pyqs_sem_6_herbal_drug_technology_aktu.pdf",
+                    "text": {
+                        "header": "Herbal Drug Technology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Herbal Drug Technology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/pharmaceutical_quality_assurance/aktu/pyqs_sem_6_pharmaceutical_quality_assurance_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Quality Assurance",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Quality Assurance - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/pharmacology_3/aktu/pyqs_sem_6_pharmacology_3_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacology 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology 3 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/medicinal_chemistry_3/aktu/pyqs_sem_6_medicinal_chemistry_3_aktu.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry 3 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_6/biopharmaceutics_and_pharmacokinetics/rgpv/pyqs_sem_6_biopharmaceutics_and_pharmacokinetics_rgpv.pdf",
+                    "text": {
+                        "header": "Biopharmaceutics And Pharmacokinetics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biopharmaceutics And Pharmacokinetics - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/biotechnology/rgpv/pyqs_sem_6_biotechnology_rgpv.pdf",
+                    "text": {
+                        "header": "Biotechnology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biotechnology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/herbal_drug_technology/rgpv/pyqs_sem_6_herbal_drug_technology_rgpv.pdf",
+                    "text": {
+                        "header": "Herbal Drug Technology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Herbal Drug Technology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/pharmaceutical_quality_assurance/rgpv/pyqs_sem_6_pharmaceutical_quality_assurance_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Quality Assurance",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Quality Assurance - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/pharmacology_3/rgpv/pyqs_sem_6_pharmacology_3_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacology 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology 3 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_6/medicinal_chemistry_3/rgpv/pyqs_sem_6_medicinal_chemistry_3_rgpv.pdf",
+                    "text": {
+                        "header": "Medicinal Chemistry 3",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry 3 - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_6/complete/csvtu/pyqs_sem_6_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_6/complete/snvp/pyqs_sem_6_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

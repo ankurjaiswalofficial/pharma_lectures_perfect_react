@@ -1,0 +1,69 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Biostatistics And Research Methodology - Unit 5",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Design and Analysis of experiments:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Factorial Design: ",
+                                    "paragraph": "Definition, 2\u00c2\u00b2, 2\u00c2\u00b3 design. Advantage of factorial design"
+                                },
+                                {
+                                    "header": "Response Surface methodology:",
+                                    "paragraph": "Central composite design, Historical design, Optimization Techniques"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_8/biostatistics_and_research_methodology/units/unit_5/notes_sem_8_biostatistics_and_research_methodology_units_unit_5.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

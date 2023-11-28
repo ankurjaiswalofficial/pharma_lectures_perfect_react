@@ -1,0 +1,145 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Microbiology",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Introduction, history of microbiology, its branches, scope and its importance. Introduction to Prokaryotes and Eukaryotes Study of ultra-structure and morphological classification of bacteria, nutritional requirements, raw materials used for culture media and physical parameters for growth, growth curve, isolation and preservation methods for pure cultures, cultivation of anaerobes, quantitative measurement of bacterial growth (total & viable count). Study of different types of phase constrast microscopy, dark field microscopy and electron microscopy."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_microbiology/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Identification of bacteria using staining techniques (simple, Gram\u00e2\u20ac\u2122s & Acid fast staining) and biochemical tests (IMViC). Study of principle, procedure, merits, demerits and applications of physical, chemical gaseous, radiation and mechanical method of sterilization. Evaluation of the efficiency of sterilization methods. Equipments employed in large scale sterilization. Sterility indicators."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_microbiology/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Study of morphology, classification, reproduction/replication and cultivation of Fungi and Viruses. Classification and mode of action of disinfectants Factors influencing disinfection, antiseptics and their evaluation. For bacteriostatic and bactericidal actions Evaluation of bactericidal & Bacteriostatic. Sterility testing of products (solids, liquids, ophthalmic and other sterile products) according to IP, BP and USP."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_microbiology/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Designing of aseptic area, laminar flow equipments; study of different sources of contamination in an aseptic area and methods of prevention, clean area classification. Principles and methods of different microbiological assay. Methods for standardization of antibiotics, vitamins and amino acids. Assessment of a new antibiotic."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_microbiology/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Types of spoilage, factors affecting the microbial spoilage of pharmaceutical products, sources and types of microbial contaminants, assessment of microbial contamination and spoilage. Preservation of pharmaceutical products using antimicrobial agents, evaluation of microbial stability of formulations."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_microbiology/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

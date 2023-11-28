@@ -1,0 +1,790 @@
+[
+    [
+        "$",
+        "h1",
+        null,
+        {
+            "children": "B Pharmacy Notes"
+        }
+    ],
+    [
+        "$",
+        "$L17",
+        null,
+        {}
+    ],
+    [
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "1st Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Human_Anatomy_and_Physiology-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/1st-sem/human-anatomy-and-physiology-1",
+                                        "children": "Human Anatomy And Physiology 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Analysis",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/1st-sem/pharmaceutical-analysis",
+                                        "children": "Pharmaceutical Analysis"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutics-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/1st-sem/pharmaceutics-1",
+                                        "children": "Pharmaceutics 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Inorganic_Chemistry",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/1st-sem/pharmaceutical-inorganic-chemistry",
+                                        "children": "Pharmaceutical Inorganic Chemistry"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Communication_Skills",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/1st-sem/communication-skills",
+                                        "children": "Communication Skills"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "2nd Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Human_Anatomy_and_Physiology-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/2nd-sem/human-anatomy-and-physiology-2",
+                                        "children": "Human Anatomy And Physiology 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Biochemistry",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/2nd-sem/biochemistry",
+                                        "children": "Biochemistry"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pathophysiology",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/2nd-sem/pathophysiology",
+                                        "children": "Pathophysiology"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Organic_Chemistry-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/2nd-sem/pharmaceutical-organic-chemistry-1",
+                                        "children": "Pharmaceutical Organic Chemistry 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Computer_Applications",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/2nd-sem/computer-applications",
+                                        "children": "Computer Applications"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "3rd Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Microbiology",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/3rd-sem/pharmaceutical-microbiology",
+                                        "children": "Pharmaceutical Microbiology"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Organic_Chemistry-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/3rd-sem/pharmaceutical-organic-chemistry-2",
+                                        "children": "Pharmaceutical Organic Chemistry 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Physical_Pharmaceutics-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/3rd-sem/physical-pharmaceutics-1",
+                                        "children": "Physical Pharmaceutics 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Engineering",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/3rd-sem/pharmaceutical-engineering",
+                                        "children": "Pharmaceutical Engineering"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Human_Value_and_Ethics",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/3rd-sem/human-value-and-ethics",
+                                        "children": "Human Value And Ethics"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "4th Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Pharmacology-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/4th-sem/pharmacology-1",
+                                        "children": "Pharmacology 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmacognosy-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/4th-sem/pharmacognosy-1",
+                                        "children": "Pharmacognosy 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Medicinal_Chemistry-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/4th-sem/medicinal-chemistry-1",
+                                        "children": "Medicinal Chemistry 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Organic_Chemistry-III",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/4th-sem/pharmaceutical-organic-chemistry-3",
+                                        "children": "Pharmaceutical Organic Chemistry 3"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Physical_Pharmaceutics-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/4th-sem/physical-pharmaceutics-2",
+                                        "children": "Physical Pharmaceutics 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "5th Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Medicinal_Chemistry-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/5th-sem/medicinal-chemistry-2",
+                                        "children": "Medicinal Chemistry 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Industrial_Pharmacy-I",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/5th-sem/industrial-pharmacy-1",
+                                        "children": "Industrial Pharmacy 1"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmacology-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/5th-sem/pharmacology-2",
+                                        "children": "Pharmacology 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmacognosy-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/5th-sem/pharmacognosy-2",
+                                        "children": "Pharmacognosy 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Jurisprudence",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/5th-sem/pharmaceutical-jurisprudence",
+                                        "children": "Pharmaceutical Jurisprudence"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "6th Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Pharmacology-III",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/6th-sem/pharmacology-3",
+                                        "children": "Pharmacology 3"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Medicinal_Chemistry-III",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/6th-sem/medicinal-chemistry-3",
+                                        "children": "Medicinal Chemistry 3"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Biotechnology",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/6th-sem/pharmaceutical-biotechnology",
+                                        "children": "Pharmaceutical Biotechnology"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Herbal_Drug_Technology",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/6th-sem/herbal-drug-technology",
+                                        "children": "Herbal Drug Technology"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmaceutical_Quality_Assurance",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/6th-sem/pharmaceutical-quality-assurance",
+                                        "children": "Pharmaceutical Quality Assurance"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "7th Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Industrial_Pharmacy-II",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/7th-sem/industrial-pharmacy-2",
+                                        "children": "Industrial Pharmacy 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Instrumental_Methods_of_Analysis",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/7th-sem/instrumental-methods-of-analysis",
+                                        "children": "Instrumental Methods Of Analysis"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Novel_Drug_Delivery_Systems",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/7th-sem/novel-drug-delivery-systems",
+                                        "children": "Novel Drug Delivery Systems"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Pharmacy_Practice",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/7th-sem/pharmacy-practice",
+                                        "children": "Pharmacy Practice"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                "$",
+                "h2",
+                null,
+                {
+                    "children": "8th Semester"
+                }
+            ],
+            [
+                "$",
+                "ul",
+                null,
+                {
+                    "className": "blog_s_list__T8Ka6",
+                    "children": [
+                        [
+                            "$",
+                            "li",
+                            "Social_and_Preventive_Pharmacy",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/8th-sem/social-and-preventive-pharmacy",
+                                        "children": "Social And Preventive Pharmacy"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "$",
+                            "li",
+                            "Biostatistics_and_Research_Methodology",
+                            {
+                                "className": "blog_link_btn__qgMQ9",
+                                "children": [
+                                    "$",
+                                    "$L18",
+                                    null,
+                                    {
+                                        "href": "/bpharmacy/notes/8th-sem/biostatistics-and-research-methodology",
+                                        "children": "Biostatistics And Research Methodology"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ]
+    ]
+]

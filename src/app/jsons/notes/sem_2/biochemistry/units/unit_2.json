@@ -1,0 +1,65 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Biochemistry - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Carbohydrate metabolism",
+                                    "paragraph": "Glycolysis - Pathway, energetics and significance Citric acid cycle- Pathway, energetics and significance HMP shunt and its significance; Glucose-6-Phosphate dehydrogenase (G6PD) deficiency Glycogen metabolism Pathways and glycogen storage diseases (GSD) Gluconeogenesis- Pathway and its significance Hormonal regulation of blood glucose level and Diabetes mellitus"
+                                },
+                                {
+                                    "header": "Biological oxidation",
+                                    "paragraph": "Electron transport chain (ETC) and its mechanism. Oxidative phosphorylation & its mechanism and substrate phosphorylation Inhibitors ETC and oxidative phosphorylation/Uncouplers"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_2/biochemistry/units/unit_2/notes_sem_2_biochemistry_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

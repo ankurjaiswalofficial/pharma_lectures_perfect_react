@@ -1,0 +1,61 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Biotechnology - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Types of immunity- humoral immunity, cellular immunity",
+                                    "paragraph": "1. Structure of Immunoglobulins<br>2. Structure and Function of MHC<br>3. Hypersensitivity reactions, Immune stimulation and Immune suppressions.<br>4. General method of the preparation of bacterial vaccines, toxoids, viral vaccine, antitoxins, serum-immune blood derivatives and other products relative to immunity.<br>5. Storage conditions and stability of official vaccines<br>6. Hybridoma technology- Production, Purification and Applications<br>7. Blood products and Plasma Substituties."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_6/pharmaceutical_biotechnology/units/unit_3/notes_sem_6_pharmaceutical_biotechnology_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Engineering",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Flow of fluids",
+                                    "paragraph": "Types of manometers, Reynolds number and its significance, Bernoulli\u00e2\u20ac\u2122s theorem and its applications, Energy losses, Orifice meter, Venturimeter, Pitot tube and Rotometer."
+                                },
+                                {
+                                    "header": "Size Reduction",
+                                    "paragraph": "Objectives, Mechanisms & Laws governing size reduction, factors affecting size reduction, principles, construction, working, uses, merits and demerits of Hammer mill, ball mill, fluid energy mill, Edge runner mill & end runner mill."
+                                },
+                                {
+                                    "header": "Size Separation",
+                                    "paragraph": "Objectives, applications & mechanism of size separation, official standards of powders, sieves, size separation Principles, construction, working, uses, merits and demerits of Sieve shaker, cyclone separator, Air separator, Bag filter & elutriation tank."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_engineering/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Heat Transfer",
+                                    "paragraph": "Objectives, applications & Heat transfer mechanisms. Fourier\u00e2\u20ac\u2122s law, Heat transfer by conduction, convection & radiation. Heat interchangers & heat exchangers."
+                                },
+                                {
+                                    "header": "Evaporation",
+                                    "paragraph": "Objectives, applications and factors influencing evaporation, differences between evaporation and other heat process. principles, construction, working, uses, merits and demerits of Steam jacketed kettle, horizontal tube evaporator, climbing film evaporator, forced circulation evaporator, multiple effect evaporator & Economy of multiple effect evaporator."
+                                },
+                                {
+                                    "header": "Distillation",
+                                    "paragraph": "Basic Principles and methodology of simple distillation, flash distillation, fractional distillation, distillation under reduced pressure, steam distillation & molecular distillation"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_engineering/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Drying",
+                                    "paragraph": "Objectives, applications & mechanism of drying process, measurements & applications of Equilibrium Moisture content, rate of drying curve. principles, construction, working, uses, merits and demerits of Tray dryer, drum dryer spray dryer, fluidized bed dryer, vacuum dryer, freeze dryer."
+                                },
+                                {
+                                    "header": "Mixing",
+                                    "paragraph": "Objectives, applications & factors affecting mixing, Difference between solid and liquid mixing, mechanism of solid mixing, liquids mixing and semisolids mixing. Principles, Construction, Working, uses, Merits and Demerits of Double cone blender, twin shell blender, ribbon blender, Sigma blade mixer, planetary mixers, Propellers, Turbines, Paddles & Silverson Emulsifier."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_engineering/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Filtration",
+                                    "paragraph": "Objectives, applications, Theories & Factors influencing filtration, filter aids, filter medias. Principle, Construction, Working, Uses, Merits and demerits of plate & frame filter, filter leaf, rotary drum filter, Meta filter & Cartridge filter, membrane filters and Seidtz filter."
+                                },
+                                {
+                                    "header": "Centrifugation",
+                                    "paragraph": "Objectives, principle & applications of Centrifugation, principles, construction, working, uses, merits and demerits of Perforated basket centrifuge, Non-perforated basket centrifuge, semi continuous centrifuge & super centrifuge."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_engineering/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Materials of pharmaceutical plant construction, Corrosion and its prevention",
+                                    "paragraph": "Factors affecting during materials selected for Pharmaceutical plant construction, Theories of corrosion, types of corrosion and there prevention. Ferrous and nonferrous metals, inorganic and organic non metals, basic of material handling systems."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_3/pharmaceutical_engineering/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

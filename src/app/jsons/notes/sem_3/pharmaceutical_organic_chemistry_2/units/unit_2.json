@@ -1,0 +1,69 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 2 - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Phenol*",
+                                    "paragraph": "Acidity of phenols, effect of substituents on acidity, qualitative tests, Structure and uses of phenol, cresols, resorcinol, naphthols"
+                                },
+                                {
+                                    "header": "Aromatic Amines*",
+                                    "paragraph": "Basicity of amines, effect of substituents on basicity, and synthetic uses of aryl diazonium salts"
+                                },
+                                {
+                                    "header": "Aromatic Acids*",
+                                    "paragraph": "Acidity, effect of substituents on acidity and important reactions of benzoic acid."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_3/pharmaceutical_organic_chemistry_2/units/unit_2/notes_sem_3_pharmaceutical_organic_chemistry_2_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

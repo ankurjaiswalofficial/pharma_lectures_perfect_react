@@ -1,0 +1,65 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pathophysiology - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Basic principles of Cell injury and Adaptation",
+                                    "paragraph": "Introduction, definitions, Homeostasis, Components and Types of Feedback systems, Causes of cellular injury,Pathogenesis (Cell membrane damage, Mitochondrial damage, Ribosome damage, Nuclear damage),Morphology of cell injury - Adaptive changes (Atrophy, Hypertrophy, hyperplasia, Metaplasia, Dysplasia),Cell swelling, Intra cellular accumulation, Calcification, Enzyme leakage and Cell Death Acidosis &Alkalosis,Electrolyte imbalance"
+                                },
+                                {
+                                    "header": "Basic mechanism involved in the process of inflammation and repair",
+                                    "paragraph": "Introduction, Clinical signs of inflammation, Different types of Inflammation,Mechanism of Inflammation - Alteration in vascular permeability and blood flow, migration of WBC\u00e2\u20ac\u2122s,Mediators of inflammation,Basic principles of wound healing in the skin,Pathophysiology of Atherosclerosis"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_2/pathophysiology/units/unit_1/notes_sem_2_pathophysiology_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

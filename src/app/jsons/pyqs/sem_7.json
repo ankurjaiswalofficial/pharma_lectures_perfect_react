@@ -1,0 +1,183 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "VIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_7/industrial_pharmacy_2/aktu/pyqs_sem_7_industrial_pharmacy_2_aktu.pdf",
+                    "text": {
+                        "header": "Industrial Pharmacy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/instrumental_method_of_analysis/aktu/pyqs_sem_7_instrumental_method_of_analysis_aktu.pdf",
+                    "text": {
+                        "header": "Instrumental Method Of Analysis",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Instrumental Method Of Analysis - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/novel_drug_delivery_systems/aktu/pyqs_sem_7_novel_drug_delivery_systems_aktu.pdf",
+                    "text": {
+                        "header": "Novel Drug Delivery Systems",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Novel Drug Delivery Systems - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/pharmacy_practice/aktu/pyqs_sem_7_pharmacy_practice_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacy Practice",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacy Practice - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_7/industrial_pharmacy_2/rgpv/pyqs_sem_7_industrial_pharmacy_2_rgpv.pdf",
+                    "text": {
+                        "header": "Industrial Pharmacy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/instrumental_method_of_analysis/rgpv/pyqs_sem_7_instrumental_method_of_analysis_rgpv.pdf",
+                    "text": {
+                        "header": "Instrumental Method Of Analysis",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Instrumental Method Of Analysis - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/novel_drug_delivery_systems/rgpv/pyqs_sem_7_novel_drug_delivery_systems_rgpv.pdf",
+                    "text": {
+                        "header": "Novel Drug Delivery Systems",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Novel Drug Delivery Systems - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_7/pharmacy_practice/rgpv/pyqs_sem_7_pharmacy_practice_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacy Practice",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacy Practice - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_7/complete/csvtu/pyqs_sem_7_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_7/complete/snvp/pyqs_sem_7_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

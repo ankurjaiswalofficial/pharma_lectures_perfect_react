@@ -1,0 +1,201 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Biotechnology",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Brief introduction to Biotechnology with reference to Pharmaceutical Sciences.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Enzyme Biotechnology- Methods of enzyme immobilization and applications.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Biosensors- Working and applications of biosensors in Pharmaceutical Industries.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Brief introduction to Protein Engineering.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "5. Use of microbes in industry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "6. Basic principles of genetic engineering",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "1. Study of cloning vectors, restriction endonucleases and DNA ligase.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Recombinant DNA technology",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Application of r DNA technology and genetic engineering in the production of:",
+                                    "paragraph": "Interferon<br>Vaccines- hepatitis- B<br>Hormones-Insulin."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Types of immunity- humoral immunity, cellular immunity",
+                                    "paragraph": "1. Structure of Immunoglobulins<br>2. Structure and Function of MHC<br>3. Hypersensitivity reactions, Immune stimulation and Immune suppressions.<br>4. General method of the preparation of bacterial vaccines, toxoids, viral vaccine, antitoxins, serum-immune blood derivatives and other products relative to immunity.<br>5. Storage conditions and stability of official vaccines<br>6. Hybridoma technology- Production, Purification and Applications<br>7. Blood products and Plasma Substituties."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "1. Immuno blotting techniques- ELISA, Western blotting, Southern blotting.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Genetic organization of Eukaryotes and Prokaryotes",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Microbial genetics including transformation, transduction, conjugation, plasmids and transposons.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Introduction to Microbial biotransformation and applications.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "5. Mutation: Types of mutation/mutants.",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "1. Fermentation methods and general requirements, study of media, equipments, sterilization methods, aeration process, stirring.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Large scale production fermenter design and its various controls.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Study of the production of - penicillins, citric acid, Vitamin B12, Glutamic acid, Griseofulvin,",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Blood Products: Collection, Processing and Storage of whole human blood, dried human plasma, plasma Substituties.",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_biotechnology/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

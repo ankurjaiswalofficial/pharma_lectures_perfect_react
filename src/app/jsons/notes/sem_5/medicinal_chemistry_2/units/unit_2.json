@@ -1,0 +1,69 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 2 - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Anti-anginal",
+                                    "paragraph": "Vasodilators: Amyl nitrite, Nitroglycerin, Pentaerythritol tetranitrate, Isosorbide dinitrite, Dipyridamole.<br>Calcium channel blockers: Verapamil, Bepridil hydrochloride, Diltiazem hydrochloride, Nifedipine, Amlodipine, Felodipine, Nicardipine, Nimodipine."
+                                },
+                                {
+                                    "header": "Diuretics",
+                                    "paragraph": "Carbonic anhydrase inhibitors: Acetazolamide, Methazolamide, Dichlorphenamide.<br><br>Thiazides: Chlorthiazide, Hydrochlorothiazide, Hydroflumethiazide, Cyclothiazide,<br><br>Loop diuretics: Furosemide, Bumetanide, Ethacrynic acid.<br><br>Potassium sparing Diuretics: Spironolactone, Triamterene, Amiloride.<br><br>Osmotic Diuretics: Mannitol"
+                                },
+                                {
+                                    "header": "Anti-hypertensive Agents",
+                                    "paragraph": "Timolol, Captopril, Lisinopril, Enalapril, Benazepril hydrochloride, Quinapril hydrochloride, Methyldopate hydrochloride,* Clonidine hydrochloride, Guanethidine monosulphate, Guanabenz acetate, Sodium nitroprusside, Diazoxide, Minoxidil, Reserpine, Hydralazine hydrochloride."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_5/medicinal_chemistry_2/units/unit_2/notes_sem_5_medicinal_chemistry_2_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

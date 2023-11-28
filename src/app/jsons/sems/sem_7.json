@@ -1,0 +1,174 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "7th Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Industrial Pharmacy 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_7/instrumental_methods_of_analysis",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Instrumental Methods Of Analysis",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_7/novel_drug_delivery_systems",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Novel Drug Delivery Systems",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_7/pharmacy_practice",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmacy Practice",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIth Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_7",
+                    "text": {
+                        "header": "Industrial Pharmacy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 2 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_7",
+                    "text": {
+                        "header": "Instrumental Method Of Analysis",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Instrumental Method Of Analysis - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_7",
+                    "text": {
+                        "header": "Novel Drug Delivery Systems",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Novel Drug Delivery Systems - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_7",
+                    "text": {
+                        "header": "Pharmacy Practice",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacy Practice - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "7th Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_7/industrial_pharmacy_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Industrial Pharmacy 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_7/instrumental_methods_of_analysis",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Instrumental Methods Of Analysis",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_7/novel_drug_delivery_systems",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Novel Drug Delivery Systems",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_7/pharmacy_practice",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmacy Practice",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

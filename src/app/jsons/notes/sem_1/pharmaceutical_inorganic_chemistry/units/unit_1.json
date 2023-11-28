@@ -1,0 +1,65 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Inorganic Chemistry - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Impurities in pharmaceutical substances",
+                                    "paragraph": "History of Pharmacopoeia, Sources and types of impurities, principle involved in the limit test for Chloride, Sulphate, Iron, Arsenic, Lead and Heavy metals, modified limit test for Chloride and Sulphate."
+                                },
+                                {
+                                    "header": "General methods of preparation",
+                                    "paragraph": "assay for the compounds superscripted with asterisk (*), properties and medicinal uses of inorganic compounds belonging to the following classes."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutical_inorganic_chemistry/units/unit_1/notes_sem_1_pharmaceutical_inorganic_chemistry_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

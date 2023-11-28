@@ -1,0 +1,193 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Inorganic Chemistry",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Impurities in pharmaceutical substances",
+                                    "paragraph": "History of Pharmacopoeia, Sources and types of impurities, principle involved in the limit test for Chloride, Sulphate, Iron, Arsenic, Lead and Heavy metals, modified limit test for Chloride and Sulphate."
+                                },
+                                {
+                                    "header": "General methods of preparation",
+                                    "paragraph": "assay for the compounds superscripted with asterisk (*), properties and medicinal uses of inorganic compounds belonging to the following classes."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_inorganic_chemistry/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Acids, Bases and Buffers",
+                                    "paragraph": "Buffer equations and buffer capacity in general, buffers in pharmaceutical systems, preparation, stability, buffered isotonic solutions, measurements of tonicity, calculations and methods of adjusting isotonicity."
+                                },
+                                {
+                                    "header": "Major extra and intracellular electrolytes: Functions of major physiological ions, Electrolytes used in the replacement therapy",
+                                    "paragraph": "Sodium chloride *, Potassium chloride, Calcium gluconate* and Oral Rehydration Salt (ORS), Physiological acid base balance."
+                                },
+                                {
+                                    "header": "Dental products",
+                                    "paragraph": "Dentifrices, role of fluoride in the treatment of dental caries, Desensitizing agents, Calcium carbonate, Sodium fluoride, and Zinc eugenol cement."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_inorganic_chemistry/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Gastrointestinal agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Acidifiers",
+                                    "paragraph": "Ammonium chloride* and Dil. HCl."
+                                },
+                                {
+                                    "header": "Antacid",
+                                    "paragraph": "Ideal properties of antacids, combinations of antacids, Sodium Bicarbonate *, Aluminum hydroxide gel, Magnesium hydroxide mixture."
+                                },
+                                {
+                                    "header": "Cathartics",
+                                    "paragraph": "Magnesium sulphate, Sodium orthophosphate, Kaolin and Bentonite."
+                                },
+                                {
+                                    "header": "Antimicrobials",
+                                    "paragraph": "Mechanism, classification, Potassiu permanganate, Boric acid, Hydrogen peroxide *, Chlorinated lime *, Iodine and its preparations."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_inorganic_chemistry/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Miscellaneous compounds",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Expectorants",
+                                    "paragraph": "Potassium iodide, Ammonium chloride *."
+                                },
+                                {
+                                    "header": "Emetics",
+                                    "paragraph": "Copper sulphate *, Sodium potassium tartarate."
+                                },
+                                {
+                                    "header": "Haematinics",
+                                    "paragraph": "Ferrous sulphate *, Ferrous gluconate."
+                                },
+                                {
+                                    "header": "Poison and Antidote",
+                                    "paragraph": "Sodium thiosulphate *, Activated charcoal, Sodium nitrite333."
+                                },
+                                {
+                                    "header": "Astringents",
+                                    "paragraph": "Zinc Sulphate, Potash Alum."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_inorganic_chemistry/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Radiopharmaceuticals",
+                                    "paragraph": "Radio activity, Measurement of radioactivity, Properties of \u00ce\u00b1, \u00ce\u00b2, \u00ce\u00b3 radiations, Half life, radio isotopes and study of radio isotopes - Sodium iodide I131, Storage conditions, precautions & pharmaceutical application of radioactive substances."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_inorganic_chemistry/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

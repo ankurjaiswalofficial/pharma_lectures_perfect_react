@@ -1,0 +1,69 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Analysis - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical analysis",
+                                    "paragraph": "Definition and scope, <br>Different techniques of analysis, <br>Methods of expressing concentration, <br>Primary and secondary standards., <br>Preparation and standardization of various molar and normal solutions- Oxalic acid, sodium hydroxide, hydrochloric acid, sodium thiosulphate, sulphuric acid, potassium permanganate and ceric ammonium sulphate"
+                                },
+                                {
+                                    "header": "Errors",
+                                    "paragraph": "Sources of errors, types of errors, methods of minimizing errors, accuracy, precision and significant figures"
+                                },
+                                {
+                                    "header": "Pharmacopoeia",
+                                    "paragraph": "Sources of impurities in medicinal agents,limit tests."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutical_analysis/units/unit_1/notes_sem_1_pharmaceutical_analysis_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

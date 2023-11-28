@@ -1,0 +1,73 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 3 - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Anti-tubercular Agents",
+                                    "paragraph": "Synthetic anti tubercular agents: Isoniozid, Ethionamide, Ethambutol, Pyrazinamide, Para amino salicylic acid.*<br>Anti tubercular antibiotics: Rifampicin, Rifabutin, Cycloserine Streptomycine, Capreomycin sulphate."
+                                },
+                                {
+                                    "header": "Urinary tract anti-infective agents",
+                                    "paragraph": "Quinolones: SAR of quinolones, Nalidixic Acid,Norfloxacin, Enoxacin, Ciprofloxacin, Ofloxacin, Lomefloxacin, Sparfloxacin, Gatifloxacin, Moxifloxacin<br>Miscellaneous: Furazolidine, Nitrofurantoin, Methanamine"
+                                },
+                                {
+                                    "header": "Antiviral agents:",
+                                    "paragraph": "Amantadine hydrochloride, Rimantadine hydrochloride, Idoxuridine trifluoride, Acyclovir, Gancyclovir, Zidovudine, Didanosine, Zalcitabine, Lamivudine, Loviride, Delavirding, Ribavirin, Saquinavir, Indinavir, Ritonavir."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_6/medicinal_chemistry_3/units/unit_3/notes_sem_6_medicinal_chemistry_3_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

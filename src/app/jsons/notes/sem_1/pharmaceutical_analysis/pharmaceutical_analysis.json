@@ -1,0 +1,173 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Analysis",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical analysis",
+                                    "paragraph": "Definition and scope, <br>Different techniques of analysis, <br>Methods of expressing concentration, <br>Primary and secondary standards., <br>Preparation and standardization of various molar and normal solutions- Oxalic acid, sodium hydroxide, hydrochloric acid, sodium thiosulphate, sulphuric acid, potassium permanganate and ceric ammonium sulphate"
+                                },
+                                {
+                                    "header": "Errors",
+                                    "paragraph": "Sources of errors, types of errors, methods of minimizing errors, accuracy, precision and significant figures"
+                                },
+                                {
+                                    "header": "Pharmacopoeia",
+                                    "paragraph": "Sources of impurities in medicinal agents,limit tests."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_analysis/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Acid base titration: ",
+                                    "paragraph": "Theories of acid base indicators, classification of acid base titrations and theory involved in titrations of strong, weak, and very weak acids and bases, neutralization curves"
+                                },
+                                {
+                                    "header": "Non aqueous titration:",
+                                    "paragraph": "Solvents, acidimetry and alkalimetry titration and estimation of Sodium benzoate and Ephedrine HCl"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_analysis/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Precipitation titrations: ",
+                                    "paragraph": "Mohr\u00e2\u20ac\u2122s method, Volhard\u00e2\u20ac\u2122s, Modified Volhard\u00e2\u20ac\u2122s, Fajans method, estimation of sodium chloride."
+                                },
+                                {
+                                    "header": "Complexometric titration: ",
+                                    "paragraph": "Classification, metal ion indicators, masking and demasking reagents, estimation of Magnesium sulphate, and calcium gluconate."
+                                },
+                                {
+                                    "header": "Gravimetry: ",
+                                    "paragraph": "Principle and steps involved in gravimetric analysis. Purity of the precipitate: co-precipitation and post precipitation, Estimation of barium sulphate.<br><br>Basic Principles,methods and application of diazotisation titration. Estimation of sodium nitrite and sodium nitrate."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_analysis/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Redox titrations: ",
+                                    "paragraph": "Concepts of oxidation and reduction.<br>Types of redox titrations (Principles and applications)<br><br>Cerimetry, Iodimetry, Iodometry, Bromatometry, Dichrometry, Titration with potassium iodate"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_analysis/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Conductometry",
+                                    "paragraph": "Introduction, Conductivity cell, Conductometric titrations, applications."
+                                },
+                                {
+                                    "header": "Potentiometry ",
+                                    "paragraph": "Electrochemical cell, construction and working of reference (Standard hydrogen, silver chloride electrode and calomel electrode) and indicator electrodes (metal electrodes and glass electrode), methods to determine end point of potentiometric titration and applications."
+                                },
+                                {
+                                    "header": "Polarography ",
+                                    "paragraph": "Principle, Ilkovic equation, construction and working of dropping mercury electrode and rotating platinum electrode, applications."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutical_analysis/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

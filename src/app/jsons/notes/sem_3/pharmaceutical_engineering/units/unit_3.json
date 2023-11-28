@@ -1,0 +1,65 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Engineering - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Drying",
+                                    "paragraph": "Objectives, applications & mechanism of drying process, measurements & applications of Equilibrium Moisture content, rate of drying curve. principles, construction, working, uses, merits and demerits of Tray dryer, drum dryer spray dryer, fluidized bed dryer, vacuum dryer, freeze dryer."
+                                },
+                                {
+                                    "header": "Mixing",
+                                    "paragraph": "Objectives, applications & factors affecting mixing, Difference between solid and liquid mixing, mechanism of solid mixing, liquids mixing and semisolids mixing. Principles, Construction, Working, uses, Merits and Demerits of Double cone blender, twin shell blender, ribbon blender, Sigma blade mixer, planetary mixers, Propellers, Turbines, Paddles & Silverson Emulsifier."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_3/pharmaceutical_engineering/units/unit_3/notes_sem_3_pharmaceutical_engineering_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

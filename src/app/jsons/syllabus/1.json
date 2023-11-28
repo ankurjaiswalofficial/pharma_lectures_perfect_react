@@ -1,0 +1,353 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "Ist Semester Syllabus",
+            "banner_text_1": "",
+            "banner_text_2_span": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2": "B-Pharmacy",
+            "buttons": [],
+            "cards": [],
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Human Anatomy And Physiology 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction to human body",
+                                    "paragraph": "Definition and scope of anatomy and physiology, levels of structural organization and body systems, basic life processes, homeostasis, basic anatomical terminology."
+                                },
+                                {
+                                    "header": "Cellular level of organization",
+                                    "paragraph": "Structure and functions of cell, transport across cell membrane, cell division, cell junctions. General principles of cell communication, intracellular signaling pathway activation by extracellular signal molecule, Forms of intracellular signaling: a) Contact-dependent b) Paracrine c) Synaptic d) Endocrine"
+                                },
+                                {
+                                    "header": "Tissue level of organization",
+                                    "paragraph": "Classification of tissues, structure, location and functions of epithelial, muscular and nervous and connective tissues."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Integumentary system",
+                                    "paragraph": "Structure and functions of skin"
+                                },
+                                {
+                                    "header": "Skeletal system",
+                                    "paragraph": "Divisions of skeletal system, types of bone, salient features and functions of bones of axial and appendicular skeletal system\nOrganization of skeletal muscle, physiology of muscle contraction, neuromuscular junction"
+                                },
+                                {
+                                    "header": "Joints",
+                                    "paragraph": "Structural and functional classification, types of joints movements and its articulation"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Body fluids and blood",
+                                    "paragraph": "Body fluids, composition and functions of blood, hemopoeisis, formation of hemoglobin, anemia, mechanisms of coagulation, blood grouping, Rh factors, transfusion, its significance and disorders of blood, Reticulo endothelial system"
+                                },
+                                {
+                                    "header": "Lymphatic system",
+                                    "paragraph": "Lymphatic organs and tissues, lymphatic vessels, lymph circulation and functions of lymphatic system"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Peripheral nervous system",
+                                    "paragraph": "Classification of peripheral nervous system:\nStructure and functions of sympathetic and parasympathetic nervous system.\nOrigin and functions of spinal and cranial nerves."
+                                },
+                                {
+                                    "header": "Special senses",
+                                    "paragraph": "Structure and functions of eye, ear, nose and tongue and their disorders."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Cardiovascular system",
+                                    "paragraph": "Heart - anatomy of heart, blood circulation, blood vessels, structure and functions of artery, vein and capillaries, elements of conduction system of heart and heart beat, its regulation by autonomic nervous system, cardiac output, cardiac cycle.\nRegulation of blood pressure, pulse, electrocardiogram and disorders of heart."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Analysis",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical analysis",
+                                    "paragraph": "Definition and scope, <br>Different techniques of analysis, <br>Methods of expressing concentration, <br>Primary and secondary standards., <br>Preparation and standardization of various molar and normal solutions- Oxalic acid, sodium hydroxide, hydrochloric acid, sodium thiosulphate, sulphuric acid, potassium permanganate and ceric ammonium sulphate"
+                                },
+                                {
+                                    "header": "Errors",
+                                    "paragraph": "Sources of errors, types of errors, methods of minimizing errors, accuracy, precision and significant figures"
+                                },
+                                {
+                                    "header": "Pharmacopoeia",
+                                    "paragraph": "Sources of impurities in medicinal agents,limit tests."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Acid base titration: ",
+                                    "paragraph": "Theories of acid base indicators, classification of acid base titrations and theory involved in titrations of strong, weak, and very weak acids and bases, neutralization curves"
+                                },
+                                {
+                                    "header": "Non aqueous titration:",
+                                    "paragraph": "Solvents, acidimetry and alkalimetry titration and estimation of Sodium benzoate and Ephedrine HCl"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Precipitation titrations: ",
+                                    "paragraph": "Mohr’s method, Volhard’s, Modified Volhard’s, Fajans method, estimation of sodium chloride."
+                                },
+                                {
+                                    "header": "Complexometric titration: ",
+                                    "paragraph": "Classification, metal ion indicators, masking and demasking reagents, estimation of Magnesium sulphate, and calcium gluconate."
+                                },
+                                {
+                                    "header": "Gravimetry: ",
+                                    "paragraph": "Principle and steps involved in gravimetric analysis. Purity of the precipitate: co-precipitation and post precipitation, Estimation of barium sulphate.<br><br>Basic Principles,methods and application of diazotisation titration. Estimation of sodium nitrite and sodium nitrate."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Redox titrations: ",
+                                    "paragraph": "Concepts of oxidation and reduction.<br>Types of redox titrations (Principles and applications)<br><br>Cerimetry, Iodimetry, Iodometry, Bromatometry, Dichrometry, Titration with potassium iodate"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Conductometry",
+                                    "paragraph": "Introduction, Conductivity cell, Conductometric titrations, applications."
+                                },
+                                {
+                                    "header": "Potentiometry ",
+                                    "paragraph": "Electrochemical cell, construction and working of reference (Standard hydrogen, silver chloride electrode and calomel electrode) and indicator electrodes (metal electrodes and glass electrode), methods to determine end point of potentiometric titration and applications."
+                                },
+                                {
+                                    "header": "Polarography ",
+                                    "paragraph": "Principle, Ilkovic equation, construction and working of dropping mercury electrode and rotating platinum electrode, applications."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutics 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Historical background and development of profession of pharmacy:",
+                                    "paragraph": "History of profession of Pharmacy in India in relation to pharmacy education, industry and organization, Pharmacy as a career, Pharmacopoeias: Introduction to IP, BP, USP and Extra Pharmacopoeia."
+                                },
+                                {
+                                    "header": "Dosage forms:",
+                                    "paragraph": "Introduction to dosage forms, classification and definitions."
+                                },
+                                {
+                                    "header": "Prescription:",
+                                    "paragraph": "Definition, Parts of prescription, handling of Prescription and Errors in prescription."
+                                },
+                                {
+                                    "header": "Posology:",
+                                    "paragraph": "Definition, Factors affecting posology. Pediatric dose calculations based on age, body weight and body surface area."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical calculations:",
+                                    "paragraph": "Weights and measures - Imperial & Metric system, Calculations involving percentage solutions, alligation, proof spirit and isotonic solutions based on freezing point and molecular weight."
+                                },
+                                {
+                                    "header": "Powders:",
+                                    "paragraph": "Definition, classification, advantages and disadvantages,Simple & compound powders - official preparations, dusting powders, effervescent, efflorescent and hygroscopic powders, eutectic mixtures. Geometric dilutions."
+                                },
+                                {
+                                    "header": "Liquid dosage forms:",
+                                    "paragraph": "Advantages and disadvantages of liquid dosage forms. Excipients used in formulation of liquid dosage forms. Solubility enhancement techniques."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Monophasic liquids: ",
+                                    "paragraph": "Definitions and preparations of Gargles, Mouthwashes, Throat Paint, Eardrops, Nasal drops, Enemas, Syrups, Elixirs, Liniments and Lotions."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Suspensions)",
+                                    "paragraph": "Definition, advantages and disadvantages, classifications, Preparation of suspensions; Flocculated and Deflocculated suspension & stability problems and methods to overcome."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Emulsions) ",
+                                    "paragraph": "Definition, classification, emulsifying agent, test for the identification of type ofEmulsion, Methods of preparation & stability problems and methods to overcome."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Suppositories: ",
+                                    "paragraph": "Definition, types, advantages and disadvantages, types of bases, methods of preparations. Displacement value & its calculations, evaluation of suppositories."
+                                },
+                                {
+                                    "header": "Pharmaceutical incompatibilities: ",
+                                    "paragraph": "Definition, classification, physical, chemical and therapeutic incompatibilities with examples."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Semisolid dosage forms: ",
+                                    "paragraph": "Definitions, classification, mechanisms and factors influencing dermal penetration of drugs. Preparation of ointments, pastes, creams and gels. Excipients used in semi solid dosage forms. Evaluation of semi solid dosages forms."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Inorganic Chemistry",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Impurities in pharmaceutical substances",
+                                    "paragraph": "History of Pharmacopoeia, Sources and types of impurities, principle involved in the limit test for Chloride, Sulphate, Iron, Arsenic, Lead and Heavy metals, modified limit test for Chloride and Sulphate."
+                                },
+                                {
+                                    "header": "General methods of preparation",
+                                    "paragraph": "assay for the compounds superscripted with asterisk (*), properties and medicinal uses of inorganic compounds belonging to the following classes."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Acids, Bases and Buffers",
+                                    "paragraph": "Buffer equations and buffer capacity in general, buffers in pharmaceutical systems, preparation, stability, buffered isotonic solutions, measurements of tonicity, calculations and methods of adjusting isotonicity."
+                                },
+                                {
+                                    "header": "Major extra and intracellular electrolytes: Functions of major physiological ions, Electrolytes used in the replacement therapy",
+                                    "paragraph": "Sodium chloride *, Potassium chloride, Calcium gluconate* and Oral Rehydration Salt (ORS), Physiological acid base balance."
+                                },
+                                {
+                                    "header": "Dental products",
+                                    "paragraph": "Dentifrices, role of fluoride in the treatment of dental caries, Desensitizing agents, Calcium carbonate, Sodium fluoride, and Zinc eugenol cement."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Gastrointestinal agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Acidifiers",
+                                    "paragraph": "Ammonium chloride* and Dil. HCl."
+                                },
+                                {
+                                    "header": "Antacid",
+                                    "paragraph": "Ideal properties of antacids, combinations of antacids, Sodium Bicarbonate *, Aluminum hydroxide gel, Magnesium hydroxide mixture."
+                                },
+                                {
+                                    "header": "Cathartics",
+                                    "paragraph": "Magnesium sulphate, Sodium orthophosphate, Kaolin and Bentonite."
+                                },
+                                {
+                                    "header": "Antimicrobials",
+                                    "paragraph": "Mechanism, classification, Potassiu permanganate, Boric acid, Hydrogen peroxide *, Chlorinated lime *, Iodine and its preparations."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Miscellaneous compounds",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Expectorants",
+                                    "paragraph": "Potassium iodide, Ammonium chloride *."
+                                },
+                                {
+                                    "header": "Emetics",
+                                    "paragraph": "Copper sulphate *, Sodium potassium tartarate."
+                                },
+                                {
+                                    "header": "Haematinics",
+                                    "paragraph": "Ferrous sulphate *, Ferrous gluconate."
+                                },
+                                {
+                                    "header": "Poison and Antidote",
+                                    "paragraph": "Sodium thiosulphate *, Activated charcoal, Sodium nitrite333."
+                                },
+                                {
+                                    "header": "Astringents",
+                                    "paragraph": "Zinc Sulphate, Potash Alum."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Radiopharmaceuticals",
+                                    "paragraph": "Radio activity, Measurement of radioactivity, Properties of α, β, γ radiations, Half life, radio isotopes and study of radio isotopes - Sodium iodide I131, Storage conditions, precautions & pharmaceutical application of radioactive substances."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Quality Assurance",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Quality Assurance and Quality Management concepts:",
+                                    "paragraph": "Definition and concept of Qualitycontrol, Quality assurance and GMP"
+                                },
+                                {
+                                    "header": "Total Quality Management (TQM):",
+                                    "paragraph": "Definition, elements, philosophies"
+                                },
+                                {
+                                    "header": "CH Guidelines: ",
+                                    "paragraph": "purpose, participants, process of harmonization, Brief overview of QSEM, with special emphasis on Q-series guidelines, ICH stability testing guidelines"
+                                },
+                                {
+                                    "header": "Quality by design (QbD):",
+                                    "paragraph": "Definition, overview, elements of QbD program, tools"
+                                },
+                                {
+                                    "header": "ISO 9000 & ISO14000:",
+                                    "paragraph": " Overview, Benefits, Elements, steps for registration"
+                                },
+                                {
+                                    "header": "NABL accreditation:",
+                                    "paragraph": "Principles and procedures"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_quality_assurance/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Organization and personnel:",
+                                    "paragraph": "Personnel responsibilities, training, hygiene and personal records"
+                                },
+                                {
+                                    "header": "Premises:",
+                                    "paragraph": "Design, construction and plant layout, maintenance, sanitation, environmental control, utilities and maintenance of sterile areas, control of contamination."
+                                },
+                                {
+                                    "header": "Equipments and raw materials:",
+                                    "paragraph": "Equipment selection, purchase specifications, maintenance, purchase specifications and maintenance of stores for raw materials"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_quality_assurance/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Quality Control: ",
+                                    "paragraph": "Quality control test for containers, rubber closures and secondary packing material"
+                                },
+                                {
+                                    "header": "Good Laboratory Practices: ",
+                                    "paragraph": " General Provisions, Organization and Personnel, Facilities, Equipment, Testing Facilities Operation, and Control Articles, Protocol for Conduct of aNonclinical Laboratory Study, Records and Reports, Disqualification of Testing Facilities"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/pharmaceutical_quality_assurance/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

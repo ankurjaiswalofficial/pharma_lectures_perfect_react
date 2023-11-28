@@ -1,0 +1,181 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Jurisprudence",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Drugs and Cosmetics Act, 1940 and its rules 1945:",
+                                    "paragraph": "Objectives, Definitions, Legal definitions of schedules to the Act and Rules<br><br>Import of drugs - Classes of drugs and cosmetics prohibited from import, Import under license or permit. Offences and penalties.<br><br>Manufacture of drugs - Prohibition of manufacture and sale of certain drugs,<br><br>Conditions for grant of license and conditions of license for manufacture of drugs,<br><br>Manufacture of drugs for test, examination and analysis, manufacture of new drug, loan license and repacking license."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Drugs and Cosmetics Act, 1940 and its rules 1945:",
+                                    "paragraph": "Detailed study of Schedule G, H, M, N, P,T,U, V, X, Y, Part XII B, Sch F & DMR (OA)<br>Sale of Drugs - Wholesale, Retail sale and Restricted license. Offences and penalties<br><br>Labeling & Packing of drugs- General labeling requirements and specimen labels for<br><br>drugs and cosmetics, List of permitted colors. Offences and penalties.<br><br>Administration of the Act and Rules - Drugs Technical Advisory Board, Central drugs<br><br>Laboratory, Drugs Consultative Committee, Government drug analysts, Licensing<br><br>authorities, controlling authorities, Drugs Inspectors"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Pharmacy Act -1948: ",
+                                    "paragraph": " Objectives, Definitions, Pharmacy Council of India; its constitution and functions, Education Regulations, State and Joint state pharmacy councils; constitution and functions, Registration of Pharmacists, Offences and Penalties"
+                                },
+                                {
+                                    "header": "Medicinal and Toilet Preparation Act -1955: ",
+                                    "paragraph": " Objectives, Definitions, Licensing, Manufacture In bond and Outside bond, Export of alcoholic preparations, Manufacture of Ayurvedic, Homeopathic, Patent & Proprietary Preparations. Offences and Penalties."
+                                },
+                                {
+                                    "header": "Narcotic Drugs and Psychotropic substances Act-1985 and Rules:",
+                                    "paragraph": "Objectives, Definitions, Authorities and Officers, Constitution and Functions of narcotic &Psychotropic Consultative Committee, National Fund for Controlling the Drug Abuse, Prohibition, Control and Regulation, opium poppy cultivation and production of poppy straw, manufacture, sale and export of opium, Offences and Penalties"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Study of Salient Features of Drugs and Magic Remedies Act and its rules: ",
+                                    "paragraph": "Objectives, Definitions, Prohibition of certain advertisements, Classes of Exempted advertisements, Offences and Penalties"
+                                },
+                                {
+                                    "header": "Prevention of Cruelty to animals Act-1960: ",
+                                    "paragraph": "Objectives, Definitions, Institutional Animal Ethics Committee, CPCSEA guidelines for Breeding and Stocking of Animals, Performance of Experiments, Transfer and acquisition of animals for experiment, Records, Power to suspend or revoke registration, Offences and Penalties"
+                                },
+                                {
+                                    "header": "National Pharmaceutical Pricing Authority: ",
+                                    "paragraph": "Drugs Price Control Order (DPCO)- 2013. Objectives, Definitions, Sale prices of bulk drugs, Retail price of formulations, Retail price and ceiling price of scheduled formulations, National List of Essential Medicines (NLEM)"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical Legislations ",
+                                    "paragraph": "A brief review, Introduction, Study of drugs enquiry committee, Health survey and development committee, Hathi committee and Mudaliar committee"
+                                },
+                                {
+                                    "header": "Code of Pharmaceutical ethics D efinition, Pharmacist in relation to his job, trade, medical profession and his profession, Pharmacist\u00e2\u20ac\u2122s oath",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Medical Termination of Pregnancy Act",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Right to Information Act",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Introduction to Intellectual Property Rights (IPR)",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

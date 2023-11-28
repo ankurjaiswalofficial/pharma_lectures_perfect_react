@@ -1,0 +1,349 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text_1": "",
+            "banner_text": "VIth Semester Syllabus",
+            "banner_text_2_span": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2": "B-Pharmacy",
+            "buttons": [],
+            "cards": [],
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Pharmacology 3",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on Respiratory system",
+                                    "paragraph": "Anti -asthmatic drugs<br>Drugs used in the management of COPD<br>Expectorants and antitussives<br>Nasal decongestants<br>Respiratory stimulants"
+                                },
+                                {
+                                    "header": "2. Pharmacology of drugs acting on the Gastrointestinal Tract",
+                                    "paragraph": "Antiulcer agents.<br>Drugs for constipation and diarrhoea.<br>Appetite stimulants and suppressants.<br>Digestants and carminatives.<br>Emetics and anti-emetics."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "General principles of chemotherapy.<br>Sulfonamides and cotrimoxazole.<br>Antibiotics- Penicillins, cephalosporins, chloramphenicol, macrolides, quinolones and fluoroquinolins, tetracycline and aminoglycosides"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "Antitubercular agents<br>Antileprotic agents<br>Antifungal agents<br>Antiviral drugs<br>Anthelmintics<br>Antimalarial drugs<br>Antiamoebic agents"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "3. Chemotherapy",
+                                    "paragraph": "Urinary tract infections and sexually transmitted diseases.<br>Chemotherapy of malignancy"
+                                },
+                                {
+                                    "header": "4. Immunopharmacology",
+                                    "paragraph": "Immunostimulants<br>Immunosuppressant Protein drugs, monoclonal antibodies, target drugs to antigen, biosimilars"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "5. Principles of toxicology",
+                                    "paragraph": "Definition and basic knowledge of acute, subacute and chronic toxicity.<br>Definition and basic knowledge of genotoxicity, carcinogenicity, teratogenicity and mutagenicity<br>General principles of treatment of poisoning<br>Clinical symptoms and management of barbiturates, morphine, organophosphosphorus compound and lead, mercury and arsenic poisoning."
+                                },
+                                {
+                                    "header": "6. Chronopharmacology",
+                                    "paragraph": "Definition of rhythm and cycles.<br>Biological clock and their significance leading to chronotherapy"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Medicinal Chemistry 3",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Antibiotics",
+                                    "paragraph": "Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes.<br>β-Lactam antibiotics: Penicillin, Cepholosporins, β- Lactamase inhibitors, Monobactams<br>Aminoglycosides: Streptomycin, Neomycin, Kanamycin<br>Tetracyclines: Tetracycline,Oxytetracycline, Chlortetracycline, Minocycline, Doxycycline"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Antibiotics",
+                                    "paragraph": "Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes.<br>Macrolide: Erythromycin Clarithromycin, Azithromycin.<br>Miscellaneous: Chloramphenicol, Clindamycin.<br>Prodrugs: Basic concepts and application of prodrugs design.<br>Antimalarials: Etiology of malaria. Quinolines: SAR, Quinine sulphate, Chloroquine, Amodiaquine, Primaquine phosphate, Pamaquine, Quinacrine hydrochloride, Mefloquine. Biguanides and dihydro triazines: Cycloguanil pamoate, Proguanil.<br>Miscellaneous: Pyrimethamine, Artesunete, Artemether, Atovoquone."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Anti-tubercular Agents",
+                                    "paragraph": "Synthetic anti tubercular agents: Isoniozid, Ethionamide, Ethambutol, Pyrazinamide, Para amino salicylic acid.*<br>Anti tubercular antibiotics: Rifampicin, Rifabutin, Cycloserine Streptomycine, Capreomycin sulphate."
+                                },
+                                {
+                                    "header": "Urinary tract anti-infective agents",
+                                    "paragraph": "Quinolones: SAR of quinolones, Nalidixic Acid,Norfloxacin, Enoxacin, Ciprofloxacin, Ofloxacin, Lomefloxacin, Sparfloxacin, Gatifloxacin, Moxifloxacin<br>Miscellaneous: Furazolidine, Nitrofurantoin, Methanamine"
+                                },
+                                {
+                                    "header": "Antiviral agents:",
+                                    "paragraph": "Amantadine hydrochloride, Rimantadine hydrochloride, Idoxuridine trifluoride, Acyclovir, Gancyclovir, Zidovudine, Didanosine, Zalcitabine, Lamivudine, Loviride, Delavirding, Ribavirin, Saquinavir, Indinavir, Ritonavir."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Biotechnology",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Brief introduction to Biotechnology with reference to Pharmaceutical Sciences.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Enzyme Biotechnology- Methods of enzyme immobilization and applications.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Biosensors- Working and applications of biosensors in Pharmaceutical Industries.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Brief introduction to Protein Engineering.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "5. Use of microbes in industry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "6. Basic principles of genetic engineering",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "1. Study of cloning vectors, restriction endonucleases and DNA ligase.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Recombinant DNA technology",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Application of r DNA technology and genetic engineering in the production of:",
+                                    "paragraph": "Interferon<br>Vaccines- hepatitis- B<br>Hormones-Insulin."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Types of immunity- humoral immunity, cellular immunity",
+                                    "paragraph": "1. Structure of Immunoglobulins<br>2. Structure and Function of MHC<br>3. Hypersensitivity reactions, Immune stimulation and Immune suppressions.<br>4. General method of the preparation of bacterial vaccines, toxoids, viral vaccine, antitoxins, serum-immune blood derivatives and other products relative to immunity.<br>5. Storage conditions and stability of official vaccines<br>6. Hybridoma technology- Production, Purification and Applications<br>7. Blood products and Plasma Substituties."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "1. Immuno blotting techniques- ELISA, Western blotting, Southern blotting.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Genetic organization of Eukaryotes and Prokaryotes",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Microbial genetics including transformation, transduction, conjugation, plasmids and transposons.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Introduction to Microbial biotransformation and applications.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "5. Mutation: Types of mutation/mutants.",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "1. Fermentation methods and general requirements, study of media, equipments, sterilization methods, aeration process, stirring.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Large scale production fermenter design and its various controls.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Study of the production of - penicillins, citric acid, Vitamin B12, Glutamic acid, Griseofulvin,",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Blood Products: Collection, Processing and Storage of whole human blood, dried human plasma, plasma Substituties.",
+                                    "paragraph": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Herbal Drug Technology",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Herbs as raw material",
+                                    "paragraph": "Definition of herb, herbal medicine, herbal medicinal product, herbal drug preparation Source of Herbs<br><br>Selection, identification and authentication of herbal materials Processing of herbal raw material"
+                                },
+                                {
+                                    "header": "Biodynamic Agriculture",
+                                    "paragraph": "Good agricultural practices in cultivation of medicinal plants including Organic farming.<br>Pest and Pest management in medicinal plants: Biopesticides/Bioinsecticides."
+                                },
+                                {
+                                    "header": "Indian Systems of Medicine",
+                                    "paragraph": "Basic principles involved in Ayurveda, Siddha, Unani and Homeopathy<br>Preparation and standardization of Ayurvedic formulations viz Aristas and Asawas, Ghutika,Churna, Lehya and Bhasma."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Nutraceuticals",
+                                    "paragraph": "General aspects, Market, growth, scope and types of products available in the market. Health<br><br>Benefits and role of Nutraceuticals in ailments like Diabetes, CVS diseases, Cancer, Irritable<br><br>Bowel syndrome and various Gastro intestinal diseases. Study of following herbs as health food: Alfaalfa, Chicory, Ginger, Fenugreek, Garlic, Honey, Amla, Ginseng, Ashwagandha, Spirulina"
+                                },
+                                {
+                                    "header": "Herbal-Drug and Herb-Food Interactions:",
+                                    "paragraph": "General introduction to interaction and classification. Study of following drugs and their possible side effects and interactions:<br>Hypercium, kava-kava, Ginkobiloba, Ginseng, Garlic, Pepper & Ephedra"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Herbal Cosmetics",
+                                    "paragraph": "Sources and description of raw materials of herbal origin used via, fixed oils, waxes, gums colours, perfumes, protective agents, bleaching agents, antioxidants in products such as skin care, hair care and oral hygiene products."
+                                },
+                                {
+                                    "header": "Herbal excipients:",
+                                    "paragraph": "Herbal Excipients - Significance of substances of natural origin as excipients - colorants, sweeteners, binders, diluents, viscosity builders, disintegrants, flavors & perfumes."
+                                },
+                                {
+                                    "header": "Herbal formulations:",
+                                    "paragraph": "Conventional herbal formulations like syrups, mixtures and tablets and Novel dosage forms like phytosomes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Quality Assurance",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Quality Assurance and Quality Management concepts:",
+                                    "paragraph": "Definition and concept of Qualitycontrol, Quality assurance and GMP"
+                                },
+                                {
+                                    "header": "Total Quality Management (TQM):",
+                                    "paragraph": "Definition, elements, philosophies"
+                                },
+                                {
+                                    "header": "CH Guidelines: ",
+                                    "paragraph": "purpose, participants, process of harmonization, Brief overview of QSEM, with special emphasis on Q-series guidelines, ICH stability testing guidelines"
+                                },
+                                {
+                                    "header": "Quality by design (QbD):",
+                                    "paragraph": "Definition, overview, elements of QbD program, tools"
+                                },
+                                {
+                                    "header": "ISO 9000 & ISO14000:",
+                                    "paragraph": " Overview, Benefits, Elements, steps for registration"
+                                },
+                                {
+                                    "header": "NABL accreditation:",
+                                    "paragraph": "Principles and procedures"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Organization and personnel:",
+                                    "paragraph": "Personnel responsibilities, training, hygiene and personal records"
+                                },
+                                {
+                                    "header": "Premises:",
+                                    "paragraph": "Design, construction and plant layout, maintenance, sanitation, environmental control, utilities and maintenance of sterile areas, control of contamination."
+                                },
+                                {
+                                    "header": "Equipments and raw materials:",
+                                    "paragraph": "Equipment selection, purchase specifications, maintenance, purchase specifications and maintenance of stores for raw materials"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Quality Control: ",
+                                    "paragraph": "Quality control test for containers, rubber closures and secondary packing material"
+                                },
+                                {
+                                    "header": "Good Laboratory Practices: ",
+                                    "paragraph": " General Provisions, Organization and Personnel, Facilities, Equipment, Testing Facilities Operation, and Control Articles, Protocol for Conduct of aNonclinical Laboratory Study, Records and Reports, Disqualification of Testing Facilities"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

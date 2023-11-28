@@ -1,0 +1,173 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Industrial Pharmacy 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Preformulation Studies: ",
+                                    "paragraph": " Introduction to preformulation, goals and objectives, study of physicochemical characteristics of drug substances.<br><br>Physical properties: Physical form (crystal & amorphous), particle size, shape, flow properties, solubility profile (pKa, pH, partition coefficient), polymorphism<br>Chemical Properties: Hydrolysis, oxidation, reduction, racemisation, polymerization<br>BCS classification of drugs & its significant<br><br>Application of preformulation considerations in the development of solid, liquid oral and parenteral dosage forms and its impact on stability of dosage forms."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Tablets:",
+                                    "paragraph": "Introduction, ideal characteristics of tablets, classification of tablets. Excipients, Formulation of tablets, granulation methods, compression and processing problems. Equipments and tablet tooling.<br>Tablet coating: Types of coating, coating materials, formulation of coating composition, methods of coating, equipment employed and defects in coating.<br>Quality control tests: In process and finished product tests Liquid orals: Formulation and manufacturing consideration of syrups and elixirs suspensions and emulsions; Filling and packaging; evaluation of liquid orals official in pharmacopoeia"
+                                },
+                                {
+                                    "header": "Liquid orals:",
+                                    "paragraph": "Formulation and manufacturing consideration of syrups and elixirs suspensions and emulsions; Filling and packaging; evaluation of liquid orals official in pharmacopoeia"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Capsules:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Hard gelatin capsules:",
+                                    "paragraph": "Introduction, Production of hard gelatin capsule shells. size of capsules, Filling, finishing and special techniques of formulation of hard gelatin capsules, manufacturing defects. In process and final product quality control tests for capsules."
+                                },
+                                {
+                                    "header": "Soft gelatin capsules:",
+                                    "paragraph": "Nature of shell and capsule content, size of capsules,importance of base adsorption and minim/gram factors, production, in process and final product quality control tests. Packing, storage and stability testing of soft gelatin capsules and their applications."
+                                },
+                                {
+                                    "header": "Pellets:",
+                                    "paragraph": "Introduction, formulation requirements, pelletization process, equipments for manufacture of pellets"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Parenteral Products:",
+                                    "paragraph": "Definition, types, advantages and limitations. Preformulation factors and essential requirements, vehicles, additives, importance of isotonicity<br>Production procedure, production facilities and controls, aseptic processing<br>Formulation of injections, sterile powders, large volume parenterals and lyophilized products.<br>Containers and closures selection, filling and sealing of ampoules, vials and infusion fluids. Quality control tests of parenteral products."
+                                },
+                                {
+                                    "header": "Ophthalmic Preparations:",
+                                    "paragraph": "Introduction, formulation considerations; formulation of eye drops, eye ointments and eye lotions; methods of preparation; labeling, containers; evaluation of ophthalmic preparations"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Cosmetics:",
+                                    "paragraph": "Formulation and preparation of the following cosmetic preparations:<br><br>Lipsticks, shampoos, cold cream and vanishing cream, tooth pastes, hair dyes and sunscreens."
+                                },
+                                {
+                                    "header": "Pharmaceutical Aerosols:",
+                                    "paragraph": "Definition, propellants, containers, valves, types of aerosol systems; formulation and manufacture of aerosols; Evaluation of aerosols; Quality control and stability studies."
+                                },
+                                {
+                                    "header": "Packaging Materials Science:",
+                                    "paragraph": "Materials used for packaging of pharmaceutical products,<br><br>factors influencing choice of containers, legal and official requirements for containers,<br><br>stability aspects of packaging materials, quality control tests."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

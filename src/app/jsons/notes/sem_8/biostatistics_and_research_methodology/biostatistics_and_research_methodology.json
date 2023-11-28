@@ -1,0 +1,189 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Biostatistics And Research Methodology",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Introduction:",
+                                    "paragraph": "Statistics, Biostatistics, Frequency distribution"
+                                },
+                                {
+                                    "header": "Measures of central tendency:",
+                                    "paragraph": "Mean, Median, Mode- Pharmaceutical examples"
+                                },
+                                {
+                                    "header": "Measures of dispersion:",
+                                    "paragraph": "Dispersion, Range, standard deviation, Pharmaceutical problems"
+                                },
+                                {
+                                    "header": "Correlation:",
+                                    "paragraph": "Definition, Karl Pearson\u00e2\u20ac\u2122s coefficient of correlation, Multiple correlation - Pharmaceuticals examples"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Regression:",
+                                    "paragraph": "Curve fitting by the method of least squares, fitting the lines y= a + bx and x = a + by, Multiple regression, standard error of regression - Pharmaceutical Examples"
+                                },
+                                {
+                                    "header": "Probability:",
+                                    "paragraph": "Definition of probability, Binomial distribution, Normal distribution,<br>Poisson\u00e2\u20ac\u2122s distribution, properties - problems<br><br>Sample, Population, large sample, small sample, Null hypothesis, alternative hypothesis, sampling, essence of sampling, types of sampling, Error-I type, Error-II type, Standard error of mean (SEM) - Pharmaceutical examples<br><br>Parametric test: t-test(Sample, Pooled or Unpaired and Paired) , ANOVA, (One way and Two way), Least Significance difference"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Non Parametric tests: ",
+                                    "paragraph": "Wilcoxon Rank Sum Test, Mann-Whitney U test, Kruskal-Wallis test, Friedman Test"
+                                },
+                                {
+                                    "header": "Introduction to Research:",
+                                    "paragraph": " Need for research, Need for design of Experiments, Experiential Design Technique, plagiarism"
+                                },
+                                {
+                                    "header": "Graphs:",
+                                    "paragraph": "Histogram, Pie Chart, Cubic Graph, response surface plot, Counter Plot graph"
+                                },
+                                {
+                                    "header": "Designing the methodology:",
+                                    "paragraph": "Sample size determination and Power of a study, Report writing and presentation of data, Protocol, Cohorts studies, Observational studies, Experimental studies, Designing clinical trial, various phases."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Blocking and confounding system for Two-level factorials"
+                                },
+                                {
+                                    "header": "Regression modeling:",
+                                    "paragraph": "Hypothesis testing in Simple and Multiple regressionmodels"
+                                },
+                                {
+                                    "header": "Introduction to Practical components of Industrial and Clinical Trials Problems:",
+                                    "paragraph": "Statistical Analysis Using Excel, SPSS, MINITAB\u00c2\u00ae, DESIGN OF EXPERIMENTS, R - Online Statistical Software\u00e2\u20ac\u2122s to Industrial and Clinical trial approach"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Design and Analysis of experiments:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Factorial Design: ",
+                                    "paragraph": "Definition, 2\u00c2\u00b2, 2\u00c2\u00b3 design. Advantage of factorial design"
+                                },
+                                {
+                                    "header": "Response Surface methodology:",
+                                    "paragraph": "Central composite design, Historical design, Optimization Techniques"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/biostatistics_and_research_methodology/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

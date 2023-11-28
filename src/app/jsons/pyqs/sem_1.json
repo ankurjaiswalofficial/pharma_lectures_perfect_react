@@ -1,0 +1,179 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "Ist Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "B-Pharmacy",
+            "banner_text_2_span": "B-Pharmacy",
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_1/human_anatomy_and_physiology_1/aktu/pyqs_sem_1_human_anatomy_and_physiology_1_aktu.pdf",
+                    "text": {
+                        "header": "Human Anatomy And Physiology 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Human Anatomy And Physiology 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmacetical_analysis/aktu/pyqs_sem_1_pharmacetical_analysis_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacetical Analysis",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacetical Analysis - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmaceutical_inorganic_chemistry/aktu/pyqs_sem_1_pharmaceutical_inorganic_chemistry_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Inorganic Chemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Inorganic Chemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmaceutics/aktu/pyqs_sem_1_pharmaceutics_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutics - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Ist Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "B-Pharmacy",
+            "banner_text_2_span": "B-Pharmacy",
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_1/human_anatomy_and_physiology_1/rgpv/pyqs_sem_1_human_anatomy_and_physiology_1_rgpv.pdf",
+                    "text": {
+                        "header": "Human Anatomy And Physiology 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Human Anatomy And Physiology 1 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmacetical_analysis/rgpv/pyqs_sem_1_pharmacetical_analysis_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmacetical Analysis",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacetical Analysis - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmaceutical_inorganic_chemistry/rgpv/pyqs_sem_1_pharmaceutical_inorganic_chemistry_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Inorganic Chemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Inorganic Chemistry - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_1/pharmaceutics/rgpv/pyqs_sem_1_pharmaceutics_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutics - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Ist Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "B-Pharmacy",
+            "banner_text_2_span": "B-Pharmacy",
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_1/complete/csvtu/pyqs_sem_1_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Ist Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "B-Pharmacy",
+            "banner_text_2_span": "B-Pharmacy",
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_1/complete/snvp/pyqs_sem_1_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

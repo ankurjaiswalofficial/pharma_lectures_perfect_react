@@ -1,0 +1,369 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text_1": "",
+            "banner_text": "VIIth Semester Syllabus",
+            "banner_text_2_span": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2": "B-Pharmacy",
+            "buttons": [],
+            "cards": [],
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Industrial Pharmacy 2",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Pilot plant scale up techniques:",
+                                    "paragraph": "General considerations - including significance of personnel requirements, space requirements, raw materials, Pilot plant scale up considerations for solids, liquid orals, semi solids and relevant documentation, SUPAC guidelines, Introduction to platform technology"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Technology development and transfer:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "WHO guidelines for Technology Transfer(TT):",
+                                    "paragraph": "Terminology, Technology transfer protocol, Quality risk management, Transfer from R & D to production (Process, packaging and cleaning), Granularity of TT Process (API, excipients, finished products, packaging materials) Documentation, Premises and equipments, qualification and validation, quality control, analytical method transfer, Approved regulatory bodies and agencies, Commercialization - practical aspects and problems (case studies), TT agencies in India - APCTD, NRDC, TIFAC, BCIL, TBSE / SIDBI; TT related documentation - confidentiality agreement, licensing, MoUs, legal issues"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Regulatory affairs:",
+                                    "paragraph": "Introduction, Historical overview of Regulatory Affairs, Regulatory authorities, Role of Regulatory affairs department, Responsibility of Regulatory Affairs Professionals"
+                                },
+                                {
+                                    "header": "Regulatory requirements for drug approval:",
+                                    "paragraph": "Drug Development Teams, Non-Clinical Drug Development, Pharmacology, Drug Metabolism and Toxicology, General considerations of Investigational New Drug (IND) Application, Investigator’s Brochure (IB) and New Drug Application (NDA), Clinical research / BE studies, Clinical Research Protocols, Biostatistics in Pharmaceutical Product Development, Data Presentation for FDA Submissions, Management of Clinical Studies."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Quality management systems:",
+                                    "paragraph": "Quality management & Certifications: Concept of Quality, Total Quality Management, Quality by Design (QbD), Six Sigma concept, Out of Specifications (OOS), Change control, Introduction to ISO 9000 series of quality systems standards, ISO 14000, NABL, GLP"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Indian Regulatory Requirements:",
+                                    "paragraph": "Central Drug Standard Control Organization (CDSCO) and State Licensing Authority: Organization, Responsibilities, Certificate of Pharmaceutical Product (COPP), Regulatory requirements and approval procedures for New Drugs."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Instrumental Methods Of Analysis",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "UV Visible spectroscopy",
+                                    "paragraph": "Electronic transitions, chromophores, auxochromes, spectral shifts, solvent effect on absorption spectra, Beer and Lambert's law, Derivation and deviations."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Instrumentation - Sources of radiation, wavelength selectors, sample cells, detectorsPhoto tube, Photomultiplier tube, Photo voltaic cell, Silicon Photodiode."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Applications - Spectrophotometric titrations, Single component and multi component analysis"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "IR Spectroscopy",
+                                    "paragraph": "Introduction, fundamental modes of vibrations in poly atomic molecules, sample handling, factors affecting vibrations"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "Instrumentation - Sources of radiation, wavelength selectors, detectors - Golay cell, Bolometer, Thermocouple, Thermister, Pyroelectric detector and applications"
+                                },
+                                {
+                                    "header": "Flame Photometry",
+                                    "paragraph": "Principle, interferences, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Atomic absorption spectroscopy",
+                                    "paragraph": "Principle, interferences, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Nepheloturbidometry",
+                                    "paragraph": "Principle, instrumentation and applications"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Introduction to chromatography",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Adsorption and partition column chromatography",
+                                    "paragraph": "Methodology, advantages, disadvantages and applications."
+                                },
+                                {
+                                    "header": "Thin layer chromatography",
+                                    "paragraph": "Introduction, Principle, Methodology, Rf values, advantages, disadvantages and applications."
+                                },
+                                {
+                                    "header": "Paper chromatography",
+                                    "paragraph": "Introduction, methodology, development techniques, advantages, disadvantages and applications"
+                                },
+                                {
+                                    "header": "Electrophoresis",
+                                    "paragraph": "Introduction, factors affecting electrophoretic mobility, Techniques of paper, gel, capillary electrophoresis, applications"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Gas chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation, derivatization, temperature programming, advantages, disadvantages and applications"
+                                },
+                                {
+                                    "header": "High performance liquid chromatography (HPLC)",
+                                    "paragraph": "Introduction, theory, instrumentation, advantages and applications."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Ion exchange chromatography",
+                                    "paragraph": "Introduction, classification, ion exchange resins, properties, mechanism of ion exchange process, factors affecting ion exchange, methodology and applications"
+                                },
+                                {
+                                    "header": "Gel chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation and applications"
+                                },
+                                {
+                                    "header": "Affinity chromatography",
+                                    "paragraph": "Introduction, theory, instrumentation and applications"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Novel Drug Delivery Systems",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Controlled drug delivery systems:",
+                                    "paragraph": "Introduction, terminology/definitions and rationale, advantages, disadvantages, selection of drug candidates.Approaches to design controlled release formulations based on diffusion, dissolution and ion exchange principles. Physicochemical and biological properties of drugs relevant to controlled release formulations"
+                                },
+                                {
+                                    "header": "polymers:",
+                                    "paragraph": "Introduction, classification, properties, advantages and application of polymers in formulation of controlled release drug delivery"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "microencapsulation:",
+                                    "paragraph": "Definition, advantages and disadvantages, microspheres/microcapsules, microparticles, methods of microencapsulation, applications"
+                                },
+                                {
+                                    "header": "Mucosal Drug Delivery system:",
+                                    "paragraph": "Introduction, Principles of bioadhesion /mucoadhesion, concepts, advantages and disadvantages, transmucosal permeability and formulation considerations of buccal delivery systems"
+                                },
+                                {
+                                    "header": "Implantable Drug Delivery Systems:",
+                                    "paragraph": "Introduction, advantages and disadvantages, concept of implantsand osmotic pump"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Transdermal Drug Delivery Systems:",
+                                    "paragraph": "Introduction, Permeation through skin, factors affecting permeation, permeation enhancers, basic components of TDDS, formulation approaches"
+                                },
+                                {
+                                    "header": "Gastroretentive drug delivery systems:",
+                                    "paragraph": "Introduction, advantages, disadvantages, approaches for GRDDS - Floating, high density systems, inflatable and gastroadhesive systems and their applications"
+                                },
+                                {
+                                    "header": "Nasopulmonary drug delivery system:",
+                                    "paragraph": "Introduction to Nasal and Pulmonary routes of drug delivery, Formulation of Inhalers (dry powder and metered dose), nasal sprays, nebulizers"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Targeted drug Delivery:",
+                                    "paragraph": "Concepts and approaches advantages and disadvantages, introduction to liposomes, niosomes, nanoparticles, monoclonal antibodies and their applications"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Ocular Drug Delivery Systems:",
+                                    "paragraph": "Introduction, intra ocular barriers and methods to overcome - Preliminary study, ocular formulations and ocuserts"
+                                },
+                                {
+                                    "header": "Intrauterine Drug Delivery Systems:",
+                                    "paragraph": "Introduction, advantages and disadvantages, development of intra uterine devices (IUDs) and applications"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmacy Practice",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Hospital and it’s organization",
+                                    "paragraph": "Hospital and it’s organization Definition, Classification of hospital- Primary, Secondary and Tertiary hospitals, Classification based on clinical and non- clinical basis, Organization Structure of a Hospital, and Medical staffs involved in the hospital and their functions"
+                                },
+                                {
+                                    "header": "2. Hospital pharmacy and its organization",
+                                    "paragraph": "Definition, functions of hospital pharmacy, Organization structure, Location, Layout and staff requirements, and Responsibilities and functions of hospital pharmacists."
+                                },
+                                {
+                                    "header": "3. Adverse drug reaction",
+                                    "paragraph": "Classifications - Excessive pharmacological effects, secondary pharmacological effects, idiosyncrasy, allergic drug reactions, genetically determined toxicity, toxicity following sudden withdrawal of drugs, Drug interaction- beneficial interactions, adverse interactions, and pharmacokinetic drug interactions, Methods for detecting drug interactions, spontaneous case reports and record linkage studies, and Adverse drug reaction reporting and management"
+                                },
+                                {
+                                    "header": "4. Community Pharmacy",
+                                    "paragraph": "Organization and structure of retail and wholesale drug store, types and design, Legal requirements for establishment and maintenance of a drug store, Dispensing of proprietary products, maintenance of records of retail and wholesale drug store."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "1. Drug distribution system in a hospital",
+                                    "paragraph": "Dispensing of drugs to inpatients, types of drug distribution systems, charging policy and labelling, Dispensing of drugs to ambulatory patients, and Dispensing of controlled drugs."
+                                },
+                                {
+                                    "header": "2. Hospital formulary",
+                                    "paragraph": "Definition, contents of hospital formulary, Differentiation of hospital formulary and Drug list, preparation and revision, and addition and deletion of drug from hospital formulary"
+                                },
+                                {
+                                    "header": "3. Therapeutic drug monitoring",
+                                    "paragraph": "Need for Therapeutic Drug Monitoring, Factors to be considered during the Therapeutic Drug Monitoring, and Indian scenario for Therapeutic Drug Monitoring."
+                                },
+                                {
+                                    "header": "4. Medication adherence",
+                                    "paragraph": "Causes of medication non-adherence, pharmacist role in the medication adherence, and monitoring of patient medication adherence."
+                                },
+                                {
+                                    "header": "5. Patient medication history interview",
+                                    "paragraph": "Need for the patient medication history interview, medication interview forms."
+                                },
+                                {
+                                    "header": "6. Community pharmacy management",
+                                    "paragraph": "Financial, materials, staff, and infrastructure requirements."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacy and therapeutic committee",
+                                    "paragraph": "Organization, functions, Policies of the pharmacy and therapeutic committee in including drugs into formulary, inpatient and outpatient prescription, automatic stop order, and emergency drug list preparation."
+                                },
+                                {
+                                    "header": "2. Drug information services",
+                                    "paragraph": "Drug and Poison information centre, Sources of drug information, Computerised services, and storage and retrieval of information."
+                                },
+                                {
+                                    "header": "3. Patient counseling",
+                                    "paragraph": "Definition of patient counseling; steps involved in patient counseling, and Special cases that require the pharmacist"
+                                },
+                                {
+                                    "header": "4. Education and training program in the hospital",
+                                    "paragraph": "Role of pharmacist in the education and training program, Internal and external training program, Services to the nursing homes/clinics, Code of ethics for community pharmacy, and Role of pharmacist in the interdepartmental communication and community health education."
+                                },
+                                {
+                                    "header": "5. Prescribed medication order and communication skills",
+                                    "paragraph": "Prescribed medication order- interpretation and legal requirements, and Communication skills- communication with prescribers and patients."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "1. Budget preparation and implementation",
+                                    "paragraph": "Budget preparation and implementation"
+                                },
+                                {
+                                    "header": "2. Clinical Pharmacy",
+                                    "paragraph": "Introduction to Clinical Pharmacy, Concept of clinical pharmacy, functions and responsibilities of clinical pharmacist, Drug therapy monitoring - medication chart review, clinical review, pharmacist intervention, Ward round participation, Medication history and Pharmaceutical care. Dosing pattern and drug therapy based on Pharmacokinetic & disease pattern."
+                                },
+                                {
+                                    "header": "3. Over the counter (OTC) sales",
+                                    "paragraph": "Introduction and sale of over the counter, and Rational use of common over the counter medications."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "1. Drug store management and inventory control",
+                                    "paragraph": "Organisation of drug store, types of materials stocked and storage conditions, Purchase and inventory control: principles, purchase procedure, purchase order, procurement and stocking, Economic order quantity, Reorder quantity level, and Methods used for the analysis of the drug expenditure"
+                                },
+                                {
+                                    "header": "2. Investigational use of drugs",
+                                    "paragraph": "Description, principles involved, classification, control, identification, role of hospital pharmacist, advisory committee."
+                                },
+                                {
+                                    "header": "3. Interpretation of Clinical Laboratory Tests",
+                                    "paragraph": "Blood chemistry, hematology, and urinalysis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

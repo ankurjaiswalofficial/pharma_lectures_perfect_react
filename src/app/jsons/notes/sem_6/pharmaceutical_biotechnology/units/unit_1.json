@@ -1,0 +1,81 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Biotechnology - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "1. Brief introduction to Biotechnology with reference to Pharmaceutical Sciences.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "2. Enzyme Biotechnology- Methods of enzyme immobilization and applications.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "3. Biosensors- Working and applications of biosensors in Pharmaceutical Industries.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "4. Brief introduction to Protein Engineering.",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "5. Use of microbes in industry",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "6. Basic principles of genetic engineering",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_6/pharmaceutical_biotechnology/units/unit_1/notes_sem_6_pharmaceutical_biotechnology_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

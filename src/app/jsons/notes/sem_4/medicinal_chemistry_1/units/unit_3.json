@@ -1,0 +1,89 @@
+{
+    "semester": "IVth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 1 - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Cholinergic neurotransmitters:",
+                                    "paragraph": "Biosynthesis and catabolism of acetylcholine.<br><br>Cholinergic receptors (Muscarinic & Nicotinic) and their distribution."
+                                },
+                                {
+                                    "header": "Parasympathomimetic agents: SAR of Parasympathomimetic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Direct acting agents:",
+                                    "paragraph": "Acetylcholine, Carbachol, Bethanechol, Methacholine, Pilocarpine."
+                                },
+                                {
+                                    "header": "Indirect acting/ Cholinesterase inhibitors (Reversible & Irreversible):",
+                                    "paragraph": "Physostigmine, Neostigmine, Pyridostigmine, Edrophonium chloride, Tacrine hydrochloride, Ambenonium chloride, Isofluorphate, Echothiophate iodide, Parathione, Malathion."
+                                },
+                                {
+                                    "header": "Cholinesterase reactivator:",
+                                    "paragraph": "Pralidoxime chloride."
+                                },
+                                {
+                                    "header": "Cholinergic Blocking agents: SAR of cholinolytic agents",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Atropine sulphate, Hyoscyamine sulphate, Scopolamine hydrobromide, Homatropine hydrobromide, Ipratropium bromide*."
+                                },
+                                {
+                                    "header": "Synthetic cholinergic blocking agents:",
+                                    "paragraph": "Tropicamide, Cyclopentolate hydrochloride, Clidinium bromide, Dicyclomine hydrochloride, Glycopyrrolate, Methantheline bromide, Propantheline bromide, Benztropine mesylate, Orphenadrine citrate, Biperidine hydrochloride, Procyclidine hydrochloride, Tridihexethyl chloride, Isopropamide iodide, Ethopropazine hydrochloride."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_4/medicinal_chemistry_1/units/unit_3/notes_sem_4_medicinal_chemistry_1_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

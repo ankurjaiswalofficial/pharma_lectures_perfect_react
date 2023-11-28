@@ -1,0 +1,181 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pathophysiology",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Basic principles of Cell injury and Adaptation",
+                                    "paragraph": "Introduction, definitions, Homeostasis, Components and Types of Feedback systems, Causes of cellular injury,Pathogenesis (Cell membrane damage, Mitochondrial damage, Ribosome damage, Nuclear damage),Morphology of cell injury - Adaptive changes (Atrophy, Hypertrophy, hyperplasia, Metaplasia, Dysplasia),Cell swelling, Intra cellular accumulation, Calcification, Enzyme leakage and Cell Death Acidosis &Alkalosis,Electrolyte imbalance"
+                                },
+                                {
+                                    "header": "Basic mechanism involved in the process of inflammation and repair",
+                                    "paragraph": "Introduction, Clinical signs of inflammation, Different types of Inflammation,Mechanism of Inflammation - Alteration in vascular permeability and blood flow, migration of WBC\u00e2\u20ac\u2122s,Mediators of inflammation,Basic principles of wound healing in the skin,Pathophysiology of Atherosclerosis"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pathophysiology/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Cardiovascular System",
+                                    "paragraph": "Hypertension, congestive heart failure, ischemic heart disease (angina,myocardial infarction, atherosclerosis and arteriosclerosis)"
+                                },
+                                {
+                                    "header": "Respiratory system",
+                                    "paragraph": "Asthma, Chronic obstructive airways diseases."
+                                },
+                                {
+                                    "header": "Renal system",
+                                    "paragraph": "Acute and chronic renal failure"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pathophysiology/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Haematological Diseases",
+                                    "paragraph": "Iron deficiency, megaloblastic anemia (Vit B12 and folic acid), sickle cell anemia, thalasemia, hereditary acquired anemia, hemophilia"
+                                },
+                                {
+                                    "header": "Endocrine system",
+                                    "paragraph": "Diabetes, thyroid diseases, disorders of sex hormones"
+                                },
+                                {
+                                    "header": "Nervous system",
+                                    "paragraph": "Epilepsy, Parkinson\u00e2\u20ac\u2122s disease, stroke, psychiatric disorders depression, schizophrenia and Alzheimer\u00e2\u20ac\u2122s disease."
+                                },
+                                {
+                                    "header": "Gastrointestinal system",
+                                    "paragraph": "Peptic Ulcer"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pathophysiology/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Inflammatory bowel diseases, jaundice, hepatitis (A,B,C,D,E,F) alcoholic liver disease.",
+                                    "paragraph": "Rheumatoid arthritis, osteoporosis and gout"
+                                },
+                                {
+                                    "header": "Principles of cancer",
+                                    "paragraph": "classification, etiology and pathogenesis of cancer"
+                                },
+                                {
+                                    "header": "Diseases of bones and joints",
+                                    "paragraph": "Rheumatoid Arthritis, Osteoporosis,Gout"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pathophysiology/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Infectious diseases",
+                                    "paragraph": "Meningitis,Typhoid, Leprosy, Tuberculosis Urinary tract infections"
+                                },
+                                {
+                                    "header": "Sexually transmitted diseases",
+                                    "paragraph": "AIDS, Syphilis, Gonorrhea Recommended Books (Latest Editions)"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/pathophysiology/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

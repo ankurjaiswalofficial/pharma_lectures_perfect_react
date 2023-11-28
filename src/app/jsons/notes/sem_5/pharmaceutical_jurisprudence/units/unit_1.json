@@ -1,0 +1,61 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Jurisprudence - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Drugs and Cosmetics Act, 1940 and its rules 1945:",
+                                    "paragraph": "Objectives, Definitions, Legal definitions of schedules to the Act and Rules<br><br>Import of drugs - Classes of drugs and cosmetics prohibited from import, Import under license or permit. Offences and penalties.<br><br>Manufacture of drugs - Prohibition of manufacture and sale of certain drugs,<br><br>Conditions for grant of license and conditions of license for manufacture of drugs,<br><br>Manufacture of drugs for test, examination and analysis, manufacture of new drug, loan license and repacking license."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_5/pharmaceutical_jurisprudence/units/unit_1/notes_sem_5_pharmaceutical_jurisprudence_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

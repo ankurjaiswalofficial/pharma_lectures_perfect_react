@@ -1,0 +1,65 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Human Anatomy And Physiology 2 - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Respiratory system",
+                                    "paragraph": "Anatomy of respiratory system with special reference to anatomy of lungs, mechanism of respiration, regulation of respiration<br>Lung Volumes and capacities transport of respiratory gases, artificial respiration, and resuscitation methods."
+                                },
+                                {
+                                    "header": "Urinary system",
+                                    "paragraph": "Anatomy of urinary tract with special reference to anatomy of kidney and nephrons, functions of kidney and urinary tract, physiology of urine formation, micturition reflex and role of kidneys in acid base balance, role of RAS in kidney and disorders of kidney."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_2/human_anatomy_and_physiology_2/units/unit_3/notes_sem_2_human_anatomy_and_physiology_2_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

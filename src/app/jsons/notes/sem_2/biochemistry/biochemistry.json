@@ -1,0 +1,157 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Biochemistry",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Biomolecules",
+                                    "paragraph": "Introduction, classification, chemical nature and biological role of carbohydrate, lipids, nucleic acids, amino acids and proteins."
+                                },
+                                {
+                                    "header": "Bioenergetics",
+                                    "paragraph": "Concept of free energy, endergonic and exergonic reaction, Relationship between free energy, enthalpy and entropy; Redox potential. <br>Energy rich compounds; classification; biological significances of ATP and cyclic AMP"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/biochemistry/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Carbohydrate metabolism",
+                                    "paragraph": "Glycolysis - Pathway, energetics and significance Citric acid cycle- Pathway, energetics and significance HMP shunt and its significance; Glucose-6-Phosphate dehydrogenase (G6PD) deficiency Glycogen metabolism Pathways and glycogen storage diseases (GSD) Gluconeogenesis- Pathway and its significance Hormonal regulation of blood glucose level and Diabetes mellitus"
+                                },
+                                {
+                                    "header": "Biological oxidation",
+                                    "paragraph": "Electron transport chain (ETC) and its mechanism. Oxidative phosphorylation & its mechanism and substrate phosphorylation Inhibitors ETC and oxidative phosphorylation/Uncouplers"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/biochemistry/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Lipid metabolism",
+                                    "paragraph": "\u00ce\u00b2-Oxidation of saturated fatty acid (Palmitic acid)<br><br>Formation and utilization of ketone bodies; ketoacidosis De novo synthesis of fatty acids (Palmitic acid) Biological significance of cholesterol and conversion of cholesterol into bile acids, steroid hormone and vitamin D Disorders of lipid metabolism: Hypercholesterolemia, atherosclerosis, fatty liver and obesity."
+                                },
+                                {
+                                    "header": "Amino acid metabolism",
+                                    "paragraph": "General reactions of amino acid metabolism: Transamination, deamination & decarboxylation, urea cycle and its disorders Catabolism of phenylalanine and tyrosine and their metabolic disorders (Phenyketonuria, Albinism, alkeptonuria, tyrosinemia) Synthesis and significance of biological substances; 5-HT, melatonin, dopamine, noradrenaline, adrenaline Catabolism of heme; hyperbilirubinemia and jaundice"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/biochemistry/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Nucleic acid metabolism and genetic information transfer",
+                                    "paragraph": "Biosynthesis of purine and pyrimidine nucleotides Catabolism of purine nucleotides and Hyperuricemia and Gout disease Organization of mammalian genome Structure of DNA and RNA and their functions DNA replication (semi conservative model) Transcription or RNA synthesis Genetic code, Translation or Protein synthesis and inhibitors"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/biochemistry/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Enzymes",
+                                    "paragraph": "Introduction, properties, nomenclature and IUB classification of enzymes Enzyme kinetics (Michaelis plot, Line Weaver Burke plot) Enzyme inhibitors with examples Regulation of enzymes: enzyme induction and repression, allosteric enzymes regulation Therapeutic and diagnostic applications of enzymes and isoenzymes Coenzymes -Structure and biochemical functions"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_2/biochemistry/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

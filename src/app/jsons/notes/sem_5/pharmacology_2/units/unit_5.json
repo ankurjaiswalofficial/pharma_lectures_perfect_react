@@ -1,0 +1,65 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmacology 2 - Unit 5",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "5. Pharmacology of drugs acting on endocrine system",
+                                    "paragraph": "Androgens and Anabolic steroids.<br>Estrogens, progesterone and oral contraceptives.<br>Drugs acting on the uterus."
+                                },
+                                {
+                                    "header": "6. Bioassay",
+                                    "paragraph": "Principles and applications of bioassay.<br>Types of bioassay<br>Bioassay of insulin, oxytocin, vasopressin, ACTH,d-tubocurarine,digitalis, histamine and 5-HT"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_5/pharmacology_2/units/unit_5/notes_sem_5_pharmacology_2_units_unit_5.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

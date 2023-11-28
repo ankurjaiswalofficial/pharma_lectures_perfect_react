@@ -1,0 +1,198 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "2nd Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_2/human_anatomy_and_physiology_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Human Anatomy And Physiology 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_2/biochemistry",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Biochemistry",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_2/pathophysiology",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pathophysiology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_2/pharmaceutical_organic_chemistry_1",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_2/computer_applications",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Computer Applications",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IInd Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_2",
+                    "text": {
+                        "header": "biochemistry",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biochemistry - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_2",
+                    "text": {
+                        "header": "human_anatomy_and_physiology_2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Human Anatomy And Physiology 2 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_2",
+                    "text": {
+                        "header": "pathophysiology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pathophysiology - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_2",
+                    "text": {
+                        "header": "pharmaceutical_organic_chemistry_1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 1 - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "2nd Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_2/human_anatomy_and_physiology_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Human Anatomy And Physiology 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_2/biochemistry",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Biochemistry",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_2/pathophysiology",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pathophysiology",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_2/pharmaceutical_organic_chemistry_1",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_2/computer_applications",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Computer Applications",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

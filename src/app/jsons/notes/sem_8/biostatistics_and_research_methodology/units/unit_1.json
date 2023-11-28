@@ -1,0 +1,73 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Biostatistics And Research Methodology - Unit 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Introduction:",
+                                    "paragraph": "Statistics, Biostatistics, Frequency distribution"
+                                },
+                                {
+                                    "header": "Measures of central tendency:",
+                                    "paragraph": "Mean, Median, Mode- Pharmaceutical examples"
+                                },
+                                {
+                                    "header": "Measures of dispersion:",
+                                    "paragraph": "Dispersion, Range, standard deviation, Pharmaceutical problems"
+                                },
+                                {
+                                    "header": "Correlation:",
+                                    "paragraph": "Definition, Karl Pearson\u00e2\u20ac\u2122s coefficient of correlation, Multiple correlation - Pharmaceuticals examples"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_8/biostatistics_and_research_methodology/units/unit_1/notes_sem_8_biostatistics_and_research_methodology_units_unit_1.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

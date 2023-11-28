@@ -1,0 +1,153 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Industrial Pharmacy 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Pilot plant scale up techniques:",
+                                    "paragraph": "General considerations - including significance of personnel requirements, space requirements, raw materials, Pilot plant scale up considerations for solids, liquid orals, semi solids and relevant documentation, SUPAC guidelines, Introduction to platform technology"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Technology development and transfer:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "WHO guidelines for Technology Transfer(TT):",
+                                    "paragraph": "Terminology, Technology transfer protocol, Quality risk management, Transfer from R & D to production (Process, packaging and cleaning), Granularity of TT Process (API, excipients, finished products, packaging materials) Documentation, Premises and equipments, qualification and validation, quality control, analytical method transfer, Approved regulatory bodies and agencies, Commercialization - practical aspects and problems (case studies), TT agencies in India - APCTD, NRDC, TIFAC, BCIL, TBSE / SIDBI; TT related documentation - confidentiality agreement, licensing, MoUs, legal issues"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Regulatory affairs:",
+                                    "paragraph": "Introduction, Historical overview of Regulatory Affairs, Regulatory authorities, Role of Regulatory affairs department, Responsibility of Regulatory Affairs Professionals"
+                                },
+                                {
+                                    "header": "Regulatory requirements for drug approval:",
+                                    "paragraph": "Drug Development Teams, Non-Clinical Drug Development, Pharmacology, Drug Metabolism and Toxicology, General considerations of Investigational New Drug (IND) Application, Investigator\u00e2\u20ac\u2122s Brochure (IB) and New Drug Application (NDA), Clinical research / BE studies, Clinical Research Protocols, Biostatistics in Pharmaceutical Product Development, Data Presentation for FDA Submissions, Management of Clinical Studies."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Quality management systems:",
+                                    "paragraph": "Quality management & Certifications: Concept of Quality, Total Quality Management, Quality by Design (QbD), Six Sigma concept, Out of Specifications (OOS), Change control, Introduction to ISO 9000 series of quality systems standards, ISO 14000, NABL, GLP"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Indian Regulatory Requirements:",
+                                    "paragraph": "Central Drug Standard Control Organization (CDSCO) and State Licensing Authority: Organization, Responsibilities, Certificate of Pharmaceutical Product (COPP), Regulatory requirements and approval procedures for New Drugs."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_7/industrial_pharmacy_2/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "text_contents": [
+                {
+                    "box_heading": "",
+                    "list_item_content": [
+                        {
+                            "content_heading": "",
+                            "list_item": [],
+                            "buttons": [
+                                {
+                                    "card_link_address": "/media/imp_questions/sem_5/medicinal_chemistry_2/units/unit_1/imp_questions_sem_5_medicinal_chemistry_2_units_unit_1.pdf",
+                                    "card_header_text": "Download",
+                                    "card_image_location": "/media/imp_questions/sem_5/medicinal_chemistry_2/units/unit_1/Code_FfLG2mYg1K.png",
+                                    "card_image_name": "Image",
+                                    "card_description": "",
+                                    "download": true,
+                                    "card_large": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [
+                {
+                    "link": "/uploads/important_questions/sem_5/medicinal_chemistry_2/important_questions_sem_5_medicinal_chemistry_2.pdf",
+                    "text": {
+                        "header": "Download PDF",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/download.png",
+                        "alt": "Important Questions Download Link Image",
+                        "about": "Important Questions Download Link Image"
+                    },
+                    "disabled": "true"
+                }
+            ],
+            "cards": [
+                {
+                    "link": "",
+                    "text": {
+                        "header": "",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "",
+                        "alt": "",
+                        "about": ""
+                    }
+                }
+            ],
+            "description_2": ""
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "semester": "VIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Medicinal Chemistry 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Antibiotics",
+                                    "paragraph": "Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes.<br>\u00ce\u00b2-Lactam antibiotics: Penicillin, Cepholosporins, \u00ce\u00b2- Lactamase inhibitors, Monobactams<br>Aminoglycosides: Streptomycin, Neomycin, Kanamycin<br>Tetracyclines: Tetracycline,Oxytetracycline, Chlortetracycline, Minocycline, Doxycycline"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/medicinal_chemistry_3/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Antibiotics",
+                                    "paragraph": "Historical background, Nomenclature, Stereochemistry, Structure activity relationship, Chemical degradation classification and important products of the following classes.<br>Macrolide: Erythromycin Clarithromycin, Azithromycin.<br>Miscellaneous: Chloramphenicol, Clindamycin.<br>Prodrugs: Basic concepts and application of prodrugs design.<br>Antimalarials: Etiology of malaria. Quinolines: SAR, Quinine sulphate, Chloroquine, Amodiaquine, Primaquine phosphate, Pamaquine, Quinacrine hydrochloride, Mefloquine. Biguanides and dihydro triazines: Cycloguanil pamoate, Proguanil.<br>Miscellaneous: Pyrimethamine, Artesunete, Artemether, Atovoquone."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/medicinal_chemistry_3/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Anti-tubercular Agents",
+                                    "paragraph": "Synthetic anti tubercular agents: Isoniozid, Ethionamide, Ethambutol, Pyrazinamide, Para amino salicylic acid.*<br>Anti tubercular antibiotics: Rifampicin, Rifabutin, Cycloserine Streptomycine, Capreomycin sulphate."
+                                },
+                                {
+                                    "header": "Urinary tract anti-infective agents",
+                                    "paragraph": "Quinolones: SAR of quinolones, Nalidixic Acid,Norfloxacin, Enoxacin, Ciprofloxacin, Ofloxacin, Lomefloxacin, Sparfloxacin, Gatifloxacin, Moxifloxacin<br>Miscellaneous: Furazolidine, Nitrofurantoin, Methanamine"
+                                },
+                                {
+                                    "header": "Antiviral agents:",
+                                    "paragraph": "Amantadine hydrochloride, Rimantadine hydrochloride, Idoxuridine trifluoride, Acyclovir, Gancyclovir, Zidovudine, Didanosine, Zalcitabine, Lamivudine, Loviride, Delavirding, Ribavirin, Saquinavir, Indinavir, Ritonavir."
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_6/medicinal_chemistry_3/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

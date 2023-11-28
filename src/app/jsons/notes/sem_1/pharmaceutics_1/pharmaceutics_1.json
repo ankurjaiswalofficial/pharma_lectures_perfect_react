@@ -1,0 +1,177 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutics 1",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Historical background and development of profession of pharmacy:",
+                                    "paragraph": "History of profession of Pharmacy in India in relation to pharmacy education, industry and organization, Pharmacy as a career, Pharmacopoeias: Introduction to IP, BP, USP and Extra Pharmacopoeia."
+                                },
+                                {
+                                    "header": "Dosage forms:",
+                                    "paragraph": "Introduction to dosage forms, classification and definitions."
+                                },
+                                {
+                                    "header": "Prescription:",
+                                    "paragraph": "Definition, Parts of prescription, handling of Prescription and Errors in prescription."
+                                },
+                                {
+                                    "header": "Posology:",
+                                    "paragraph": "Definition, Factors affecting posology. Pediatric dose calculations based on age, body weight and body surface area."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutics_1/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical calculations:",
+                                    "paragraph": "Weights and measures - Imperial & Metric system, Calculations involving percentage solutions, alligation, proof spirit and isotonic solutions based on freezing point and molecular weight."
+                                },
+                                {
+                                    "header": "Powders:",
+                                    "paragraph": "Definition, classification, advantages and disadvantages,Simple & compound powders - official preparations, dusting powders, effervescent, efflorescent and hygroscopic powders, eutectic mixtures. Geometric dilutions."
+                                },
+                                {
+                                    "header": "Liquid dosage forms:",
+                                    "paragraph": "Advantages and disadvantages of liquid dosage forms. Excipients used in formulation of liquid dosage forms. Solubility enhancement techniques."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutics_1/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Monophasic liquids: ",
+                                    "paragraph": "Definitions and preparations of Gargles, Mouthwashes, Throat Paint, Eardrops, Nasal drops, Enemas, Syrups, Elixirs, Liniments and Lotions."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Suspensions)",
+                                    "paragraph": "Definition, advantages and disadvantages, classifications, Preparation of suspensions; Flocculated and Deflocculated suspension & stability problems and methods to overcome."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Emulsions) ",
+                                    "paragraph": "Definition, classification, emulsifying agent, test for the identification of type ofEmulsion, Methods of preparation & stability problems and methods to overcome."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutics_1/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Suppositories: ",
+                                    "paragraph": "Definition, types, advantages and disadvantages, types of bases, methods of preparations. Displacement value & its calculations, evaluation of suppositories."
+                                },
+                                {
+                                    "header": "Pharmaceutical incompatibilities: ",
+                                    "paragraph": "Definition, classification, physical, chemical and therapeutic incompatibilities with examples."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutics_1/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Semisolid dosage forms: ",
+                                    "paragraph": "Definitions, classification, mechanisms and factors influencing dermal penetration of drugs. Preparation of ointments, pastes, creams and gels. Excipients used in semi solid dosage forms. Evaluation of semi solid dosages forms."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_1/pharmaceutics_1/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

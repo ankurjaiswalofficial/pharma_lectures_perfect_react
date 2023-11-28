@@ -1,0 +1,85 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutics 1 - Unit 3",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Monophasic liquids: ",
+                                    "paragraph": "Definitions and preparations of Gargles, Mouthwashes, Throat Paint, Eardrops, Nasal drops, Enemas, Syrups, Elixirs, Liniments and Lotions."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Suspensions)",
+                                    "paragraph": "Definition, advantages and disadvantages, classifications, Preparation of suspensions; Flocculated and Deflocculated suspension & stability problems and methods to overcome."
+                                },
+                                {
+                                    "header": "Biphasic liquids:- (Emulsions) ",
+                                    "paragraph": "Definition, classification, emulsifying agent, test for the identification of type ofEmulsion, Methods of preparation & stability problems and methods to overcome."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/media/notes/sem_1/pharmaceutics_1/units/unit_3/unit 3 pharmaceutics (Sem 1).pdf",
+                                    "download": true,
+                                    "card_is_pdf": true,
+                                    "card_large": true,
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/media/notes/sem_1/pharmaceutics_1/units/unit_3/Code_bKj2Y1lV5t.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutics_1/units/unit_3/notes_sem_1_pharmaceutics_1_units_unit_3.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

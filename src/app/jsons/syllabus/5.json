@@ -1,0 +1,427 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text_1": "",
+            "banner_text": "Vth Semester Syllabus",
+            "banner_text_2_span": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2": "B-Pharmacy",
+            "buttons": [],
+            "cards": [],
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Medicinal Chemistry 2",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Antihistaminic agents",
+                                    "paragraph": "Histamine, receptors and their distribution in the humanbody"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": "H1-antagonists: Diphenhydramine hydrochloride, Dimenhydrinate, Doxylamines cuccinate, Clemastine fumarate, Diphenylphyraline hydrochloride, Tripelenamine hydrochloride, Chlorcyclizine hydrochloride, Meclizine hydrochloride, Buclizine hydrochloride, Chlorpheniramine maleate, Triprolidine hydrochloride, Phenidamine tartarate, Promethazine hydrochloride, Trimeprazine tartrate, Cyproheptadine hydrochloride, Azatidine maleate, Astemizole, Loratadine, Cetirizine, Levocetrazine Cromolyn sodium<br>H2-antagonists: Cimetidine, Famotidine, Ranitidin.<br>Gastric Proton pump inhibitors: Omeprazole, Lansoprazole, Rabeprazole, Pantoprazole"
+                                },
+                                {
+                                    "header": "Anti-neoplastic agents",
+                                    "paragraph": "Alkylating agents: Meclorethamine, Cyclophosphamide, Melphalan, Chlorambucil, Busulfan, Thiotepa<br><br>Antimetabolites: Mercaptopurine, Thioguanine, Fluorouracil, Floxuridine, Cytarabine, Methotrexate, Azathioprine<br><br>Antibiotics: Dactinomycin, Daunorubicin, Doxorubicin, Bleomycin<br><br>Plant products: Etoposide, Vinblastin sulphate, Vincristin sulphate<br><br>Miscellaneous: Cisplatin, Mitotane."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Anti-anginal",
+                                    "paragraph": "Vasodilators: Amyl nitrite, Nitroglycerin, Pentaerythritol tetranitrate, Isosorbide dinitrite, Dipyridamole.<br>Calcium channel blockers: Verapamil, Bepridil hydrochloride, Diltiazem hydrochloride, Nifedipine, Amlodipine, Felodipine, Nicardipine, Nimodipine."
+                                },
+                                {
+                                    "header": "Diuretics",
+                                    "paragraph": "Carbonic anhydrase inhibitors: Acetazolamide, Methazolamide, Dichlorphenamide.<br><br>Thiazides: Chlorthiazide, Hydrochlorothiazide, Hydroflumethiazide, Cyclothiazide,<br><br>Loop diuretics: Furosemide, Bumetanide, Ethacrynic acid.<br><br>Potassium sparing Diuretics: Spironolactone, Triamterene, Amiloride.<br><br>Osmotic Diuretics: Mannitol"
+                                },
+                                {
+                                    "header": "Anti-hypertensive Agents",
+                                    "paragraph": "Timolol, Captopril, Lisinopril, Enalapril, Benazepril hydrochloride, Quinapril hydrochloride, Methyldopate hydrochloride,* Clonidine hydrochloride, Guanethidine monosulphate, Guanabenz acetate, Sodium nitroprusside, Diazoxide, Minoxidil, Reserpine, Hydralazine hydrochloride."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Anti-arrhythmic Drugs: ",
+                                    "paragraph": "Quinidine sulphate, Procainamide hydrochloride, Disopyramide phosphate, Phenytoin sodium, Lidocaine hydrochloride, Tocainide hydrochloride, Mexiletine hydrochloride, Lorcainide hydrochloride, Amiodarone, Sotalol."
+                                },
+                                {
+                                    "header": "Anti-hyperlipidemic agents:",
+                                    "paragraph": "Clofibrate, Lovastatin, Cholesteramine and Cholestipol"
+                                },
+                                {
+                                    "header": "Coagulant & Anticoagulants: ",
+                                    "paragraph": "Menadione, Acetomenadione, Warfarin, Anisindione, clopidogrel"
+                                },
+                                {
+                                    "header": "Drugs used in Congestive Heart Failure: ",
+                                    "paragraph": " Digoxin, Digitoxin, Nesiritide, Bosentan, Tezosentan."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Drugs acting on Endocrine system",
+                                    "paragraph": "Nomenclature, Stereochemistry and metabolism of steroid"
+                                },
+                                {
+                                    "header": "Sex hormones: ",
+                                    "paragraph": "Testosterone, Nandralone, Progestrones, Oestriol, Oestradiol, Oestrione, Diethyl stilbestrol."
+                                },
+                                {
+                                    "header": "Drugs for erectile dysfunction: ",
+                                    "paragraph": "Sildenafil, Tadalafil."
+                                },
+                                {
+                                    "header": "Oral contraceptives:",
+                                    "paragraph": "Mifepristone, Norgestril, Levonorgestrol"
+                                },
+                                {
+                                    "header": "Corticosteroids:",
+                                    "paragraph": "Cortisone, Hydrocortisone, Prednisolone, Betamethasone, Dexamethasone"
+                                },
+                                {
+                                    "header": "Thyroid and antithyroid drugs:",
+                                    "paragraph": "L-Thyroxine, L-Thyronine, Propylthiouracil, Methimazol"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Antidiabetic agents:",
+                                    "paragraph": "Insulin and its preparations"
+                                },
+                                {
+                                    "header": "Sulfonyl ureas: ",
+                                    "paragraph": "Tolbutamide, Chlorpropamide, Glipizide, Glimepiride."
+                                },
+                                {
+                                    "header": "Biguanides:",
+                                    "paragraph": "Metformin."
+                                },
+                                {
+                                    "header": "Thiazolidinediones:",
+                                    "paragraph": " Pioglitazone, Rosiglitazone"
+                                },
+                                {
+                                    "header": "Meglitinides:",
+                                    "paragraph": "Repaglinide, Nateglinide."
+                                },
+                                {
+                                    "header": "Glucosidase inhibitors:",
+                                    "paragraph": "Acrabose, Voglibose."
+                                },
+                                {
+                                    "header": "Local Anesthetics: ",
+                                    "paragraph": "SAR of Local anesthetics"
+                                },
+                                {
+                                    "header": "Benzoic Acid derivatives: ",
+                                    "paragraph": "Cocaine, Hexylcaine, Meprylcaine, Cyclomethycaine, Piperocaine."
+                                },
+                                {
+                                    "header": "Lidocaine/Anilide derivatives: ",
+                                    "paragraph": "Lignocaine, Mepivacaine, Prilocaine, Etidocaine."
+                                },
+                                {
+                                    "header": "Miscellaneous:",
+                                    "paragraph": "Phenacaine, Diperodon, Dibucaine.*"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Industrial Pharmacy 1",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Preformulation Studies: ",
+                                    "paragraph": " Introduction to preformulation, goals and objectives, study of physicochemical characteristics of drug substances.<br><br>Physical properties: Physical form (crystal & amorphous), particle size, shape, flow properties, solubility profile (pKa, pH, partition coefficient), polymorphism<br>Chemical Properties: Hydrolysis, oxidation, reduction, racemisation, polymerization<br>BCS classification of drugs & its significant<br><br>Application of preformulation considerations in the development of solid, liquid oral and parenteral dosage forms and its impact on stability of dosage forms."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Tablets:",
+                                    "paragraph": "Introduction, ideal characteristics of tablets, classification of tablets. Excipients, Formulation of tablets, granulation methods, compression and processing problems. Equipments and tablet tooling.<br>Tablet coating: Types of coating, coating materials, formulation of coating composition, methods of coating, equipment employed and defects in coating.<br>Quality control tests: In process and finished product tests Liquid orals: Formulation and manufacturing consideration of syrups and elixirs suspensions and emulsions; Filling and packaging; evaluation of liquid orals official in pharmacopoeia"
+                                },
+                                {
+                                    "header": "Liquid orals:",
+                                    "paragraph": "Formulation and manufacturing consideration of syrups and elixirs suspensions and emulsions; Filling and packaging; evaluation of liquid orals official in pharmacopoeia"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Capsules:",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Hard gelatin capsules:",
+                                    "paragraph": "Introduction, Production of hard gelatin capsule shells. size of capsules, Filling, finishing and special techniques of formulation of hard gelatin capsules, manufacturing defects. In process and final product quality control tests for capsules."
+                                },
+                                {
+                                    "header": "Soft gelatin capsules:",
+                                    "paragraph": "Nature of shell and capsule content, size of capsules,importance of base adsorption and minim/gram factors, production, in process and final product quality control tests. Packing, storage and stability testing of soft gelatin capsules and their applications."
+                                },
+                                {
+                                    "header": "Pellets:",
+                                    "paragraph": "Introduction, formulation requirements, pelletization process, equipments for manufacture of pellets"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Parenteral Products:",
+                                    "paragraph": "Definition, types, advantages and limitations. Preformulation factors and essential requirements, vehicles, additives, importance of isotonicity<br>Production procedure, production facilities and controls, aseptic processing<br>Formulation of injections, sterile powders, large volume parenterals and lyophilized products.<br>Containers and closures selection, filling and sealing of ampoules, vials and infusion fluids. Quality control tests of parenteral products."
+                                },
+                                {
+                                    "header": "Ophthalmic Preparations:",
+                                    "paragraph": "Introduction, formulation considerations; formulation of eye drops, eye ointments and eye lotions; methods of preparation; labeling, containers; evaluation of ophthalmic preparations"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Cosmetics:",
+                                    "paragraph": "Formulation and preparation of the following cosmetic preparations:<br><br>Lipsticks, shampoos, cold cream and vanishing cream, tooth pastes, hair dyes and sunscreens."
+                                },
+                                {
+                                    "header": "Pharmaceutical Aerosols:",
+                                    "paragraph": "Definition, propellants, containers, valves, types of aerosol systems; formulation and manufacture of aerosols; Evaluation of aerosols; Quality control and stability studies."
+                                },
+                                {
+                                    "header": "Packaging Materials Science:",
+                                    "paragraph": "Materials used for packaging of pharmaceutical products,<br><br>factors influencing choice of containers, legal and official requirements for containers,<br><br>stability aspects of packaging materials, quality control tests."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmacology 2",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on cardio vascular system",
+                                    "paragraph": "Introduction to hemodynamic and electrophysiology<br>Drugs used in congestive heart failure<br>Anti-hypertensive drugs.<br>Anti-anginal drugs.<br>Anti-arrhythmic drugs.<br>Anti-hyperlipidemic"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "1. Pharmacology of drugs acting on cardio vascular system",
+                                    "paragraph": "Drug used in the therapy of shock.<br>Hematinics, coagulants and anticoagulants.<br>Fibrinolytics and anti-platelet drugs<br>Plasma volume expanders"
+                                },
+                                {
+                                    "header": "2. Pharmacology of drugs acting on urinary system",
+                                    "paragraph": "Diuretics<br>Anti-diuretics."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "3. Autocoids and related drugs",
+                                    "paragraph": "Introduction to autacoids and classification<br>Histamine, 5-HT and their antagonists.<br>Prostaglandins, Thromboxanes and Leukotrienes.<br>Angiotensin, Bradykinin and Substance P. e. Non-steroidal anti-inflammatory agents<br>Anti-gout drugs<br>Antirheumatic drugs"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "5. Pharmacology of drugs acting on endocrine system",
+                                    "paragraph": "Basic concepts in endocrine pharmacology. b. Anterior Pituitary hormones- analogues and their inhibitors.<br>Thyroid hormones- analogues and their inhibitors.<br>Hormones regulating plasma calcium level- Parathormone, Calcitonin and Vitamin-D.<br>Insulin, Oral Hypoglycemic agents and glucagon.<br>ACTH and corticosteroids."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "5. Pharmacology of drugs acting on endocrine system",
+                                    "paragraph": "Androgens and Anabolic steroids.<br>Estrogens, progesterone and oral contraceptives.<br>Drugs acting on the uterus."
+                                },
+                                {
+                                    "header": "6. Bioassay",
+                                    "paragraph": "Principles and applications of bioassay.<br>Types of bioassay<br>Bioassay of insulin, oxytocin, vasopressin, ACTH,d-tubocurarine,digitalis, histamine and 5-HT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmacognosy 2",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Metabolic pathways in higher plants and their determination",
+                                    "paragraph": "Brief study of basic metabolic pathways and formation of different secondary metabolites through these pathways- Shikimic acid pathway, Acetate pathways and Amino acid pathway.<br>Study of utilization of radioactive isotopes in the investigation of Biogenetic studies."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "General introduction, composition, chemistry & chemical classes, biosources, therapeutic uses and commercial applications of following secondary metabolites:",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Isolation, Identification and Analysis of Phytoconstituents",
+                                    "paragraph": "terpenoids: Menthol, Citral, ArtemisinGlycosides: Glycyrhetinic acid & RutinAlkaloids: Atropine,Quinine,Reserpine,CaffeineResins: Podophyllotoxin, Curcumin"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Industrial production, estimation and utilization of the following phytoconstituents: Forskolin, Sennoside, Artemisinin, Diosgenin, Digoxin, Atropine, Podophyllotoxin, Caffeine, Taxol, Vincristine and Vinblastine"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Basics of Phytochemistry",
+                                    "paragraph": "Modern methods of extraction, application of latest techniques like Spectroscopy, chromatography and electrophoresis in the isolation, purification and identification of crude drugs."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Pharmaceutical Jurisprudence",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Drugs and Cosmetics Act, 1940 and its rules 1945:",
+                                    "paragraph": "Objectives, Definitions, Legal definitions of schedules to the Act and Rules<br><br>Import of drugs - Classes of drugs and cosmetics prohibited from import, Import under license or permit. Offences and penalties.<br><br>Manufacture of drugs - Prohibition of manufacture and sale of certain drugs,<br><br>Conditions for grant of license and conditions of license for manufacture of drugs,<br><br>Manufacture of drugs for test, examination and analysis, manufacture of new drug, loan license and repacking license."
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Drugs and Cosmetics Act, 1940 and its rules 1945:",
+                                    "paragraph": "Detailed study of Schedule G, H, M, N, P,T,U, V, X, Y, Part XII B, Sch F & DMR (OA)<br>Sale of Drugs - Wholesale, Retail sale and Restricted license. Offences and penalties<br><br>Labeling & Packing of drugs- General labeling requirements and specimen labels for<br><br>drugs and cosmetics, List of permitted colors. Offences and penalties.<br><br>Administration of the Act and Rules - Drugs Technical Advisory Board, Central drugs<br><br>Laboratory, Drugs Consultative Committee, Government drug analysts, Licensing<br><br>authorities, controlling authorities, Drugs Inspectors"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "Pharmacy Act -1948: ",
+                                    "paragraph": " Objectives, Definitions, Pharmacy Council of India; its constitution and functions, Education Regulations, State and Joint state pharmacy councils; constitution and functions, Registration of Pharmacists, Offences and Penalties"
+                                },
+                                {
+                                    "header": "Medicinal and Toilet Preparation Act -1955: ",
+                                    "paragraph": " Objectives, Definitions, Licensing, Manufacture In bond and Outside bond, Export of alcoholic preparations, Manufacture of Ayurvedic, Homeopathic, Patent & Proprietary Preparations. Offences and Penalties."
+                                },
+                                {
+                                    "header": "Narcotic Drugs and Psychotropic substances Act-1985 and Rules:",
+                                    "paragraph": "Objectives, Definitions, Authorities and Officers, Constitution and Functions of narcotic &Psychotropic Consultative Committee, National Fund for Controlling the Drug Abuse, Prohibition, Control and Regulation, opium poppy cultivation and production of poppy straw, manufacture, sale and export of opium, Offences and Penalties"
+                                },
+                                {
+                                    "header": "",
+                                    "paragraph": ""
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "Study of Salient Features of Drugs and Magic Remedies Act and its rules: ",
+                                    "paragraph": "Objectives, Definitions, Prohibition of certain advertisements, Classes of Exempted advertisements, Offences and Penalties"
+                                },
+                                {
+                                    "header": "Prevention of Cruelty to animals Act-1960: ",
+                                    "paragraph": "Objectives, Definitions, Institutional Animal Ethics Committee, CPCSEA guidelines for Breeding and Stocking of Animals, Performance of Experiments, Transfer and acquisition of animals for experiment, Records, Power to suspend or revoke registration, Offences and Penalties"
+                                },
+                                {
+                                    "header": "National Pharmaceutical Pricing Authority: ",
+                                    "paragraph": "Drugs Price Control Order (DPCO)- 2013. Objectives, Definitions, Sale prices of bulk drugs, Retail price of formulations, Retail price and ceiling price of scheduled formulations, National List of Essential Medicines (NLEM)"
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "Pharmaceutical Legislations ",
+                                    "paragraph": "A brief review, Introduction, Study of drugs enquiry committee, Health survey and development committee, Hathi committee and Mudaliar committee"
+                                },
+                                {
+                                    "header": "Code of Pharmaceutical ethics D efinition, Pharmacist in relation to his job, trade, medical profession and his profession, Pharmacist’s oath",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Medical Termination of Pregnancy Act",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Right to Information Act",
+                                    "paragraph": ""
+                                },
+                                {
+                                    "header": "Introduction to Intellectual Property Rights (IPR)",
+                                    "paragraph": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

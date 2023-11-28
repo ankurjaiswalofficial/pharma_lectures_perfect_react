@@ -1,0 +1,45 @@
+{
+    "semester": "VIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Novel Drug Delivery Systems",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "text_contents": [],
+            "buttons": [
+                {
+                    "link": "/uploads/important_questions/sem_7/novel_drug_delivery_systems/important_questions_sem_7_novel_drug_delivery_systems.pdf",
+                    "text": {
+                        "header": "Download PDF",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/download.png",
+                        "alt": "Important Questions Download Link Image",
+                        "about": "Important Questions Download Link Image"
+                    },
+                    "disabled": "true"
+                }
+            ],
+            "cards": [
+                {
+                    "link": "",
+                    "text": {
+                        "header": "",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "",
+                        "alt": "",
+                        "about": ""
+                    }
+                }
+            ],
+            "description_2": ""
+        }
+    ]
+}

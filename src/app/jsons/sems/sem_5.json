@@ -1,0 +1,210 @@
+{
+    "semester": "Vth",
+    "section_banners": [
+        {
+            "description": "study content",
+            "banner_text": "5th Semester Notes",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/notes/sem_5/medicinal_chemistry_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Medicinal Chemistry 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_5/industrial_pharmacy_1",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Industrial Pharmacy 1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_5/pharmacology_2",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pharmacology 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_5/pharmacognosy_2",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmacognosy 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/notes/sem_5/pharmaceutical_jurisprudence",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical Jurisprudence",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "Vth Sem. PYQ's",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/pyqs/sem_5",
+                    "text": {
+                        "header": "Industrial Pharmacy 1",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Industrial Pharmacy 1 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_5",
+                    "text": {
+                        "header": "Medicinal Chemistry 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Medicinal Chemistry 2 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_5",
+                    "text": {
+                        "header": "Pharmaceutical Jurisprudence",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Jurisprudence - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_5",
+                    "text": {
+                        "header": "Pharmacognosy 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacognosy 2 - Image"
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/pyqs/sem_5",
+                    "text": {
+                        "header": "Pharmacology 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacology 2 - Image"
+                    }
+                }
+            ]
+        },
+        {
+            "description": "study content",
+            "banner_text": "5th Semester Important Questions",
+            "buttons": [
+                {
+                    "link": "/b_pharmacy/important_questions/sem_5/medicinal_chemistry_2",
+                    "image": {
+                        "src": "/img/medical_book_1.png",
+                        "alt": "Medical Book Image 1",
+                        "about": "About Image 1"
+                    },
+                    "text": {
+                        "header": "Medicinal Chemistry 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_5/industrial_pharmacy_1",
+                    "image": {
+                        "src": "/img/medical_book_2.png",
+                        "alt": "Medical Book Image 2",
+                        "about": "About Image 2"
+                    },
+                    "text": {
+                        "header": "Industrial Pharmacy 1",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_5/pharmacology_2",
+                    "image": {
+                        "src": "/img/medical_book_3.png",
+                        "alt": "Medical Book Image 3",
+                        "about": "About Image 3"
+                    },
+                    "text": {
+                        "header": "Pharmacology 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_5/pharmacognosy_2",
+                    "image": {
+                        "src": "/img/medical_book_4.png",
+                        "alt": "Medical Book Image 4",
+                        "about": "About Image 4"
+                    },
+                    "text": {
+                        "header": "Pharmacognosy 2",
+                        "description": ""
+                    }
+                },
+                {
+                    "link": "/b_pharmacy/important_questions/sem_5/pharmaceutical_jurisprudence",
+                    "image": {
+                        "src": "/img/medical_book_5.png",
+                        "alt": "Medical Book Image 5",
+                        "about": "About Image 5"
+                    },
+                    "text": {
+                        "header": "Pharmaceutical Jurisprudence",
+                        "description": ""
+                    }
+                }
+            ],
+            "cards": [],
+            "description_2": "_________________________"
+        }
+    ]
+}

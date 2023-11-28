@@ -1,0 +1,183 @@
+{
+    "semester": "IIIrd",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "IIIrd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_engineering/aktu/pyqs_sem_3_pharmaceutical_engineering_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Engineering",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Engineering - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_microbiology/aktu/pyqs_sem_3_pharmaceutical_microbiology_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Microbiology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Microbiology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_organic_chemistry_2/aktu/pyqs_sem_3_pharmaceutical_organic_chemistry_2_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/physical_pharmaceutics/aktu/pyqs_sem_3_physical_pharmaceutics_aktu.pdf",
+                    "text": {
+                        "header": "Physical Pharmaceutics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Physical Pharmaceutics - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IIIrd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_engineering/rgpv/pyqs_sem_3_pharmaceutical_engineering_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Engineering",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Engineering - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_microbiology/rgpv/pyqs_sem_3_pharmaceutical_microbiology_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Microbiology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Microbiology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/pharmaceutical_organic_chemistry_2/rgpv/pyqs_sem_3_pharmaceutical_organic_chemistry_2_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Organic Chemistry 2",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Organic Chemistry 2 - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_3/physical_pharmaceutics/rgpv/pyqs_sem_3_physical_pharmaceutics_rgpv.pdf",
+                    "text": {
+                        "header": "Physical Pharmaceutics",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Physical Pharmaceutics - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IIIrd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_3/complete/csvtu/pyqs_sem_3_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "IIIrd Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_3/complete/snvp/pyqs_sem_3_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

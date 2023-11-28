@@ -1,0 +1,61 @@
+{
+    "semester": "IInd",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutical Organic Chemistry 1 - Unit 2",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Alkanes*, Alkenes* and Conjugated dienes*",
+                                    "paragraph": "SP3 hybridization in alkanes, Halogenation of alkanes, uses of paraffins. Stabilities of alkenes, SP2 hybridization in alkenes E1 and E2 reactions - kinetics, order of reactivity of alkyl halides, rearrangement of carbocations, Saytzeffs orientation and evidences. E1 verses E2 reactions, Factors affecting E1 and E2 reactions. Ozonolysis, electrophilic addition reactions of alkenes, Markownikoff\u00e2\u20ac\u2122s orientation, free radical addition reactions of alkenes, Anti Markownikoff\u00e2\u20ac\u2122s orientation. Stability of conjugated dienes, Diel-Alder, electrophilic addition, free radical addition reactions of conjugated dienes, allylic rearrangement"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": []
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_2/pharmaceutical_organic_chemistry_1/units/unit_2/notes_sem_2_pharmaceutical_organic_chemistry_1_units_unit_2.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

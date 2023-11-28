@@ -1,0 +1,196 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "Study Content",
+            "banner_text": "VIIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " AKTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_8/biostatistics_and_research_methodology/aktu/pyqs_sem_8_biostatistics_and_research_methodology_aktu.pdf",
+                    "text": {
+                        "header": "Biostatistics And Research Methodology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biostatistics And Research Methodology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/cosmetic_science/aktu/pyqs_sem_8_cosmetic_science_aktu.pdf",
+                    "text": {
+                        "header": "Cosmetic Science",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Cosmetic Science - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/pharmaceutical_marketing_and_management/aktu/pyqs_sem_8_pharmaceutical_marketing_and_management_aktu.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Marketing And Management",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Marketing And Management - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/social_and_preventive_pharmacy/aktu/pyqs_sem_8_social_and_preventive_pharmacy_aktu.pdf",
+                    "text": {
+                        "header": "Social And Preventive Pharmacy",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Social And Preventive Pharmacy - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/pharmacovigilance/aktu/pyqs_sem_8_pharmacovigilance_aktu.pdf",
+                    "text": {
+                        "header": "Pharmacovigilance",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmacovigilance - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " RGPV",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_8/biostatistics_and_research_methodology/rgpv/pyqs_sem_8_biostatistics_and_research_methodology_rgpv.pdf",
+                    "text": {
+                        "header": "Biostatistics And Research Methodology",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Biostatistics And Research Methodology - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/cosmetic_science/rgpv/pyqs_sem_8_cosmetic_science_rgpv.pdf",
+                    "text": {
+                        "header": "Cosmetic Science",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Cosmetic Science - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/pharmaceutical_marketing_and_management/rgpv/pyqs_sem_8_pharmaceutical_marketing_and_management_rgpv.pdf",
+                    "text": {
+                        "header": "Pharmaceutical Marketing And Management",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Pharmaceutical Marketing And Management - Image"
+                    },
+                    "disabled": "true"
+                },
+                {
+                    "link": "/uploads/pyqs/sem_8/social_and_preventive_pharmacy/rgpv/pyqs_sem_8_social_and_preventive_pharmacy_rgpv.pdf",
+                    "text": {
+                        "header": "Social And Preventive Pharmacy",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Social And Preventive Pharmacy - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " CSVTU",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_8/complete/csvtu/pyqs_sem_8_complete_csvtu.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        },
+        {
+            "description": "Study Content",
+            "banner_text": "VIIIth Sem. PYQ's",
+            "banner_text_1": "",
+            "banner_text_span": " SNVP",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "B-Pharmacy",
+            "cards": [],
+            "description_2": "",
+            "buttons": [
+                {
+                    "link": "/uploads/pyqs/sem_8/complete/snvp/pyqs_sem_8_complete_snvp.pdf",
+                    "text": {
+                        "header": "Complete",
+                        "description": ""
+                    },
+                    "image": {
+                        "src": "/img/question_paper.png",
+                        "alt": "Image",
+                        "about": "Complete - Image"
+                    },
+                    "disabled": "true"
+                }
+            ]
+        }
+    ]
+}

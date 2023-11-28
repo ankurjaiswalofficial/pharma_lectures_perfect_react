@@ -1,0 +1,81 @@
+{
+    "semester": "Ist",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Pharmaceutics 1 - Unit 4",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "Syllabus",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [
+                                {
+                                    "header": "Suppositories: ",
+                                    "paragraph": "Definition, types, advantages and disadvantages, types of bases, methods of preparations. Displacement value & its calculations, evaluation of suppositories."
+                                },
+                                {
+                                    "header": "Pharmaceutical incompatibilities: ",
+                                    "paragraph": "Definition, classification, physical, chemical and therapeutic incompatibilities with examples."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/media/notes/sem_1/pharmaceutics_1/units/unit_4/unit 4 pharmaceutics (Sem1).pdf",
+                                    "download": true,
+                                    "card_is_pdf": true,
+                                    "card_large": true,
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/media/notes/sem_1/pharmaceutics_1/units/unit_4/Code_NHoyJZtY4g.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "header": "Download Notes",
+                    "articles": [
+                        {
+                            "header": "",
+                            "contents": [],
+                            "has_button": "true",
+                            "buttons": [
+                                {
+                                    "link": "/uploads/notes/sem_1/pharmaceutics_1/units/unit_4/notes_sem_1_pharmaceutics_1_units_unit_4.pdf",
+                                    "text": {
+                                        "header": "Download",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/download.png",
+                                        "alt": "Notes Download Link Image",
+                                        "about": "Notes Download Link To PDF Image"
+                                    },
+                                    "disabled": "true"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}

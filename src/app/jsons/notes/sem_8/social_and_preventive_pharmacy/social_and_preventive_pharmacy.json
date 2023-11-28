@@ -1,0 +1,157 @@
+{
+    "semester": "VIIIth",
+    "section_banners": [
+        {
+            "description": "",
+            "banner_text_1": "",
+            "banner_text": "Social And Preventive Pharmacy",
+            "banner_text_2": "",
+            "banner_text_span": "",
+            "banner_text_1_span": "",
+            "banner_text_2_span": "",
+            "has_text_content": true,
+            "text_contents": [
+                {
+                    "header": "",
+                    "articles": [
+                        {
+                            "header": "Unit 1",
+                            "contents": [
+                                {
+                                    "header": "Concept of health and disease:",
+                                    "paragraph": "Definition, concepts and evaluation of public health. Understanding the concept of prevention and control of disease, social causes of diseases and social problems of the sick."
+                                },
+                                {
+                                    "header": "Social and health education: ",
+                                    "paragraph": "Food in relation to nutrition and health, Balanced diet, Nutritional deficiencies, Vitamin deficiencies, Malnutrition and its prevention."
+                                },
+                                {
+                                    "header": "Sociology and health:",
+                                    "paragraph": "Socio cultural factors related to health and disease, Impact of urbanization on health and disease, Poverty and health"
+                                },
+                                {
+                                    "header": "Hygiene and health: ",
+                                    "paragraph": "personal hygiene and health care; avoidable habits"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy/unit_1",
+                                    "text": {
+                                        "header": "Open Unit 1",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 2",
+                            "contents": [
+                                {
+                                    "header": "Preventive medicine:",
+                                    "paragraph": "General principles of prevention and control of diseases such as cholera, SARS, Ebola virus, influenza, acute respiratory infections, malaria, chicken guinea, dengue, lymphatic filariasis, pneumonia, hypertension, diabetes mellitus, cancer, drug addiction-drug substance abuse"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy/unit_2",
+                                    "text": {
+                                        "header": "Open Unit 2",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 3",
+                            "contents": [
+                                {
+                                    "header": "National health programs, its objectives, functioning and outcome of the following:",
+                                    "paragraph": "HIV AND AIDS control programme, TB, Integrated disease surveillance program (IDSP), National leprosy control programme, National mental health program, National programme for prevention and control of deafness, Universal immunization programme, National programme for control of blindness, Pulse polio programme"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy/unit_3",
+                                    "text": {
+                                        "header": "Open Unit 3",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 4",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "National health intervention programme for mother and child, National family welfare programme, National tobacco control programme, National Malaria Prevention Program, National programme for the health care for the elderly, Social health programme; role of WHO in Indian national program"
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy/unit_4",
+                                    "text": {
+                                        "header": "Open Unit 4",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "header": "Unit 5",
+                            "contents": [
+                                {
+                                    "header": "",
+                                    "paragraph": "Community services in rural, urban and school health: Functions of PHC, Improvement in rural sanitation, national urban health mission, Health promotion and education in school."
+                                }
+                            ],
+                            "has_button": true,
+                            "buttons": [
+                                {
+                                    "link": "/b_pharmacy/notes/sem_8/social_and_preventive_pharmacy/unit_5",
+                                    "text": {
+                                        "header": "Open Unit 5",
+                                        "description": ""
+                                    },
+                                    "image": {
+                                        "src": "/img/question_paper.png",
+                                        "alt": "Image",
+                                        "about": "Image"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "buttons": [],
+            "cards": [],
+            "description_2": ""
+        }
+    ]
+}
